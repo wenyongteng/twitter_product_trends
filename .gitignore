@@ -1,0 +1,64 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# Virtual Environment
+.venv/
+venv/
+ENV/
+env/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+logs/
+
+# Data (可能很大)
+data_sources/*.json
+data_sources/*.csv
+!data_sources/.gitkeep
+
+# Reports (保留结构但不提交具体报告)
+reports/*.md
+reports/*.json
+!reports/.gitkeep
+
+# Sensitive
+*.env
+.env
+config/*_secret.json
+*.key
+
+# Temporary
+tmp/
+temp/
+*.tmp

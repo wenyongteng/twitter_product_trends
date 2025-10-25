@@ -1,0 +1,44 @@
+{
+  "twitter": {
+    "kol_count": 300,
+    "days": 7,
+    "collector_path": "/Users/wenyongteng/twitter hot news/weekly_monitor",
+    "output_dir": "/Users/wenyongteng/vibe_coding/twitter_product_trends-20251022/data_sources"
+  },
+  "product_knowledge": {
+    "project_path": "/Users/wenyongteng/vibe_coding/product_knowledge-20251022",
+    "current_version": "v1_cleaned_20251025",
+    "versions_dir": "/Users/wenyongteng/vibe_coding/product_knowledge-20251022/versions",
+    "api_config": {
+      "auto_verify_web": false,
+      "fuzzy_threshold": 0.85,
+      "enable_web_verification": false
+    }
+  },
+  "extraction": {
+    "model": "openai/gpt-4o",
+    "api_key": "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",
+    "base_url": "https://openrouter.ai/api/v1",
+    "batch_size": 10,
+    "max_workers": 8,
+    "rate_limit_delay": 0.5
+  },
+  "classification": {
+    "min_mentions_for_new_product": 1,
+    "min_confidence_for_product": 0.6
+  },
+  "report": {
+    "output_dir": "/Users/wenyongteng/vibe_coding/twitter_product_trends-20251022/reports",
+    "min_mentions_for_trending": 3,
+    "include_product_metadata": true,
+    "top_products_count": 30,
+    "new_products_detail_limit": 20
+  },
+  "integration": {
+    "script_version": "v3",
+    "script_path": "/Users/wenyongteng/vibe_coding/twitter_product_trends-20251022/scripts/integrate_product_knowledge_v3.py",
+    "enable_company_filtering": true,
+    "enable_name_normalization": true,
+    "preserve_version_differences": true
+  }
+}
