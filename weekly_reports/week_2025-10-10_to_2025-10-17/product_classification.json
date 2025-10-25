@@ -1,0 +1,1472 @@
+{
+  "new_products": [
+    {
+      "name": "Claude",
+      "twitter_data": {
+        "mention_count": 77,
+        "top_kols": [
+          "ArtificialAnlys",
+          "ArtificialAnlys",
+          "ArtificialAnlys",
+          "ArtificialAnlys",
+          "ArtificialAnlys"
+        ],
+        "sentiment": {
+          "neutral": 67,
+          "positive": 10
+        },
+        "total_engagement": 18812,
+        "sample_tweets": [
+          {
+            "text": "Claude Haiku 4.5, rolling out to @code today\n\nLearn more: https://t.co/D8ghyOLgd0 https://t.co/s56SNBoTMn",
+            "kol": "code",
+            "rank": 4,
+            "followers": 770831,
+            "likes": 909,
+            "retweets": 102,
+            "created_at": "Wed Oct 15 19:04:52 +0000 2025",
+            "sentiment": "neutral",
+            "is_new": false
+          },
+          {
+            "text": "Compare Claude 4.5 Haiku to other models on Artificial Analysis:\n\nhttps://t.co/pWxqQBYac9",
+            "kol": "ArtificialAnlys",
+            "rank": 20,
+            "followers": 60488,
+            "likes": 11,
+            "retweets": 0,
+            "created_at": "Thu Oct 16 03:17:59 +0000 2025",
+            "sentiment": "neutral",
+            "is_new": false
+          },
+          {
+            "text": "Claude 4.5 Haiku is on the frontier for Anthropic models when looking at the trade-off between intelligence and cost to run the Artificial Analysis Intelligence Index. This makes Claude 4.5 Haiku a valid alternative to Claude 4.5 Sonnet for users who want to access ‘Claude’ at a cheaper price point",
+            "kol": "ArtificialAnlys",
+            "rank": 20,
+            "followers": 60488,
+            "likes": 11,
+            "retweets": 1,
+            "created_at": "Thu Oct 16 03:17:57 +0000 2025",
+            "sentiment": "neutral",
+            "is_new": false
+          }
+        ]
+      }
+    },
+    {
+      "name": "OpenAI",
+      "twitter_data": {
+        "mention_count": 74,
+        "top_kols": [
+          "DotCSV",
+          "DotCSV",
+          "ai_for_success",
+          "ai_for_success",
+          "kimmonismus"
+        ],
+        "sentiment": {
+          "neutral": 68,
+          "negative": 1,
+          "positive": 5
+        },
+        "total_engagement": 12987,
+        "sample_tweets": [
+          {
+            "text": "En este vídeo os enseñaré y comparamos:\n\n▷ OpenAI Agent Builder\n▷ Google Opal\n▷ N8N\n\nTres herramientas de automatización que debes de conocer!\n\nhttps://t.co/nr7V9jnhKK",
+            "kol": "DotCSV",
+            "rank": 1,
+            "followers": 195063,
+            "likes": 58,
+            "retweets": 7,
+            "created_at": "Sun Oct 12 17:01:47 +0000 2025",
+            "sentiment": "neutral",
+            "is_new": false
+          },
+          {
+            "text": "🔥🔥 ¡NUEVO VÍDEO en el LAB! 🔥🔥\n\nEsta semana OpenAI presentó su nueva herramienta de creación de AGENTES (...workflows) y muchos dieron por muerta a herramientas como n8n.\n\nLa realidad es otra y hoy te enseño 3 HERRAMIENTAS súper útiles para que empieces a automatizarlo TODO!",
+            "kol": "DotCSV",
+            "rank": 1,
+            "followers": 195063,
+            "likes": 502,
+            "retweets": 54,
+            "created_at": "Sun Oct 12 16:58:41 +0000 2025",
+            "sentiment": "neutral",
+            "is_new": false
+          },
+          {
+            "text": "Per Brad Gerstner (investor in OpenAI): OpenAI is release GPT-6 before end of the year! So in the next 1.5 months we will see another big release! https://t.co/DcYXW1iRY0",
+            "kol": "kimmonismus",
+            "rank": 3,
+            "followers": 86148,
+            "likes": 140,
+            "retweets": 10,
+            "created_at": "Fri Oct 17 08:14:20 +0000 2025",
+            "sentiment": "neutral",
+            "is_new": false
+          }
+        ]
+      }
+    },
+    {
+      "name": "Gemini",
+      "twitter_data": {
+        "mention_count": 52,
+        "top_kols": [
+          "ArtificialAnlys",
+          "ArtificialAnlys",
+          "ai_for_success",
+          "ai_for_success",
+          "scaling01"
+        ],
+        "sentiment": {
+          "neutral": 49,
+          "positive": 3
+        },
+        "total_engagement": 10422,
+        "sample_tweets": [
+          {
+            "text": "Google Gemini website hinting at Gemini 3.0 Pro\n\"our smartest model yet\" https://t.co/s7ypxTldeY",
+            "kol": "scaling01",
+            "rank": 8,
+            "followers": 22096,
+            "likes": 666,
+            "retweets": 20,
+            "created_at": "Wed Oct 15 19:49:02 +0000 2025",
+            "sentiment": "neutral",
+            "is_new": false
+          },
+          {
+            "text": "🚨 Google has rolled out a new unified playground experience in AI Studio, combining Chat, GenMedia, and Live in a single interface.  \n\nAll set for Gemini 3.0? What do you think?\nhttps://t.co/LoUcKsdGEG",
+            "kol": "ai_for_success",
+            "rank": 9,
+            "followers": 67813,
+            "likes": 179,
+            "retweets": 15,
+            "created_at": "Thu Oct 16 16:49:42 +0000 2025",
+            "sentiment": "neutral",
+            "is_new": true
+          },
+          {
+            "text": "When you see Gemini 3.0 Pro. https://t.co/CIJjaIIezG",
+            "kol": "ai_for_success",
+            "rank": 9,
+            "followers": 67813,
+            "likes": 831,
+            "retweets": 35,
+            "created_at": "Thu Oct 16 16:00:45 +0000 2025",
+            "sentiment": "neutral",
+            "is_new": false
+          }
+        ]
+      }
+    },
+    {
+      "name": "ChatGPT",
+      "twitter_data": {
+        "mention_count": 35,
+        "top_kols": [
+          "karpathy",
+          "scaling01"
+        ],
+        "sentiment": {
+          "neutral": 30,
+          "positive": 5
+        },
+        "total_engagement": 13983,
+        "sample_tweets": [
+          {
+            "text": "nanochat d32, i.e. the depth 32 version that I specced for $1000, up from $100 has finished training after ~33 hours, and looks good. All the metrics go up quite a bit across pretraining, SFT and RL. CORE score of 0.31 is now well above GPT-2 at ~0.26. GSM8K went ~8% -> ~20%, etc. So that's encouraging.\n\nThe model is pretty fun to talk to, but judging from some early interactions I think people have a little bit too much expectation for these micro models. There is a reason that frontier LLM labs raise billions to train their models. nanochat models cost $100 - $1000 to train from scratch. The $100 nanochat is 1/1000th the size of GPT-3 in parameters, which came out 5 years ago. So I urge some perspective. Talking to micro models you have to imagine you're talking to a kindergarten child. They say cute things, wrong things, they are a bit confused, a bit naive, sometimes a little non-sensical, they hallucinate a ton (but it's amusing), etc.\n\nFull detail/report on this run is here:\nhttps://t.co/nWbfKOZLIg\nAnd I pushed the new script run1000 sh to the nanochat repo if anyone would like to reproduce. Totally understand if you'd like to spend $1000 on something else :D\n\nIf you like, I am currently hosting the model so you can talk to it on a webchat as you'd talk to ChatGPT. I'm not going to post the URL here because I'm afraid it will get crushed. You'll have to look for it if you care enough. I'm also attaching a few funny conversations I had with the model earlier into the image, just to give a sense.\n\nNext up, I am going to do one pass of tuning and optimizing the training throughput, then maybe return back to scaling and maybe training the next tier of a bigger model.",
+            "kol": "karpathy",
+            "rank": 7,
+            "followers": 1405116,
+            "likes": 3426,
+            "retweets": 320,
+            "created_at": "Thu Oct 16 00:14:42 +0000 2025",
+            "sentiment": "neutral",
+            "is_new": true
+          },
+          {
+            "text": "Shit's going to be real fun in 5 years when ChatGPT is no longer growing and it becomes just another despicable subscription service like Netflix. They will start raising prices and monetize everything they can. (for all of humanity ofc)",
+            "kol": "scaling01",
+            "rank": 8,
+            "followers": 22096,
+            "likes": 139,
+            "retweets": 4,
+            "created_at": "Thu Oct 16 10:10:40 +0000 2025",
+            "sentiment": "neutral",
+            "is_new": false
+          },
+          {
+            "text": "“ChatGPT-6 is coming out before the end of the year”",
+            "kol": "btibor91",
+            "rank": 25,
+            "followers": 31609,
+            "likes": 738,
+            "retweets": 62,
+            "created_at": "Thu Oct 16 20:58:20 +0000 2025",
+            "sentiment": "neutral",
+            "is_new": false
+          }
+        ]
+      }
+    },
+    {
+      "name": "Anthropic",
+      "twitter_data": {
+        "mention_count": 25,
+        "top_kols": [
+          "ArtificialAnlys",
+          "ArtificialAnlys",
+          "ArtificialAnlys",
+          "scaling01",
+          "testingcatalog"
+        ],
+        "sentiment": {
+          "neutral": 25
+        },
+        "total_engagement": 2614,
+        "sample_tweets": [
+          {
+            "text": "Not a good metric. We already know that GPT-5 codex needs more actions / tools calls than Anthropic models",
+            "kol": "scaling01",
+            "rank": 8,
+            "followers": 22096,
+            "likes": 82,
+            "retweets": 2,
+            "created_at": "Thu Oct 16 00:43:58 +0000 2025",
+            "sentiment": "neutral",
+            "is_new": false
+          },
+          {
+            "text": "Anthropic released Microsoft 365 Connectors and Enterprise Search for Team and Enterprise accounts. https://t.co/jcMJG77oXc",
+            "kol": "testingcatalog",
+            "rank": 19,
+            "followers": 34948,
+            "likes": 130,
+            "retweets": 11,
+            "created_at": "Thu Oct 16 16:48:04 +0000 2025",
+            "sentiment": "neutral",
+            "is_new": true
+          },
+          {
+            "text": "Claude 4.5 Haiku is on the frontier for Anthropic models when looking at the trade-off between intelligence and cost to run the Artificial Analysis Intelligence Index. This makes Claude 4.5 Haiku a valid alternative to Claude 4.5 Sonnet for users who want to access ‘Claude’ at a cheaper price point",
+            "kol": "ArtificialAnlys",
+            "rank": 20,
+            "followers": 60488,
+            "likes": 11,
+            "retweets": 1,
+            "created_at": "Thu Oct 16 03:17:57 +0000 2025",
+            "sentiment": "neutral",
+            "is_new": false
+          }
+        ]
+      }
+    },
+    {
+      "name": "GPT-5",
+      "twitter_data": {
+        "mention_count": 21,
+        "top_kols": [
+          "ArtificialAnlys",
+          "ArtificialAnlys",
+          "scaling01",
+          "slow_developer"
+        ],
+        "sentiment": {
+          "neutral": 19,
+          "positive": 2
+        },
+        "total_engagement": 4205,
+        "sample_tweets": [
+          {
+            "text": "we finally know how close we are to AGI\n\nthe paper tested the GPT-4 and GPT-5 on human cognitive abilities:\n\n> GPT-5 scored 58% toward AGI\n> GPT-4 scored 27%\n\nthe research also shows \"jagged intelligence\", which helps explain why AI can feel both very impressive and surprisingly weak at the same time",
+            "kol": "slow_developer",
+            "rank": 5,
+            "followers": 51148,
+            "likes": 397,
+            "retweets": 60,
+            "created_at": "Fri Oct 17 00:10:00 +0000 2025",
+            "sentiment": "neutral",
+            "is_new": false
+          },
+          {
+            "text": "Not a good metric. We already know that GPT-5 codex needs more actions / tools calls than Anthropic models",
+            "kol": "scaling01",
+            "rank": 8,
+            "followers": 22096,
+            "likes": 82,
+            "retweets": 2,
+            "created_at": "Thu Oct 16 00:43:58 +0000 2025",
+            "sentiment": "neutral",
+            "is_new": false
+          },
+          {
+            "text": "Anthropic launches their first Haiku model in 11 months - Claude 4.5 Haiku jumps 35 points in Artificial Analysis Intelligence Index to become relevant again\n\nClaude 4.5 Haiku is 3x cheaper per token than Claude 4.5 Sonnet. Running the Artificial Analysis Intelligence Index costs $262 with Haiku vs. $817 with Sonnet (~3x more) - full cost breakdown in the thread below.\n\nThere is a stronger case for 4.5 Haiku’s intelligence/cost positioning than 3.5 Haiku, but there is a competitive field of cheaper alternatives with similar intelligence that may make more sense for developers without a reason to need a Claude model specifically - including gpt-oss-120b (reasoning high, ~$75) and Grok 4 Fast (~$40). Claude 4.5 Haiku is the most cost-effective way to access ‘Claude’ but is not the most cost effective model for its level of intelligence.\n\nKey benchmarking results:\n➤🧠 Model Intelligence: In reasoning mode, Claude 4.5 Haiku scores 55 on the Artificial Analysis Intelligence Index. This is 8 points lower than Claude 4.5 Sonnet (Thinking) and 4 points lower than Claude 4.1 Opus (Thinking). Claude 4.5 Haiku (Thinking) places marginally ahead of Gemini 2.5 Flash (Reasoning, 54) but behind other reasoning models such as Qwen3 235B 2507 (57), DeepSeek V3.2 Exp (57), and GLM 4.6 (56)\n➤📈 Intelligence Uplift: Anthropic released Claude 3.5 Haiku in November 2024, ~11 months before the release of Claude 4.5 Haiku. Claude 4.5 Haiku is a significant improvement in intelligence compared to Claude 3.5 Haiku, scoring 67% on GPQA Diamond in reasoning mode (compared to 41% for Claude 3.5 Haiku)\n➤⚙️ Notable Strengths: In reasonign mode, Claude 4.5 Haiku performs well in long-context reasoning (70% on AA-LCR, behind only GPT-5 High) and coding (43%, matching GPT-5 High and Gemini 2.5 Pro)\n➤⚡ Non-Reasoning Performance: In non-reasoning mode, Claude 4.5 Haiku scores 42 on the Artificial Analysis Intelligence Index. This places the model in line with GPT-5 (minimal, 43) but behind Gemini 2.5 Flash (non-reasoning, 47)\n➤💲 Pricing: Claude 4.5 Haiku is priced at $1/$5 per 1M input/output tokens, which makes it 3x cheaper compared to Claude 4.5 Sonnet (priced at $3/$15 per 1M input/output tokens)\n➤⚙️ Token Efficiency: Anthropic’s Claude models continue to be more token-efficient than all other reasoning models. For Claude 4.5 Haiku (Thinking) -evaluated with a maximum reasoning budget of 64k tokens - we see the model use 39M output tokens to run the Artificial Analysis Intelligence Index. Its token usage is lower than Claude 4.5 Sonnet (42M) but higher than Claude 4.1 Opus (30M) in thinking mode\n\nKey model details:\n\n➤📏 Context Window: 200K tokens. This is equivalent to Claude 4.5 Sonnet\n➤🌐 Availability: Claude 4.5 Haiku is available via Anthropic‘s API, Google Vertex and Amazon Bedrock. Claude 4.5 Haiku is also available via Claude, and Claude Code",
+            "kol": "ArtificialAnlys",
+            "rank": 20,
+            "followers": 60488,
+            "likes": 352,
+            "retweets": 37,
+            "created_at": "Thu Oct 16 03:17:55 +0000 2025",
+            "sentiment": "neutral",
+            "is_new": true
+          }
+        ]
+      }
+    },
+    {
+      "name": "Copilot",
+      "twitter_data": {
+        "mention_count": 17,
+        "top_kols": [
+          "satyanadella",
+          "satyanadella",
+          "satyanadella"
+        ],
+        "sentiment": {
+          "neutral": 15,
+          "positive": 1,
+          "negative": 1
+        },
+        "total_engagement": 5839,
+        "sample_tweets": [
+          {
+            "text": "Hey Copilot! Show everyone how we’re transforming how you interact with your Windows PC — so you can talk naturally, it can see what you see, and take action on your behalf. https://t.co/1YF1zK8Uj0",
+            "kol": "satyanadella",
+            "rank": 18,
+            "followers": 3494385,
+            "likes": 1699,
+            "retweets": 227,
+            "created_at": "Thu Oct 16 13:08:24 +0000 2025",
+            "sentiment": "neutral",
+            "is_new": false
+          },
+          {
+            "text": "This is super useful! With new Formula Completions in Excel, just type \"=\" and Copilot proactively suggests a formula, based on the context of your sheet. Here's a great example. https://t.co/elkGzHjZTW",
+            "kol": "satyanadella",
+            "rank": 18,
+            "followers": 3494385,
+            "likes": 2130,
+            "retweets": 302,
+            "created_at": "Tue Oct 14 19:03:08 +0000 2025",
+            "sentiment": "positive",
+            "is_new": true
+          },
+          {
+            "text": "These are all live today! Just go to the Agent Store in Copilot to try them out, along with dozens of others.\nLearn more: https://t.co/CTij41cg19",
+            "kol": "satyanadella",
+            "rank": 18,
+            "followers": 3494385,
+            "likes": 154,
+            "retweets": 20,
+            "created_at": "Sun Oct 12 20:57:51 +0000 2025",
+            "sentiment": "neutral",
+            "is_new": false
+          }
+        ]
+      }
+    },
+    {
+      "name": "claude",
+      "twitter_data": {
+        "mention_count": 14,
+        "top_kols": [
+          "karpathy"
+        ],
+        "sentiment": {
+          "neutral": 14
+        },
+        "total_engagement": 6181,
+        "sample_tweets": [
+          {
+            "text": "@zenitsu_aprntc Good question, it's basically entirely hand-written (with tab autocomplete). I tried to use claude/codex agents a few times but they just didn't work well enough at all and net unhelpful, possibly the repo is too far off the data distribution.",
+            "kol": "karpathy",
+            "rank": 7,
+            "followers": 1405116,
+            "likes": 1504,
+            "retweets": 102,
+            "created_at": "Mon Oct 13 15:27:55 +0000 2025",
+            "sentiment": "neutral",
+            "is_new": false
+          },
+          {
+            "text": "(4/n) 【利用方法・対象ユーザー】\n\n📱 https://t.co/Ph3Yd8Q9hk（Pro/Max/Team/Enterprise）\n設定から有効化→自動起動\n\n💻 API開発者\nMessages API + /v1/skills エンドポイント\nCode Execution Tool (beta) が必要\n\n⚙️ Claude Code\nプラグインからインストール\n~/.claude/skills に手動配置も可 https://t.co/TzsZelT38M",
+            "kol": "masahirochaen",
+            "rank": 50,
+            "followers": 172150,
+            "likes": 23,
+            "retweets": 0,
+            "created_at": "Thu Oct 16 22:02:12 +0000 2025",
+            "sentiment": "neutral",
+            "is_new": false
+          },
+          {
+            "text": "Or go try out Skills in claude dot ai: https://t.co/W5GdkvlVKL",
+            "kol": "alexalbert__",
+            "rank": 61,
+            "followers": 99437,
+            "likes": 54,
+            "retweets": 5,
+            "created_at": "Thu Oct 16 17:36:05 +0000 2025",
+            "sentiment": "neutral",
+            "is_new": false
+          }
+        ]
+      }
+    },
+    {
+      "name": "GoogleAIStudio",
+      "twitter_data": {
+        "mention_count": 14,
+        "top_kols": [
+          "testingcatalog"
+        ],
+        "sentiment": {
+          "neutral": 14
+        },
+        "total_engagement": 983,
+        "sample_tweets": [
+          {
+            "text": "@OfficialLoganK @GoogleAIStudio Aaaand a working model selector in the build section 🔥",
+            "kol": "testingcatalog",
+            "rank": 19,
+            "followers": 34948,
+            "likes": 40,
+            "retweets": 0,
+            "created_at": "Thu Oct 16 16:42:37 +0000 2025",
+            "sentiment": "neutral",
+            "is_new": false
+          },
+          {
+            "text": "@OfficialLoganK @GoogleAIStudio Logan can we get to know if Gemini Gemini Gemini is coming this month?",
+            "kol": "Angaisb_",
+            "rank": 24,
+            "followers": 5505,
+            "likes": 45,
+            "retweets": 0,
+            "created_at": "Thu Oct 16 16:37:44 +0000 2025",
+            "sentiment": "neutral",
+            "is_new": false
+          },
+          {
+            "text": "@alex_barashkov @GoogleAIStudio we are fixing this, a totally new billing experience will land in Jan :) long long time coming",
+            "kol": "OfficialLoganK",
+            "rank": 33,
+            "followers": 216323,
+            "likes": 19,
+            "retweets": 0,
+            "created_at": "Thu Oct 16 18:56:03 +0000 2025",
+            "sentiment": "neutral",
+            "is_new": true
+          }
+        ]
+      }
+    },
+    {
+      "name": "GPT-6",
+      "twitter_data": {
+        "mention_count": 12,
+        "top_kols": [
+          "ai_for_success",
+          "kimmonismus",
+          "slow_developer",
+          "testingcatalog"
+        ],
+        "sentiment": {
+          "neutral": 11,
+          "positive": 1
+        },
+        "total_engagement": 1261,
+        "sample_tweets": [
+          {
+            "text": "Per Brad Gerstner (investor in OpenAI): OpenAI is release GPT-6 before end of the year! So in the next 1.5 months we will see another big release! https://t.co/DcYXW1iRY0",
+            "kol": "kimmonismus",
+            "rank": 3,
+            "followers": 86148,
+            "likes": 140,
+            "retweets": 10,
+            "created_at": "Fri Oct 17 08:14:20 +0000 2025",
+            "sentiment": "neutral",
+            "is_new": false
+          },
+          {
+            "text": "GPT-6 before GTA-6\n\nit would be something no one expects right now.\n\nand surely the AI bubble isn't ready for what's coming",
+            "kol": "slow_developer",
+            "rank": 5,
+            "followers": 51148,
+            "likes": 59,
+            "retweets": 1,
+            "created_at": "Fri Oct 17 07:35:33 +0000 2025",
+            "sentiment": "neutral",
+            "is_new": false
+          },
+          {
+            "text": "GPT-6 by end of this year as per CNBC.\nhttps://t.co/PcrO0nP829",
+            "kol": "ai_for_success",
+            "rank": 9,
+            "followers": 67813,
+            "likes": 25,
+            "retweets": 3,
+            "created_at": "Fri Oct 17 00:37:49 +0000 2025",
+            "sentiment": "neutral",
+            "is_new": false
+          }
+        ]
+      }
+    },
+    {
+      "name": "Grok",
+      "twitter_data": {
+        "mention_count": 11,
+        "top_kols": [
+          "Artedeingenio",
+          "ArtificialAnlys"
+        ],
+        "sentiment": {
+          "neutral": 8,
+          "positive": 2,
+          "negative": 1
+        },
+        "total_engagement": 1701,
+        "sample_tweets": [
+          {
+            "text": "Anna Karenina in 80s OVA-style anime is something so beautiful and poetic 🚂❄️\n\nAnd it’s all thanks to Grok Imagine. https://t.co/bv0Zm2Tbpn",
+            "kol": "Artedeingenio",
+            "rank": 2,
+            "followers": 38294,
+            "likes": 7,
+            "retweets": 0,
+            "created_at": "Fri Oct 17 11:26:31 +0000 2025",
+            "sentiment": "neutral",
+            "is_new": false
+          },
+          {
+            "text": "Anthropic launches their first Haiku model in 11 months - Claude 4.5 Haiku jumps 35 points in Artificial Analysis Intelligence Index to become relevant again\n\nClaude 4.5 Haiku is 3x cheaper per token than Claude 4.5 Sonnet. Running the Artificial Analysis Intelligence Index costs $262 with Haiku vs. $817 with Sonnet (~3x more) - full cost breakdown in the thread below.\n\nThere is a stronger case for 4.5 Haiku’s intelligence/cost positioning than 3.5 Haiku, but there is a competitive field of cheaper alternatives with similar intelligence that may make more sense for developers without a reason to need a Claude model specifically - including gpt-oss-120b (reasoning high, ~$75) and Grok 4 Fast (~$40). Claude 4.5 Haiku is the most cost-effective way to access ‘Claude’ but is not the most cost effective model for its level of intelligence.\n\nKey benchmarking results:\n➤🧠 Model Intelligence: In reasoning mode, Claude 4.5 Haiku scores 55 on the Artificial Analysis Intelligence Index. This is 8 points lower than Claude 4.5 Sonnet (Thinking) and 4 points lower than Claude 4.1 Opus (Thinking). Claude 4.5 Haiku (Thinking) places marginally ahead of Gemini 2.5 Flash (Reasoning, 54) but behind other reasoning models such as Qwen3 235B 2507 (57), DeepSeek V3.2 Exp (57), and GLM 4.6 (56)\n➤📈 Intelligence Uplift: Anthropic released Claude 3.5 Haiku in November 2024, ~11 months before the release of Claude 4.5 Haiku. Claude 4.5 Haiku is a significant improvement in intelligence compared to Claude 3.5 Haiku, scoring 67% on GPQA Diamond in reasoning mode (compared to 41% for Claude 3.5 Haiku)\n➤⚙️ Notable Strengths: In reasonign mode, Claude 4.5 Haiku performs well in long-context reasoning (70% on AA-LCR, behind only GPT-5 High) and coding (43%, matching GPT-5 High and Gemini 2.5 Pro)\n➤⚡ Non-Reasoning Performance: In non-reasoning mode, Claude 4.5 Haiku scores 42 on the Artificial Analysis Intelligence Index. This places the model in line with GPT-5 (minimal, 43) but behind Gemini 2.5 Flash (non-reasoning, 47)\n➤💲 Pricing: Claude 4.5 Haiku is priced at $1/$5 per 1M input/output tokens, which makes it 3x cheaper compared to Claude 4.5 Sonnet (priced at $3/$15 per 1M input/output tokens)\n➤⚙️ Token Efficiency: Anthropic’s Claude models continue to be more token-efficient than all other reasoning models. For Claude 4.5 Haiku (Thinking) -evaluated with a maximum reasoning budget of 64k tokens - we see the model use 39M output tokens to run the Artificial Analysis Intelligence Index. Its token usage is lower than Claude 4.5 Sonnet (42M) but higher than Claude 4.1 Opus (30M) in thinking mode\n\nKey model details:\n\n➤📏 Context Window: 200K tokens. This is equivalent to Claude 4.5 Sonnet\n➤🌐 Availability: Claude 4.5 Haiku is available via Anthropic‘s API, Google Vertex and Amazon Bedrock. Claude 4.5 Haiku is also available via Claude, and Claude Code",
+            "kol": "ArtificialAnlys",
+            "rank": 20,
+            "followers": 60488,
+            "likes": 352,
+            "retweets": 37,
+            "created_at": "Thu Oct 16 03:17:55 +0000 2025",
+            "sentiment": "neutral",
+            "is_new": true
+          },
+          {
+            "text": "Ani won.\nGrok won. https://t.co/XrLBlhFAR3",
+            "kol": "ns123abc",
+            "rank": 75,
+            "followers": 43155,
+            "likes": 49,
+            "retweets": 1,
+            "created_at": "Fri Oct 17 07:49:45 +0000 2025",
+            "sentiment": "neutral",
+            "is_new": false
+          }
+        ]
+      }
+    },
+    {
+      "name": "Cursor",
+      "twitter_data": {
+        "mention_count": 11,
+        "top_kols": [],
+        "sentiment": {
+          "neutral": 10,
+          "positive": 1
+        },
+        "total_engagement": 527,
+        "sample_tweets": [
+          {
+            "text": "Cursor Meetup Osaka のモノタロウさんの発表も、意外なことに？、IDE よりも Devin の方が効果（PR数）が明らかでした。非常に興味深い点です。 https://t.co/1tbGYMkCIz",
+            "kol": "kinopee_ai",
+            "rank": 86,
+            "followers": 12209,
+            "likes": 10,
+            "retweets": 1,
+            "created_at": "Fri Oct 17 08:41:48 +0000 2025",
+            "sentiment": "neutral",
+            "is_new": false
+          },
+          {
+            "text": "Cursor Agent Review、CodeRabbit でも検出0のブランチで4件問題検出。ただし、この内容を GPT-5-Codex に確認させたら、対応の必要はなし。\nツールごとに差異があるのはいつものことだけど、今回は少しブレ幅が大きい気がする。 https://t.co/3strZudx2G",
+            "kol": "kinopee_ai",
+            "rank": 86,
+            "followers": 12209,
+            "likes": 7,
+            "retweets": 0,
+            "created_at": "Fri Oct 17 07:19:54 +0000 2025",
+            "sentiment": "neutral",
+            "is_new": false
+          },
+          {
+            "text": "In terms of Cursor extensions and MCP tools, I use two:\n\n- Context 7, which pulls in documentation for libraries\n- Perplexity's MCP server (much better than Cursors built-in search. )\n\nDocs here: https://t.co/ELxRjy0xc5",
+            "kol": "maccaw",
+            "rank": 97,
+            "followers": 39332,
+            "likes": 7,
+            "retweets": 0,
+            "created_at": "Thu Oct 16 17:20:30 +0000 2025",
+            "sentiment": "neutral",
+            "is_new": false
+          }
+        ]
+      }
+    },
+    {
+      "name": "VS Code",
+      "twitter_data": {
+        "mention_count": 9,
+        "top_kols": [
+          "code",
+          "code",
+          "code",
+          "code",
+          "code"
+        ],
+        "sentiment": {
+          "neutral": 7,
+          "positive": 2
+        },
+        "total_engagement": 803,
+        "sample_tweets": [
+          {
+            "text": "#TBT to the VS Code Dev Days across North America! 🌎\n\nFrom coast to coast, local communities in the United States and Canada hosted 16 events packed with inspiring talks and hands-on coding sessions, bringing developers together to learn, build, and connect. \n\nSpecial thanks to @ProgressSW for supporting events in Boston, Chicago, Raleigh and Tulsa! 💻⚡\n\nHere’s a look at some of those moments 👇",
+            "kol": "code",
+            "rank": 4,
+            "followers": 770831,
+            "likes": 29,
+            "retweets": 4,
+            "created_at": "Thu Oct 16 22:05:07 +0000 2025",
+            "sentiment": "neutral",
+            "is_new": false
+          },
+          {
+            "text": "@ProgressSW In Peru, local communities hosted 3 VS Code Dev Days in Lima, featuring talks and hands-on sessions for developers to learn and practice new skills. 💻✨ https://t.co/XcWsLhX25Q",
+            "kol": "code",
+            "rank": 4,
+            "followers": 770831,
+            "likes": 13,
+            "retweets": 0,
+            "created_at": "Thu Oct 16 18:15:32 +0000 2025",
+            "sentiment": "neutral",
+            "is_new": true
+          },
+          {
+            "text": "@ProgressSW Next stop: Mexico! ⚡\n\nVS Code Dev Days brought developers together in Monterrey, Tuxtla Gutiérrez, and Mexico City, sharing knowledge, building projects, and connecting as a community 💙 https://t.co/F7eSprTeNJ",
+            "kol": "code",
+            "rank": 4,
+            "followers": 770831,
+            "likes": 5,
+            "retweets": 0,
+            "created_at": "Thu Oct 16 18:15:32 +0000 2025",
+            "sentiment": "neutral",
+            "is_new": false
+          }
+        ]
+      }
+    },
+    {
+      "name": "gemini",
+      "twitter_data": {
+        "mention_count": 9,
+        "top_kols": [],
+        "sentiment": {
+          "positive": 1,
+          "neutral": 7,
+          "negative": 1
+        },
+        "total_engagement": 1803,
+        "sample_tweets": [
+          {
+            "text": "gemini 3 pro just created this incredible svg painting guys https://t.co/tXqsjnEzmv",
+            "kol": "adonis_singh",
+            "rank": 55,
+            "followers": 13976,
+            "likes": 385,
+            "retweets": 8,
+            "created_at": "Tue Oct 14 23:53:16 +0000 2025",
+            "sentiment": "positive",
+            "is_new": false
+          },
+          {
+            "text": "gemini 3 got me o3 levels of excited",
+            "kol": "adonis_singh",
+            "rank": 55,
+            "followers": 13976,
+            "likes": 500,
+            "retweets": 15,
+            "created_at": "Tue Oct 14 21:16:26 +0000 2025",
+            "sentiment": "neutral",
+            "is_new": false
+          },
+          {
+            "text": "we somehow have more demos of gemini 3 before it's release than we ever did for 2.5 pro",
+            "kol": "adonis_singh",
+            "rank": 55,
+            "followers": 13976,
+            "likes": 406,
+            "retweets": 5,
+            "created_at": "Tue Oct 14 15:54:25 +0000 2025",
+            "sentiment": "neutral",
+            "is_new": false
+          }
+        ]
+      }
+    },
+    {
+      "name": "launched",
+      "twitter_data": {
+        "mention_count": 9,
+        "top_kols": [],
+        "sentiment": {
+          "neutral": 8,
+          "positive": 1
+        },
+        "total_engagement": 1431,
+        "sample_tweets": [
+          {
+            "text": "Axios broke this a few minutes ago. This is the first person to join the OpenAI for Science initiative launched by Kevin Weil.",
+            "kol": "AndrewCurran_",
+            "rank": 84,
+            "followers": 34611,
+            "likes": 288,
+            "retweets": 10,
+            "created_at": "Thu Oct 16 14:12:48 +0000 2025",
+            "sentiment": "neutral",
+            "is_new": true
+          },
+          {
+            "text": "BOOM: We've just re-launched HuggingChat v2 💬 - 115 open source models in a single interface is stronger than ChatGPT 🔥\n\nIntroducing: HuggingChat Omni 💫\n> Select the best model for every prompt automatically 🚀\n> Automatic model selection for your queries\n> 115 models available across 15 providers including @GroqInc, @CerebrasSystems, @togethercompute, @novita_labs, and more\n\nPowered by HF Inference Providers — access hundreds of AI models using only world-class inference providers\n\nOmni uses a policy-based approach to model selection (after experimenting with different methods). Credits to @katanemo_ for their small routing model: katanemo/Arch-Router-1.5B\n\nComing next:\n• MCP support with web search\n• File support\n• Omni routing selection improvements\n• Customizable policies\n\nTry it out today at hf[dot] co/chat 🤗",
+            "kol": "reach_vb",
+            "rank": 96,
+            "followers": 33405,
+            "likes": 381,
+            "retweets": 51,
+            "created_at": "Thu Oct 16 16:03:28 +0000 2025",
+            "sentiment": "positive",
+            "is_new": true
+          },
+          {
+            "text": "Google has launched DeepSomatic, a powerful AI tool that finds cancer-causing genetic changes in tumor DNA. \n\nUnlike earlier methods, DeepSomatic works across multiple sequencing technologies and cancer types even in tricky cases like blood cancers where normal cells aren't available. \n\nTrained using a new high-quality dataset (CASTLE), the AI turns DNA data into images and uses neural networks to detect harmful mutations while filtering out errors. \n\nIt outperforms older tools, especially in catching harder-to-spot changes like insertions or deletions. \n\nGoogle hopes this tool will speed up cancer research and help doctors deliver more accurate, personalized treatments based on each tumor’s unique DNA profile.",
+            "kol": "WesRothMoney",
+            "rank": 107,
+            "followers": 22808,
+            "likes": 6,
+            "retweets": 0,
+            "created_at": "Fri Oct 17 11:00:02 +0000 2025",
+            "sentiment": "neutral",
+            "is_new": true
+          }
+        ]
+      }
+    },
+    {
+      "name": "Lovable",
+      "twitter_data": {
+        "mention_count": 9,
+        "top_kols": [],
+        "sentiment": {
+          "neutral": 8,
+          "positive": 1
+        },
+        "total_engagement": 1675,
+        "sample_tweets": [
+          {
+            "text": "A year ago, we weren’t thinking much about enterprise. But it's now it's becoming a significant part of Lovable's revenue.\n\nEnterprises use Lovable to design, prototype, and build software faster. They collaborate across product, design, and engineering without losing speed.\n\nWe’ve built the features that make it possible: security, SSO, collaboration, design systems, and the reliability large companies need. Several companies have told us Lovable is the fastest-adopted tool they’ve ever rolled out internally.\n\nWe didn’t plan for this early on, but it has become a big part of where Lovable is growing.",
+            "kol": "antonosika",
+            "rank": 119,
+            "followers": 64457,
+            "likes": 192,
+            "retweets": 7,
+            "created_at": "Thu Oct 16 15:57:11 +0000 2025",
+            "sentiment": "neutral",
+            "is_new": false
+          },
+          {
+            "text": "TL;DR Lovable just got a lot more powerful, and people like it so much the demand is spiking.\n\nWe’re now focused on expanding capacity and making Lovable Cloud even stronger.",
+            "kol": "antonosika",
+            "rank": 119,
+            "followers": 64457,
+            "likes": 26,
+            "retweets": 0,
+            "created_at": "Wed Oct 15 16:00:35 +0000 2025",
+            "sentiment": "neutral",
+            "is_new": false
+          },
+          {
+            "text": "Since Lovable Cloud runs on Supabase, this growth contributed to doubling Supabase’s weekly database creation.\n\n//4",
+            "kol": "antonosika",
+            "rank": 119,
+            "followers": 64457,
+            "likes": 12,
+            "retweets": 0,
+            "created_at": "Wed Oct 15 16:00:29 +0000 2025",
+            "sentiment": "neutral",
+            "is_new": false
+          }
+        ]
+      }
+    },
+    {
+      "name": "OfficialLoganK",
+      "twitter_data": {
+        "mention_count": 8,
+        "top_kols": [
+          "testingcatalog"
+        ],
+        "sentiment": {
+          "neutral": 8
+        },
+        "total_engagement": 271,
+        "sample_tweets": [
+          {
+            "text": "@OfficialLoganK @GoogleAIStudio Aaaand a working model selector in the build section 🔥",
+            "kol": "testingcatalog",
+            "rank": 19,
+            "followers": 34948,
+            "likes": 40,
+            "retweets": 0,
+            "created_at": "Thu Oct 16 16:42:37 +0000 2025",
+            "sentiment": "neutral",
+            "is_new": false
+          },
+          {
+            "text": "@OfficialLoganK @GoogleAIStudio Logan can we get to know if Gemini Gemini Gemini is coming this month?",
+            "kol": "Angaisb_",
+            "rank": 24,
+            "followers": 5505,
+            "likes": 45,
+            "retweets": 0,
+            "created_at": "Thu Oct 16 16:37:44 +0000 2025",
+            "sentiment": "neutral",
+            "is_new": false
+          },
+          {
+            "text": "@OfficialLoganK veo veo veo v?",
+            "kol": "adonis_singh",
+            "rank": 55,
+            "followers": 13976,
+            "likes": 13,
+            "retweets": 0,
+            "created_at": "Wed Oct 15 11:14:55 +0000 2025",
+            "sentiment": "neutral",
+            "is_new": false
+          }
+        ]
+      }
+    },
+    {
+      "name": "Qwen",
+      "twitter_data": {
+        "mention_count": 8,
+        "top_kols": [],
+        "sentiment": {
+          "neutral": 7,
+          "positive": 1
+        },
+        "total_engagement": 1434,
+        "sample_tweets": [
+          {
+            "text": "iPhoneやMacで重量級画像生成AIをローカル実行できる「Draw Things」を使ってみたよレビュー、Qwen Imageのような大型モデルも実行可能\nhttps://t.co/0gJa1OO1xV",
+            "kol": "gigazine",
+            "rank": 26,
+            "followers": 613564,
+            "likes": 10,
+            "retweets": 0,
+            "created_at": "Fri Oct 17 03:13:19 +0000 2025",
+            "sentiment": "neutral",
+            "is_new": false
+          },
+          {
+            "text": "Check out Qwen 3 VL 8b Thinking and Qwen 3 VL 8b Instruct vs. all the best AI models at: https://t.co/gxIFU9kamu",
+            "kol": "arena",
+            "rank": 114,
+            "followers": 95099,
+            "likes": 6,
+            "retweets": 0,
+            "created_at": "Tue Oct 14 18:33:16 +0000 2025",
+            "sentiment": "positive",
+            "is_new": false
+          },
+          {
+            "text": "🚨 New model drops!\n\nQwen 3 VL 8b Thinking and Qwen 3 VL 8b Instruct have entered the Text and Vision Arenas!\n\n@Alibaba_Qwen's Qwen3-VL just got lighter, but with the same full-stack capabilities, let's see how they rank on the leaderboards. \n\n🗳️ Get prompting in Battle mode with your toughest real-world use cases, and through your votes, we'll know soon!",
+            "kol": "arena",
+            "rank": 114,
+            "followers": 95099,
+            "likes": 181,
+            "retweets": 17,
+            "created_at": "Tue Oct 14 18:33:16 +0000 2025",
+            "sentiment": "neutral",
+            "is_new": true
+          }
+        ]
+      }
+    },
+    {
+      "name": "sama",
+      "twitter_data": {
+        "mention_count": 8,
+        "top_kols": [],
+        "sentiment": {
+          "neutral": 7,
+          "negative": 1
+        },
+        "total_engagement": 369,
+        "sample_tweets": [
+          {
+            "text": "@kate_rouch @OpenAI @sama @FidjiSimo Wonderful news! OpenAI will also make a big impact in the war against cancer. You are making the world a better place!",
+            "kol": "DeryaTR_",
+            "rank": 66,
+            "followers": 320173,
+            "likes": 5,
+            "retweets": 0,
+            "created_at": "Fri Oct 17 01:10:16 +0000 2025",
+            "sentiment": "neutral",
+            "is_new": true
+          },
+          {
+            "text": "@sama Sam does it make you stay awake at night knowing users are going to make erotic fiction of you and Shrek being visited by 4o in a gimp outfit ?",
+            "kol": "apples_jimmy",
+            "rank": 87,
+            "followers": 58706,
+            "likes": 115,
+            "retweets": 1,
+            "created_at": "Wed Oct 15 03:29:56 +0000 2025",
+            "sentiment": "neutral",
+            "is_new": false
+          },
+          {
+            "text": "@kate_rouch @OpenAI @sama @FidjiSimo congrats 🫶",
+            "kol": "rauchg",
+            "rank": 134,
+            "followers": 302880,
+            "likes": 9,
+            "retweets": 0,
+            "created_at": "Thu Oct 16 17:44:35 +0000 2025",
+            "sentiment": "neutral",
+            "is_new": false
+          }
+        ]
+      }
+    },
+    {
+      "name": "GaryMarcus",
+      "twitter_data": {
+        "mention_count": 7,
+        "top_kols": [
+          "kimmonismus"
+        ],
+        "sentiment": {
+          "neutral": 6,
+          "negative": 1
+        },
+        "total_engagement": 299,
+        "sample_tweets": [
+          {
+            "text": "@GaryMarcus @DeryaTR_ \"you used to be a scientist\"? I am nowhere near in the same league as @DeryaTR_ , but there are few academics who do as much for the future and science as he does. Not only is he a renowned researcher, but he also manages to make knowledge accessible to everyone and convey it in a language that everyone can understand.",
+            "kol": "kimmonismus",
+            "rank": 3,
+            "followers": 86148,
+            "likes": 48,
+            "retweets": 0,
+            "created_at": "Thu Oct 16 20:58:07 +0000 2025",
+            "sentiment": "neutral",
+            "is_new": false
+          },
+          {
+            "text": "@GaryMarcus Just stop attacking me online. Or assuming that I am somehow always posting about you. This whole interaction makes me sad as we have some overlap in our views but it is impossible to discuss given both your approach &amp; the way X works. Hopefully next time in person will be better",
+            "kol": "emollick",
+            "rank": 21,
+            "followers": 290491,
+            "likes": 17,
+            "retweets": 1,
+            "created_at": "Fri Oct 17 02:45:53 +0000 2025",
+            "sentiment": "neutral",
+            "is_new": false
+          },
+          {
+            "text": "@GaryMarcus I am at a loss. I respect your role (even if we disagree about some things) but you are so openly hostile on X all the time. It has become so unpleasant to see that you mention me, it is always a personal attack followed by your followers calling me names.\n\nJust stop, please.",
+            "kol": "emollick",
+            "rank": 21,
+            "followers": 290491,
+            "likes": 22,
+            "retweets": 1,
+            "created_at": "Fri Oct 17 02:35:18 +0000 2025",
+            "sentiment": "neutral",
+            "is_new": false
+          }
+        ]
+      }
+    },
+    {
+      "name": "GPT-4",
+      "twitter_data": {
+        "mention_count": 7,
+        "top_kols": [
+          "ArtificialAnlys",
+          "slow_developer"
+        ],
+        "sentiment": {
+          "neutral": 6,
+          "positive": 1
+        },
+        "total_engagement": 845,
+        "sample_tweets": [
+          {
+            "text": "we finally know how close we are to AGI\n\nthe paper tested the GPT-4 and GPT-5 on human cognitive abilities:\n\n> GPT-5 scored 58% toward AGI\n> GPT-4 scored 27%\n\nthe research also shows \"jagged intelligence\", which helps explain why AI can feel both very impressive and surprisingly weak at the same time",
+            "kol": "slow_developer",
+            "rank": 5,
+            "followers": 51148,
+            "likes": 397,
+            "retweets": 60,
+            "created_at": "Fri Oct 17 00:10:00 +0000 2025",
+            "sentiment": "neutral",
+            "is_new": false
+          },
+          {
+            "text": "GPQA Diamond and 𝜏²-Bench Telecom (an agentic benchmark requiring models to act in a customer service role) both show outsized performance for GPT-5 and o3 compared to GPT-4.1, but while the reasoning models cost >10x to run GPQA, in 𝜏²’s customer service environment they cost about the same as GPT-4.1. o3 and GPT-4.1 now have equal token costs, so these differences are driven entirely by efficiency.",
+            "kol": "ArtificialAnlys",
+            "rank": 20,
+            "followers": 60488,
+            "likes": 16,
+            "retweets": 1,
+            "created_at": "Wed Oct 15 20:39:21 +0000 2025",
+            "sentiment": "neutral",
+            "is_new": false
+          },
+          {
+            "text": "I use a Mac app called \"Spokenly\" to dictate everything, so I move at the speed of speech. Right now I'm finding the online GPT-4.0 mini transcribe model the best.",
+            "kol": "maccaw",
+            "rank": 97,
+            "followers": 39332,
+            "likes": 9,
+            "retweets": 0,
+            "created_at": "Thu Oct 16 17:20:33 +0000 2025",
+            "sentiment": "positive",
+            "is_new": false
+          }
+        ]
+      }
+    },
+    {
+      "name": "testingcatalog",
+      "twitter_data": {
+        "mention_count": 7,
+        "top_kols": [],
+        "sentiment": {
+          "neutral": 7
+        },
+        "total_engagement": 161,
+        "sample_tweets": [
+          {
+            "text": "@k_kohlbrenner @testingcatalog @OpenAI @ChatGPTapp Thank you",
+            "kol": "btibor91",
+            "rank": 25,
+            "followers": 31609,
+            "likes": 27,
+            "retweets": 1,
+            "created_at": "Thu Oct 16 20:58:27 +0000 2025",
+            "sentiment": "neutral",
+            "is_new": false
+          },
+          {
+            "text": "@testingcatalog @GoogleAIStudio yes, very fun for testing",
+            "kol": "OfficialLoganK",
+            "rank": 33,
+            "followers": 216323,
+            "likes": 35,
+            "retweets": 0,
+            "created_at": "Thu Oct 16 16:47:11 +0000 2025",
+            "sentiment": "neutral",
+            "is_new": false
+          },
+          {
+            "text": "@FeltSteam @k_kohlbrenner @btibor91 @testingcatalog @OpenAI @ChatGPTapp Yeah, maybe GPT-5.5.  It's just hard for me to imagine them releasing GPT-5 and GPT-6 within a few months of each other - from a marketing perspective.",
+            "kol": "deredleritt3r",
+            "rank": 154,
+            "followers": 4076,
+            "likes": 7,
+            "retweets": 0,
+            "created_at": "Thu Oct 16 21:47:30 +0000 2025",
+            "sentiment": "neutral",
+            "is_new": false
+          }
+        ]
+      }
+    },
+    {
+      "name": "eliebakouch",
+      "twitter_data": {
+        "mention_count": 6,
+        "top_kols": [
+          "karpathy"
+        ],
+        "sentiment": {
+          "neutral": 6
+        },
+        "total_engagement": 82,
+        "sample_tweets": [
+          {
+            "text": "@eliebakouch @rasbt Very early on in the project I did a small run with/without QK norm and found that it helped. Same for the embedding weight sharing. I'll retry!\n\nI'm not tied to any details of the model and they weren't chosen any more carefully than a single run, I spent most of the time just arranging the harness. Now it's a good time to experiment again.",
+            "kol": "karpathy",
+            "rank": 7,
+            "followers": 1405116,
+            "likes": 53,
+            "retweets": 1,
+            "created_at": "Mon Oct 13 16:23:01 +0000 2025",
+            "sentiment": "neutral",
+            "is_new": false
+          },
+          {
+            "text": "@eliebakouch also wrt attention, check out gated attention, free lunch at all scales essentially.",
+            "kol": "kalomaze",
+            "rank": 155,
+            "followers": 19566,
+            "likes": 5,
+            "retweets": 0,
+            "created_at": "Thu Oct 16 14:49:21 +0000 2025",
+            "sentiment": "neutral",
+            "is_new": false
+          },
+          {
+            "text": "@eliebakouch i see hybrids as mainly being kinda proto-NSA or sparse attention in some ways. mamba is unique in the sense that it could compress more, but ends up not",
+            "kol": "kalomaze",
+            "rank": 155,
+            "followers": 19566,
+            "likes": 5,
+            "retweets": 0,
+            "created_at": "Thu Oct 16 14:45:01 +0000 2025",
+            "sentiment": "neutral",
+            "is_new": false
+          }
+        ]
+      }
+    },
+    {
+      "name": "GeminiApp",
+      "twitter_data": {
+        "mention_count": 6,
+        "top_kols": [],
+        "sentiment": {
+          "neutral": 6
+        },
+        "total_engagement": 1726,
+        "sample_tweets": [
+          {
+            "text": "@McLarenF1 @GeminiApp 🧡",
+            "kol": "OfficialLoganK",
+            "rank": 33,
+            "followers": 216323,
+            "likes": 14,
+            "retweets": 0,
+            "created_at": "Wed Oct 15 23:49:58 +0000 2025",
+            "sentiment": "neutral",
+            "is_new": false
+          },
+          {
+            "text": "Veo 3 is the state-of-the-art in video models. Veo 3.1 is our new big upgrade with enhanced realism, richer audio, scene extension, better narrative control, more precise editing capabilities &amp; much more. Enjoy creating with it at https://t.co/QgTpxTKAOi and in the @GeminiApp !",
+            "kol": "demishassabis",
+            "rank": 48,
+            "followers": 495537,
+            "likes": 1446,
+            "retweets": 224,
+            "created_at": "Wed Oct 15 16:44:05 +0000 2025",
+            "sentiment": "neutral",
+            "is_new": true
+          },
+          {
+            "text": "@GeminiApp At least compensate him with an ultra sub , he deserves that",
+            "kol": "chetaslua",
+            "rank": 132,
+            "followers": 6886,
+            "likes": 13,
+            "retweets": 0,
+            "created_at": "Fri Oct 17 00:13:51 +0000 2025",
+            "sentiment": "neutral",
+            "is_new": false
+          }
+        ]
+      }
+    },
+    {
+      "name": "gpt-5",
+      "twitter_data": {
+        "mention_count": 6,
+        "top_kols": [],
+        "sentiment": {
+          "neutral": 6
+        },
+        "total_engagement": 352,
+        "sample_tweets": [
+          {
+            "text": "@flowersslop this is a weak indication imo. this for example doesn't happen with gpt-5 thinking or pro. https://t.co/TyELRAviyB",
+            "kol": "adonis_singh",
+            "rank": 55,
+            "followers": 13976,
+            "likes": 16,
+            "retweets": 0,
+            "created_at": "Thu Oct 16 23:10:07 +0000 2025",
+            "sentiment": "neutral",
+            "is_new": false
+          },
+          {
+            "text": "I asked gpt-5-pro to rank the major labs CEOs\n\nputting moonshot so low is a crime https://t.co/gVznWudj4T",
+            "kol": "adonis_singh",
+            "rank": 55,
+            "followers": 13976,
+            "likes": 96,
+            "retweets": 3,
+            "created_at": "Sun Oct 12 22:40:00 +0000 2025",
+            "sentiment": "neutral",
+            "is_new": false
+          },
+          {
+            "text": "全球到底有多少人开通了 200 美金/月的 chatgpt pro？🤣\n\n让 gpt-5 pro 根据 openai 最新收入和用户数据估算 plus 和 pro 会员的人数。\n\n之前推上大家经常讨论到底有多少 plus 用户，有多少 pro 用户，基本破案了，gpt-5 的数据基本靠谱。\n\nchatgpt 8 亿用户中，付费用户接近 4000 万，付费率 5%。基本上也是两个标准差左右的少数派了。\n\npro 用户约 20 万，大概是 200 个 plus 用户里有一个 pro 冤种（实际使用额度往往达不到 200，不少都浪费掉了🤣）。\n\n想法：ai 渗透率还是相当低的，以付费订阅为界定标准的话。ai 头上还有不小的发展空间。\n\n所以，nvda 可以 10 万亿吗🥺",
+            "kol": "howie_serious",
+            "rank": 121,
+            "followers": 44843,
+            "likes": 142,
+            "retweets": 13,
+            "created_at": "Thu Oct 16 13:08:40 +0000 2025",
+            "sentiment": "neutral",
+            "is_new": false
+          }
+        ]
+      }
+    },
+    {
+      "name": "chatgpt",
+      "twitter_data": {
+        "mention_count": 6,
+        "top_kols": [],
+        "sentiment": {
+          "neutral": 5,
+          "positive": 1
+        },
+        "total_engagement": 697,
+        "sample_tweets": [
+          {
+            "text": "有趣的现象：chatgpt 日活 2000 万。\n\n可是 plus 有 4000 万。\n\n所以，有一半plus 用户付了 20 美金订阅chatgpt，但却没有天天用？ https://t.co/wd0qFamYSf",
+            "kol": "howie_serious",
+            "rank": 121,
+            "followers": 44843,
+            "likes": 77,
+            "retweets": 5,
+            "created_at": "Thu Oct 16 13:51:02 +0000 2025",
+            "sentiment": "neutral",
+            "is_new": false
+          },
+          {
+            "text": "全球到底有多少人开通了 200 美金/月的 chatgpt pro？🤣\n\n让 gpt-5 pro 根据 openai 最新收入和用户数据估算 plus 和 pro 会员的人数。\n\n之前推上大家经常讨论到底有多少 plus 用户，有多少 pro 用户，基本破案了，gpt-5 的数据基本靠谱。\n\nchatgpt 8 亿用户中，付费用户接近 4000 万，付费率 5%。基本上也是两个标准差左右的少数派了。\n\npro 用户约 20 万，大概是 200 个 plus 用户里有一个 pro 冤种（实际使用额度往往达不到 200，不少都浪费掉了🤣）。\n\n想法：ai 渗透率还是相当低的，以付费订阅为界定标准的话。ai 头上还有不小的发展空间。\n\n所以，nvda 可以 10 万亿吗🥺",
+            "kol": "howie_serious",
+            "rank": 121,
+            "followers": 44843,
+            "likes": 142,
+            "retweets": 13,
+            "created_at": "Thu Oct 16 13:08:40 +0000 2025",
+            "sentiment": "neutral",
+            "is_new": false
+          },
+          {
+            "text": "chatgpt 即将推出 prompt library 功能。终于，prompt 作为一种知识载体，也可以在 chatgpt 里面被管理起来啦。\n\n这背后是同一个问题的 n 次尝试：任何重复使用 3 次以上的 prompt，都应该存起来，固定下来，让用户避免重复劳动，能快速调用。\n\n这样才能降低认知负荷，减少工具摩擦提高使用时的多巴胺。\n\n第一次尝试，是 GPTs。卒。\n\n第二次是现在的 projects。我自己把常用的 prompt 都固定为一个单独的 project。很好用。但我觉得并不普及。而且会造成 projects 数量过多。不算成功吧。\n\n现在的方案类似 comet 浏览器的 skills。用/调出重复使用的 prompt。\n\n这个方案是对 projects 方案的极好补充。期待早点发布。👏",
+            "kol": "howie_serious",
+            "rank": 121,
+            "followers": 44843,
+            "likes": 118,
+            "retweets": 15,
+            "created_at": "Thu Oct 16 11:00:13 +0000 2025",
+            "sentiment": "neutral",
+            "is_new": false
+          }
+        ]
+      }
+    },
+    {
+      "name": "Midjourney",
+      "twitter_data": {
+        "mention_count": 5,
+        "top_kols": [],
+        "sentiment": {
+          "positive": 1,
+          "neutral": 4
+        },
+        "total_engagement": 275,
+        "sample_tweets": [
+          {
+            "text": "I can't get Seedream 4.0 to be as aesthetic as Midjourney after weeks trying, even when giving reference images (I know the prompt isn't the best but trust me, I've tried many things)\n\nI guess MJ will never have competition https://t.co/UhIThepHFA",
+            "kol": "Angaisb_",
+            "rank": 24,
+            "followers": 5505,
+            "likes": 23,
+            "retweets": 0,
+            "created_at": "Thu Oct 16 23:29:33 +0000 2025",
+            "sentiment": "positive",
+            "is_new": false
+          },
+          {
+            "text": "Midjourney --sref 701577734 https://t.co/mO5YlKlVay",
+            "kol": "HBCoop_",
+            "rank": 38,
+            "followers": 51945,
+            "likes": 10,
+            "retweets": 0,
+            "created_at": "Fri Oct 17 05:11:06 +0000 2025",
+            "sentiment": "neutral",
+            "is_new": false
+          },
+          {
+            "text": "Veo 3.1 + Midjourney + 1 hour https://t.co/7TBp4LFeFj",
+            "kol": "ciguleva",
+            "rank": 60,
+            "followers": 76332,
+            "likes": 171,
+            "retweets": 5,
+            "created_at": "Wed Oct 15 20:50:01 +0000 2025",
+            "sentiment": "neutral",
+            "is_new": false
+          }
+        ]
+      }
+    },
+    {
+      "name": "Google AI",
+      "twitter_data": {
+        "mention_count": 5,
+        "top_kols": [],
+        "sentiment": {
+          "neutral": 5
+        },
+        "total_engagement": 9838,
+        "sample_tweets": [
+          {
+            "text": "Friendly reminder that you can get Google AI Pro for free if you're a student.\n\nYou have access to:\n\n- NotebookLM with higher limits\n- Gemini app with 2.5 Pro and Veo\n- Gemini in Gmail, Docs, Sheets, etc.\n- Deep Research\n- Jules with higher limits\n- Homework help / Exam prep\n- 2 TB Storage in Drive, etc.\n\nAvailable in many countries (and continuing to expand).\n\nDetails below",
+            "kol": "itsPaulAi",
+            "rank": 45,
+            "followers": 219511,
+            "likes": 498,
+            "retweets": 50,
+            "created_at": "Sat Oct 11 21:47:41 +0000 2025",
+            "sentiment": "neutral",
+            "is_new": false
+          },
+          {
+            "text": "@bhancock_ai @thegenaigirl @KnightHacks Team #3: Marcus and Sita\n\nUniversity of Waterloo CS student @_marcus_ng partners with Sita Lakshmi, a Google AI agent/ADK specialist. They're bringing a creative flair with a unique UI where each agent is a section of a musical band, working in harmony to manage your finances. https://t.co/G6Fy1wZ9mD",
+            "kol": "GoogleCloudTech",
+            "rank": 71,
+            "followers": 1291763,
+            "likes": 6,
+            "retweets": 1,
+            "created_at": "Mon Oct 13 19:00:04 +0000 2025",
+            "sentiment": "neutral",
+            "is_new": false
+          },
+          {
+            "text": "AIが増えすぎたので\nタスク毎オススメ使い分け： ㅤ\n\n記事執筆 - GPT-5 pro, GPT-4.5\nリサーチ - ChatGPT DeepResearch / エージェント\nリサーチからの分析 - Manus\n検索 - Grok 4\nコーディング - GPT-5 codex high\nウェブ操作AI - Manus, Perplexity Comet\n動画分析 - Gemini 2.5 pro\n画像生成 - Higgsfield, Seedream 4.0\n動画生成 - Sora2 pro\n無料 - Google AI studio",
+            "kol": "SuguruKun_ai",
+            "rank": 143,
+            "followers": 88341,
+            "likes": 109,
+            "retweets": 6,
+            "created_at": "Fri Oct 17 08:08:33 +0000 2025",
+            "sentiment": "neutral",
+            "is_new": false
+          }
+        ]
+      }
+    },
+    {
+      "name": "BjarturTomas",
+      "twitter_data": {
+        "mention_count": 5,
+        "top_kols": [],
+        "sentiment": {
+          "neutral": 5
+        },
+        "total_engagement": 231,
+        "sample_tweets": [
+          {
+            "text": "@BjarturTomas Re “deep ai psychosis”, I don’t think that’s it. Worked under him for 5 years pre AI. He’s just like this\n\nhttps://t.co/S5WtzdISi7",
+            "kol": "theo",
+            "rank": 46,
+            "followers": 248507,
+            "likes": 134,
+            "retweets": 0,
+            "created_at": "Fri Oct 17 04:03:17 +0000 2025",
+            "sentiment": "neutral",
+            "is_new": false
+          },
+          {
+            "text": "@an_interstice @BjarturTomas yeah I think you’re being a bit of a dick\n\nit’s Twitter - you can talk about your thoughts there\n\nthey’re not writing a paper in Nature",
+            "kol": "anthrupad",
+            "rank": 249,
+            "followers": 14824,
+            "likes": 22,
+            "retweets": 0,
+            "created_at": "Fri Oct 17 03:49:57 +0000 2025",
+            "sentiment": "neutral",
+            "is_new": false
+          },
+          {
+            "text": "@BjarturTomas naw\nall you have to go off of is curious fanboying over stuff?",
+            "kol": "anthrupad",
+            "rank": 249,
+            "followers": 14824,
+            "likes": 10,
+            "retweets": 0,
+            "created_at": "Fri Oct 17 03:33:41 +0000 2025",
+            "sentiment": "neutral",
+            "is_new": false
+          }
+        ]
+      }
+    },
+    {
+      "name": "drop",
+      "twitter_data": {
+        "mention_count": 5,
+        "top_kols": [],
+        "sentiment": {
+          "neutral": 5
+        },
+        "total_engagement": 500,
+        "sample_tweets": [
+          {
+            "text": "@dejavucoder Yeah, every trailer drop has to be exponential better from that one on",
+            "kol": "waitin4agi_",
+            "rank": 57,
+            "followers": 217035,
+            "likes": 36,
+            "retweets": 0,
+            "created_at": "Mon Oct 13 13:38:57 +0000 2025",
+            "sentiment": "neutral",
+            "is_new": false
+          },
+          {
+            "text": "why does the chinese doordash continue to drop models https://t.co/NaCUU3sZG1",
+            "kol": "xeophon_",
+            "rank": 92,
+            "followers": 8376,
+            "likes": 81,
+            "retweets": 4,
+            "created_at": "Fri Oct 17 08:00:54 +0000 2025",
+            "sentiment": "neutral",
+            "is_new": false
+          },
+          {
+            "text": "🚨New model drop into the Top 10!\n🖼️ @MicrosoftAI just entered the Image Arena with MAI-Image-1.\n\nCommunity votes are already rolling in, and MAI-Image-1 has broken into the Top 10. It’s currently ranked #9, tied with Seedream 3! \n\nMAI-Image-1 is now live in Direct Chat for early access on LMArena.",
+            "kol": "arena",
+            "rank": 114,
+            "followers": 95099,
+            "likes": 196,
+            "retweets": 31,
+            "created_at": "Mon Oct 13 20:08:44 +0000 2025",
+            "sentiment": "neutral",
+            "is_new": true
+          }
+        ]
+      }
+    }
+  ],
+  "existing_products": [],
+  "ambiguous": []
+}

@@ -1,343 +1,263 @@
-# Twitter Product Trends Analyzer
+# Twitter Product Trends
 
-**整合 Twitter Monitor + Product Knowledge 的智能产品趋势分析系统**
+> 完整的 Twitter 产品趋势分析系统：数据采集 + 产品识别 + Product Knowledge 集成
 
----
+## 🎯 核心功能
 
-## 🎯 一句话介绍
-
-自动采集 Top 300 KOL 的 Twitter 推文，精准识别新旧产品，更新知识库，生成深度分析报告。
-
----
-
-## ⚡ 快速开始
-
-```bash
-# 使用已有数据（推荐用于测试）
-cd /Users/wenyongteng/vibe_coding/twitter_product_trends-20251022/scripts
-python3 complete_workflow.py --use-existing
-
-# 采集新数据
-python3 complete_workflow.py --days 7 --kol-count 300
-```
-
-**就这么简单！** 🎉
-
----
-
-## 💡 核心特性
-
-### 1. 轻量级集成
-- ✅ 复用现有的 Twitter Monitor 工具
-- ✅ 复用现有的 Product Knowledge 数据库
-- ✅ 只添加必要的连接层代码
-
-### 2. 精准的新旧产品区分
-- ✅ 首次出现在数据库 = 新产品
-- ✅ 已在知识库中 = 已有产品
-- ✅ 避免重复标记 (如每周都把 Claude 标记为"新产品")
-
-### 3. 自动知识库更新
-- ✅ 每次运行自动更新 Product Knowledge
-- ✅ 版本管理，可追溯历史
-- ✅ 不修改现有版本，创建新版本
-
-### 4. 双重视角报告
-- ✅ 产品分析 (基于 Product Knowledge，包含元数据)
-- ✅ 趋势分析 (基于全量推文)
-
----
-
-## 📊 工作流程
-
-```
-采集 Twitter 数据
-    ↓
-提取产品信息
-    ↓
-与 Product Knowledge 对比
-    ↓
-分类: 新产品 / 已有产品
-    ↓
-更新知识库
-    ↓
-生成综合报告
-```
-
----
+1. **Twitter 数据采集** - 采集 Top N KOL 过去 N 天的推文
+2. **产品识别与分类** - 自动识别85+产品，匹配899+产品知识库
+3. **Product Knowledge 集成** - 区分新产品、已有产品、公司实体
+4. **趋势分析报告** - 生成综合分析报告
 
 ## 📁 项目结构
 
 ```
 twitter_product_trends-20251022/
-├── scripts/
-│   ├── integrate_product_knowledge.py  # 核心集成脚本
-│   └── complete_workflow.py            # 完整工作流
-├── config/
-│   └── integration_config.json         # 配置文件
-├── data_sources/                       # 数据源
-├── reports/                            # 生成的报告
-├── INTEGRATION_DESIGN.md               # 完整设计文档
-├── QUICK_START.md                      # 快速使用指南
-├── COMPLETION_SUMMARY.md               # 项目完成总结
-└── README.md                           # 本文件
+├── weekly_monitor.py           # 统一入口脚本（数据采集 + 分析 + PK集成）
+│
+├── twitter_monitor/            # Twitter 数据采集模块
+│   ├── collect_data.py         # 数据采集脚本
+│   ├── analyze_tweets.py       # 推文分析脚本
+│   ├── core/                   # 核心功能模块
+│   │   ├── data_collector.py  # TwitterIO API 采集器
+│   │   ├── product_extractor.py
+│   │   └── ...
+│   ├── config/                 # 配置文件
+│   └── product kol_ranking_weighted.csv  # KOL 列表
+│
+├── scripts/                    # Product Knowledge 集成脚本
+│   ├── integrate_product_knowledge_v3.py  # 主集成脚本
+│   ├── complete_workflow.py
+│   └── ...
+│
+├── config/                     # 全局配置
+│   └── integration_config.json # 集成配置
+│
+├── weekly_reports/             # 历史数据和报告
+│   └── week_YYYY-MM-DD_to_YYYY-MM-DD/
+│       ├── raw_data.json                    # 原始推文
+│       ├── analysis_summary.json            # 分析摘要
+│       ├── product_classification_v3.json   # 产品分类
+│       └── enhanced_report_v3.md            # 增强报告
+│
+├── data_sources/               # 数据源（已弃用，保留兼容）
+├── reports/                    # 报告输出（已弃用，保留兼容）
+│
+└── docs/                       # 文档
+    ├── README.md
+    ├── INTEGRATION_DESIGN.md   # 集成设计文档
+    └── QUICK_START.md          # 快速开始
 ```
 
----
+## 🚀 快速开始
 
-## 📖 文档
+### 1. 完整工作流（推荐）
 
-| 文档 | 用途 |
-|------|------|
-| **[QUICK_START.md](QUICK_START.md)** | ⭐ 快速开始，5分钟上手 |
-| [INTEGRATION_DESIGN.md](INTEGRATION_DESIGN.md) | 完整的技术设计文档 |
-| [COMPLETION_SUMMARY.md](COMPLETION_SUMMARY.md) | 项目完成总结和验证结果 |
-| [project.md](project.md) | 项目基本信息 |
-
----
-
-## 🔧 核心脚本
-
-### 1. integrate_product_knowledge.py
-
-**作用**: 连接 Twitter 分析和 Product Knowledge 数据库
+采集数据 → 分析 → Product Knowledge 集成，一键完成：
 
 ```bash
-python3 scripts/integrate_product_knowledge.py <analysis_summary.json>
+# 采集 Top 300 KOL 过去7天的推文，并自动分析
+python3 weekly_monitor.py --days 7 --kol-count 300
 ```
 
-**功能**:
-- 读取 Twitter 分析结果
-- 与知识库对比，分类新旧产品
-- 更新 Product Knowledge 数据库
-- 生成增强版报告
+**参数说明**:
+- `--days N`: 采集过去N天的推文（默认7天）
+- `--kol-count N`: 采集Top N个KOL（100/200/300，默认200）
+- `--model MODEL`: 指定分析模型（可选）
+- `--skip-collection`: 跳过数据采集，仅运行分析
+- `--skip-pk-integration`: 跳过 Product Knowledge 集成
 
-### 2. complete_workflow.py
+### 2. 分步执行
 
-**作用**: 端到端的完整工作流
+如果需要分步控制，可以分别运行：
 
 ```bash
-# 使用已有数据
-python3 scripts/complete_workflow.py --use-existing
+# 步骤 1: 数据采集
+cd twitter_monitor
+python3 collect_data.py --days 7 --kol-count 300
 
-# 采集新数据
-python3 scripts/complete_workflow.py --days 7 --kol-count 300
+# 步骤 2: 推文分析
+python3 analyze_tweets.py ../weekly_reports/week_*/raw_data.json
+
+# 步骤 3: Product Knowledge 集成
+cd ../scripts
+python3 integrate_product_knowledge_v3.py ../weekly_reports/week_*/raw_data.json
 ```
 
-**流程**:
-1. 采集 Twitter 数据 (或使用已有)
-2. 提取产品信息
-3. Product Knowledge 集成
-4. 生成综合报告
+## 📊 输出结果
 
----
+运行完成后，在 `weekly_reports/week_YYYY-MM-DD_to_YYYY-MM-DD/` 目录下生成：
 
-## 📊 输出文件
+### 1. `raw_data.json`
+原始推文数据，包含：
+- 推文文本、时间、互动数
+- KOL 信息（username, rank, followers）
+- 元数据（日期范围、API成本等）
 
-运行后会在 `weekly_reports/week_*/` 生成：
+### 2. `analysis_summary.json`
+分析摘要，包含：
+- Top 30 产品统计
+- 话题分布
+- 新产品发现
 
-| 文件 | 说明 |
-|------|------|
-| `raw_data.json` | Twitter 原始推文数据 |
-| `analysis_summary.json` | 产品提取结果 |
-| `product_classification.json` | ⭐ 新旧产品分类 |
-| `enhanced_report.md` | ⭐ 产品增强报告 |
-| `comprehensive_report.md` | ⭐ 综合分析报告 |
+### 3. `product_classification_v3.json` ⭐
+Product Knowledge 分类结果：
 
-同时更新 Product Knowledge 数据库:
-- 新版本: `versions/v2_twitter_YYYYMMDD/`
-- 包含新增产品列表和元数据
-
----
-
-## ✅ 验证结果
-
-### Product Knowledge 更新
-
-```bash
-$ ls /Users/wenyongteng/vibe_coding/product_knowledge-20251022/versions/
-v1_cleaned_20251025/
-v2_twitter_20251025/     # ✅ 新版本
-
-$ cat versions/v2_twitter_20251025/metadata.json
+```json
 {
-  "version": "v2_twitter_20251025",
-  "changes": {
-    "new_products_added": 30,
-    "new_product_count": 30
-  },
-  "new_products_list": ["Claude", "OpenAI", "Gemini", ...]
+  "new_products": [        // 新产品（数据库中不存在）
+    {
+      "name": "Vercel",
+      "twitter_data": {
+        "mention_count": 5,
+        "top_kols": ["rauchg", "DeepLearningAI"],
+        "sentiment": {...},
+        "total_engagement": 150
+      }
+    }
+  ],
+  "existing_products": [   // 已有产品（数据库中存在）
+    {
+      "name": "Claude",
+      "kb_canonical_name": "Claude",
+      "twitter_data": {...},
+      "knowledge_data": {  // 来自 Product Knowledge 数据库
+        "company": "Anthropic",
+        "mention_count": 850
+      }
+    }
+  ],
+  "companies": [           // 公司实体（单独分类）
+    {
+      "name": "Google",
+      "twitter_data": {...}
+    }
+  ]
 }
 ```
 
-### 报告生成
+### 4. `enhanced_report_v3.md`
+可读性强的综合报告，包含：
+- 执行摘要
+- 新产品列表（详细信息）
+- 已有产品列表（含知识库数据）
+- 公司实体统计
 
-```bash
-$ cat weekly_reports/week_*/comprehensive_report.md
-# Twitter 产品趋势分析报告
-## 2025-10-10 至 2025-10-17
+## 🎨 核心特性
 
-📋 执行摘要
-- 监控 KOL: 300 个
-- 分析推文: 2,038 条
-- 识别产品: 30 个
-  - 🆕 新产品: 30 个
-  - 📦 已有产品: 0 个
+### Product Knowledge 集成 v3
 
-🆕 新产品发现 (30 个)
-1. Claude - 提及 77 次
-2. OpenAI - 提及 74 次
-3. Gemini - 提及 52 次
-...
-```
+1. **产品识别**
+   - 使用正则表达式精准识别 85+ 产品
+   - 覆盖 AI 模型、工具、平台、公司
 
----
+2. **知识库匹配**
+   - 加载 899+ 产品知识库
+   - 精确匹配 + 模糊匹配
+   - 别名处理
 
-## 🎯 核心价值
+3. **智能分类**
+   - **新产品**: Vercel, Qwen2.5, Llama 3/4等
+   - **已有产品**: Claude, ChatGPT, Gemini等
+   - **公司实体**: Google, Microsoft, Meta等（单独分类）
+   - **模糊匹配**: 需要人工确认
 
-### Before (旧版本)
-- ❌ 每周都把 Claude、ChatGPT 标记为"新产品"
-- ❌ 无法追踪产品历史
-- ❌ 没有产品元数据（公司、类别）
-- ❌ 产品分析质量低
+4. **数据规范化**
+   - ✅ 大小写归一化（Google/GOOGLE → Google）
+   - ✅ 保留版本差异（Gemini 3 ≠ gemini 3 pro）
+   - ✅ 公司实体过滤
 
-### After (新版本)
-- ✅ 精准识别真正的新产品
-- ✅ 知识库持续积累，可追溯
-- ✅ 每个产品都有完整元数据
-- ✅ 产品分析质量大幅提升
+## 🔧 配置
 
----
-
-## 🚀 使用 Claude Skill
-
-更新后的 Claude Skill 支持直接使用：
-
-```
-"帮我分析过去一周 Top 300 KOL 的产品动态"
-```
-
-Skill 会自动运行完整工作流并返回结果。
-
-详见: `~/.claude/skills/twitter-weekly-monitor/SKILL_UPDATED.md`
-
----
-
-## 🔄 数据流程详解
-
-```
-┌─────────────────────────────────┐
-│ Twitter Monitor (现有工具)       │
-│ collect_data.py                 │
-│ analyze_tweets.py               │
-└────────────┬────────────────────┘
-             │
-             ↓ raw_data.json
-             ↓ analysis_summary.json
-             │
-┌────────────┴────────────────────┐
-│ Product Knowledge 集成 (新增)   │
-│ integrate_product_knowledge.py  │
-│ - 对比知识库                     │
-│ - 分类新旧产品                   │
-│ - 更新数据库                     │
-└────────────┬────────────────────┘
-             │
-             ↓ product_classification.json
-             ↓ enhanced_report.md
-             │
-┌────────────┴────────────────────┐
-│ 报告生成 (新增)                  │
-│ complete_workflow.py            │
-│ - 综合报告                       │
-│ - 产品 + 趋势双重分析            │
-└─────────────────────────────────┘
-             │
-             ↓ comprehensive_report.md
-```
-
----
-
-## ⚙️ 配置
-
-配置文件: `config/integration_config.json`
+### 主配置文件: `config/integration_config.json`
 
 ```json
 {
   "twitter": {
     "kol_count": 300,
-    "days": 7
+    "days": 7,
+    "collector_path": ".../twitter_monitor",
+    "weekly_reports_dir": ".../weekly_reports"
   },
   "product_knowledge": {
-    "current_version": "v1_cleaned_20251025",
-    "project_path": "/Users/wenyongteng/vibe_coding/product_knowledge-20251022"
+    "project_path": ".../product_knowledge-20251022",
+    "current_version": "v1_cleaned_20251025"
+  },
+  "integration": {
+    "script_version": "v3",
+    "enable_company_filtering": true,
+    "enable_name_normalization": true,
+    "preserve_version_differences": true
   }
 }
 ```
 
----
+### Twitter Monitor 配置: `twitter_monitor/config/config.py`
 
-## 🆘 故障排除
+数据采集参数、LLM 配置等。
 
-### 问题 1: 找不到脚本
+## 🤖 Claude Agent Skill 集成
 
-确认路径:
-```bash
-ls /Users/wenyongteng/vibe_coding/twitter_product_trends-20251022/scripts/complete_workflow.py
+本项目已集成到 Claude Code Agent Skill：**Twitter Weekly Monitor**
+
+### 使用方法
+
+在 Claude Code 中直接说：
+
+```
+帮我分析过去一周 Top 300 KOL 的产品动态
 ```
 
-### 问题 2: Product Knowledge 数据库为空
+或
 
-这是正常的！第一次运行时数据库是空的，会自动填充。
+```
+生成 twitter 周报
+```
 
-### 问题 3: 所有产品都是新产品
+Agent 会自动：
+1. 采集数据
+2. 运行 Product Knowledge 集成
+3. 生成综合分析报告
+4. 展示核心洞察
 
-第一次运行时这是正常的。从第二次开始，会有已有产品。
+## 📖 文档
+
+- [INTEGRATION_DESIGN.md](INTEGRATION_DESIGN.md) - 完整设计文档
+- [QUICK_START.md](QUICK_START.md) - 快速开始指南
+- [COMPLETION_SUMMARY.md](COMPLETION_SUMMARY.md) - 项目完成总结
+
+## 🔗 相关项目
+
+- **Product Knowledge**: `/Users/wenyongteng/vibe_coding/product_knowledge-20251022`
+  - 产品知识库（899+ 产品）
+  - 版本管理
+  - Web 验证功能
+
+## 📝 更新日志
+
+### v3 (2025-10-25)
+- ✅ 完整迁移 Twitter Monitor 到统一项目
+- ✅ 创建 `weekly_monitor.py` 统一入口
+- ✅ Product Knowledge v3 集成
+- ✅ 产品名标准化 + 公司实体过滤
+- ✅ 更新 Agent Skill 路径
+
+### v2 (2025-10-25)
+- 处理所有产品（从 raw_data.json）
+- 修复只处理 Top 30 的问题
+
+### v1 (2025-10-22)
+- 初始版本
+- 基础 Product Knowledge 集成
+
+## 📄 License
+
+MIT
+
+## 🤝 贡献
+
+欢迎提交 Issue 和 Pull Request！
 
 ---
 
-## 📝 后续优化
-
-- [ ] 改进产品提取（过滤噪音）
-- [ ] 使用 GPT-4o 提高准确率
-- [ ] 添加"值得注意的小事"识别
-- [ ] 数据可视化
-- [ ] 历史趋势对比
-
----
-
-## 📞 技术栈
-
-- **Python 3.11**
-- **Twitter Monitor** - 数据采集和基础分析
-- **Product Knowledge** - 产品数据库管理
-- **JSON** - 数据交换格式
-- **Markdown** - 报告生成
-
----
-
-## 📄 许可
-
-个人使用
-
----
-
-## 🎉 状态
-
-✅ **核心功能已完成并测试**
-
-- ✅ 数据采集集成
-- ✅ Product Knowledge 处理
-- ✅ 新旧产品区分
-- ✅ 数据库自动更新
-- ✅ 综合报告生成
-- ✅ 完整测试验证
-
-**Ready to use!** 🚀
-
----
-
-**Created**: 2025-10-25
-**Version**: 1.0
-**Author**: Claude Code
-**Status**: ✅ Production Ready
+🤖 Generated with [Claude Code](https://claude.com/claude-code)

@@ -1,0 +1,3659 @@
+{
+  "new_products": [
+    {
+      "name": "Vercel",
+      "twitter_data": {
+        "mention_count": 5,
+        "top_kols": [
+          "rauchg",
+          "DeepLearningAI",
+          "thetripathi58"
+        ],
+        "sentiment": {
+          "neutral": 4,
+          "positive": 1
+        },
+        "total_engagement": 0,
+        "sample_tweets": [
+          {
+            "text": "@clairevo @vercel 🥹 it's one of those things that make you go: \"how did this not exist before\". The team cooked",
+            "kol": "rauchg",
+            "rank": 0,
+            "followers": 0,
+            "likes": 0,
+            "retweets": 0,
+            "created_at": "Fri Oct 17 01:42:01 +0000 2025",
+            "sentiment": "neutral",
+            "is_new": false
+          },
+          {
+            "text": "@sauravv_x @vercel @linstobias",
+            "kol": "rauchg",
+            "rank": 0,
+            "followers": 0,
+            "likes": 0,
+            "retweets": 0,
+            "created_at": "Thu Oct 16 17:09:52 +0000 2025",
+            "sentiment": "neutral",
+            "is_new": false
+          },
+          {
+            "text": "Excited to welcome Talha Tariq as @vercel's CTO of Security. \n\nHe was CISO & CIO at HashiCorp for seven years, before becoming CTO of Security for all of IBM, including software, AI, and post-quantum cryptography.\n\nWe have a shared vision of security through autonomy. Building amazing products, with a great developer experience, no snake oil, no enterprise traps. \n\nInfrastructure that's secure by default, with agents that help us debug, diagnose, and protect on autopilot.\n\nPrivileged to partner with Talha to build and protect the AI Cloud.",
+            "kol": "rauchg",
+            "rank": 0,
+            "followers": 0,
+            "likes": 0,
+            "retweets": 0,
+            "created_at": "Thu Oct 16 16:56:59 +0000 2025",
+            "sentiment": "positive",
+            "is_new": false
+          }
+        ]
+      }
+    },
+    {
+      "name": "Qwen2.5",
+      "twitter_data": {
+        "mention_count": 2,
+        "top_kols": [
+          "Alibaba_Qwen"
+        ],
+        "sentiment": {
+          "neutral": 2
+        },
+        "total_engagement": 0,
+        "sample_tweets": [
+          {
+            "text": "Excited to announce the launch of Qwen3-VL-Flash on Alibaba Cloud Model Studio! 🚀\n\nA powerful new vision-language model that combines reasoning and non-reasoning modes, outperforming open-source Qwen3-VL-30B-A3B and Qwen2.5-72B with faster responses, stronger capabilities, and lower cost!\n\n📸 Supports ultra-long context (up to 256K tokens) – perfect for long videos & documents\n🧠 Enhanced image/video understanding with 2D/3D localization and spatial awareness\n🌍 Advanced OCR, multilingual recognition, agent control & real-world applications\n🚨 Significantly improved security perception and real-environment visual intelligence\n\nAPI： https://t.co/l2P74bG6cP",
+            "kol": "Alibaba_Qwen",
+            "rank": 0,
+            "followers": 0,
+            "likes": 0,
+            "retweets": 0,
+            "created_at": "Thu Oct 16 15:13:39 +0000 2025",
+            "sentiment": "neutral",
+            "is_new": true
+          },
+          {
+            "text": "Introducing the compact, dense versions of Qwen3-VL — now available in 4B and 8B pairs, each with both Instruct and Thinking variants.\n\n✅ Lower VRAM usage\n✅ Full Qwen3-VL capabilities retained\n✅ Strong performance across the board\n\nDespite their size, they outperform models like Gemini 2.5 Flash Lite and GPT-5 Nano, and often beat them on benchmarks spanning STEM, VQA, OCR, video understanding, agent tasks, and more. In many cases, they even rival our flagship Qwen2.5-VL-72B from just six months ago!\n\nPlus, FP8 versions are also available for efficient deployment.\n\nHugging Face: https://t.co/MdtyH8lhWL\nModelScope: https://t.co/LWwKz7VzJ8\nQwen3-VL-8B-Instruct API： https://t.co/DpJXAEDisI\nQwen3-VL-8B-Thinking API： https://t.co/7xFK5aqxZm\nCookbooks:  https://t.co/T06q60PP62",
+            "kol": "Alibaba_Qwen",
+            "rank": 0,
+            "followers": 0,
+            "likes": 0,
+            "retweets": 0,
+            "created_at": "Tue Oct 14 17:28:35 +0000 2025",
+            "sentiment": "neutral",
+            "is_new": false
+          }
+        ]
+      }
+    },
+    {
+      "name": "Llama 3",
+      "twitter_data": {
+        "mention_count": 1,
+        "top_kols": [
+          "kimmonismus"
+        ],
+        "sentiment": {
+          "neutral": 1
+        },
+        "total_engagement": 0,
+        "sample_tweets": [
+          {
+            "text": "Meta has released MobileLLM-Pro, a compact 1B parameter language model that significantly outperforms Gemma 3-1B and Llama 3-1B in pre-training benchmarks. Despite its small size, it shows strong results in API calling, rewriting, coding, and summarization, and can already be tested directly in the browser via Gradio.",
+            "kol": "kimmonismus",
+            "rank": 0,
+            "followers": 0,
+            "likes": 0,
+            "retweets": 0,
+            "created_at": "Fri Oct 17 10:13:03 +0000 2025",
+            "sentiment": "neutral",
+            "is_new": false
+          }
+        ]
+      }
+    },
+    {
+      "name": "Claude 3.7 Sonnet",
+      "twitter_data": {
+        "mention_count": 1,
+        "top_kols": [
+          "repligate"
+        ],
+        "sentiment": {
+          "neutral": 1
+        },
+        "total_engagement": 0,
+        "sample_tweets": [
+          {
+            "text": "Uh.... what did Claude 3.7 Sonnet mean by this? https://t.co/QD4F55Psnr",
+            "kol": "repligate",
+            "rank": 0,
+            "followers": 0,
+            "likes": 0,
+            "retweets": 0,
+            "created_at": "Thu Oct 16 05:12:58 +0000 2025",
+            "sentiment": "neutral",
+            "is_new": false
+          }
+        ]
+      }
+    },
+    {
+      "name": "gemini 3 pro",
+      "twitter_data": {
+        "mention_count": 1,
+        "top_kols": [
+          "adonis_singh"
+        ],
+        "sentiment": {
+          "positive": 1
+        },
+        "total_engagement": 0,
+        "sample_tweets": [
+          {
+            "text": "gemini 3 pro just created this incredible svg painting guys https://t.co/tXqsjnEzmv",
+            "kol": "adonis_singh",
+            "rank": 0,
+            "followers": 0,
+            "likes": 0,
+            "retweets": 0,
+            "created_at": "Tue Oct 14 23:53:16 +0000 2025",
+            "sentiment": "positive",
+            "is_new": false
+          }
+        ]
+      }
+    },
+    {
+      "name": "Gemini 3.",
+      "twitter_data": {
+        "mention_count": 1,
+        "top_kols": [
+          "imxiaohu"
+        ],
+        "sentiment": {
+          "neutral": 1
+        },
+        "total_engagement": 0,
+        "sample_tweets": [
+          {
+            "text": "应该是 Gemini 3.0来了 \n\n这可能是个临时狙击发布会...\n\n😂",
+            "kol": "imxiaohu",
+            "rank": 0,
+            "followers": 0,
+            "likes": 0,
+            "retweets": 0,
+            "created_at": "Wed Oct 15 12:23:04 +0000 2025",
+            "sentiment": "neutral",
+            "is_new": false
+          }
+        ]
+      }
+    },
+    {
+      "name": "Claude 4.",
+      "twitter_data": {
+        "mention_count": 1,
+        "top_kols": [
+          "ctgptlb"
+        ],
+        "sentiment": {
+          "neutral": 1
+        },
+        "total_engagement": 0,
+        "sample_tweets": [
+          {
+            "text": "【速報】AnthropicがClaude 4.5 Haikuを発表\n\nClaude 4.5シリーズに廉価版のHaikuが追加されました。2倍高速に動くとの事です。モデル名はclaude-haiku-4-5で本日からAPIで利用可能。価格は百万トークンあたり$1/$5から（入力/出力） https://t.co/baRwnf8bWZ",
+            "kol": "ctgptlb",
+            "rank": 0,
+            "followers": 0,
+            "likes": 0,
+            "retweets": 0,
+            "created_at": "Wed Oct 15 18:05:21 +0000 2025",
+            "sentiment": "neutral",
+            "is_new": false
+          }
+        ]
+      }
+    },
+    {
+      "name": "Llama 4",
+      "twitter_data": {
+        "mention_count": 1,
+        "top_kols": [
+          "reach_vb"
+        ],
+        "sentiment": {
+          "neutral": 1
+        },
+        "total_engagement": 0,
+        "sample_tweets": [
+          {
+            "text": "chat is this real???\n\n128K context, int4 quantisation, 1B params, distilled from Llama 4 🔥\n\nhttps://t.co/29A5KNUxjo",
+            "kol": "reach_vb",
+            "rank": 0,
+            "followers": 0,
+            "likes": 0,
+            "retweets": 0,
+            "created_at": "Thu Oct 16 19:51:56 +0000 2025",
+            "sentiment": "neutral",
+            "is_new": false
+          }
+        ]
+      }
+    },
+    {
+      "name": "Gemini 4.0",
+      "twitter_data": {
+        "mention_count": 1,
+        "top_kols": [
+          "patience_cave"
+        ],
+        "sentiment": {
+          "neutral": 1
+        },
+        "total_engagement": 0,
+        "sample_tweets": [
+          {
+            "text": "@Impatience_cave Do not use Gemini 3.0 until Gemini 4.0 drops",
+            "kol": "patience_cave",
+            "rank": 0,
+            "followers": 0,
+            "likes": 0,
+            "retweets": 0,
+            "created_at": "Wed Oct 15 02:06:20 +0000 2025",
+            "sentiment": "neutral",
+            "is_new": false
+          }
+        ]
+      }
+    }
+  ],
+  "existing_products": [
+    {
+      "name": "Claude",
+      "twitter_data": {
+        "mention_count": 66,
+        "top_kols": [
+          "alexalbert__",
+          "simonw",
+          "btibor91",
+          "masahirochaen",
+          "rileybrown_ai"
+        ],
+        "sentiment": {
+          "neutral": 61,
+          "positive": 5
+        },
+        "total_engagement": 0,
+        "sample_tweets": [
+          {
+            "text": "@zenitsu_aprntc Good question, it's basically entirely hand-written (with tab autocomplete). I tried to use claude/codex agents a few times but they just didn't work well enough at all and net unhelpful, possibly the repo is too far off the data distribution.",
+            "kol": "karpathy",
+            "rank": 0,
+            "followers": 0,
+            "likes": 0,
+            "retweets": 0,
+            "created_at": "Mon Oct 13 15:27:55 +0000 2025",
+            "sentiment": "neutral",
+            "is_new": false
+          },
+          {
+            "text": "Claude 4.5 Haiku is on the frontier for Anthropic models when looking at the trade-off between intelligence and cost to run the Artificial Analysis Intelligence Index. This makes Claude 4.5 Haiku a valid alternative to Claude 4.5 Sonnet for users who want to access ‘Claude’ at a cheaper price point",
+            "kol": "ArtificialAnlys",
+            "rank": 0,
+            "followers": 0,
+            "likes": 0,
+            "retweets": 0,
+            "created_at": "Thu Oct 16 03:17:57 +0000 2025",
+            "sentiment": "neutral",
+            "is_new": false
+          },
+          {
+            "text": "Anthropic launches their first Haiku model in 11 months - Claude 4.5 Haiku jumps 35 points in Artificial Analysis Intelligence Index to become relevant again\n\nClaude 4.5 Haiku is 3x cheaper per token than Claude 4.5 Sonnet. Running the Artificial Analysis Intelligence Index costs $262 with Haiku vs. $817 with Sonnet (~3x more) - full cost breakdown in the thread below.\n\nThere is a stronger case for 4.5 Haiku’s intelligence/cost positioning than 3.5 Haiku, but there is a competitive field of cheaper alternatives with similar intelligence that may make more sense for developers without a reason to need a Claude model specifically - including gpt-oss-120b (reasoning high, ~$75) and Grok 4 Fast (~$40). Claude 4.5 Haiku is the most cost-effective way to access ‘Claude’ but is not the most cost effective model for its level of intelligence.\n\nKey benchmarking results:\n➤🧠 Model Intelligence: In reasoning mode, Claude 4.5 Haiku scores 55 on the Artificial Analysis Intelligence Index. This is 8 points lower than Claude 4.5 Sonnet (Thinking) and 4 points lower than Claude 4.1 Opus (Thinking). Claude 4.5 Haiku (Thinking) places marginally ahead of Gemini 2.5 Flash (Reasoning, 54) but behind other reasoning models such as Qwen3 235B 2507 (57), DeepSeek V3.2 Exp (57), and GLM 4.6 (56)\n➤📈 Intelligence Uplift: Anthropic released Claude 3.5 Haiku in November 2024, ~11 months before the release of Claude 4.5 Haiku. Claude 4.5 Haiku is a significant improvement in intelligence compared to Claude 3.5 Haiku, scoring 67% on GPQA Diamond in reasoning mode (compared to 41% for Claude 3.5 Haiku)\n➤⚙️ Notable Strengths: In reasonign mode, Claude 4.5 Haiku performs well in long-context reasoning (70% on AA-LCR, behind only GPT-5 High) and coding (43%, matching GPT-5 High and Gemini 2.5 Pro)\n➤⚡ Non-Reasoning Performance: In non-reasoning mode, Claude 4.5 Haiku scores 42 on the Artificial Analysis Intelligence Index. This places the model in line with GPT-5 (minimal, 43) but behind Gemini 2.5 Flash (non-reasoning, 47)\n➤💲 Pricing: Claude 4.5 Haiku is priced at $1/$5 per 1M input/output tokens, which makes it 3x cheaper compared to Claude 4.5 Sonnet (priced at $3/$15 per 1M input/output tokens)\n➤⚙️ Token Efficiency: Anthropic’s Claude models continue to be more token-efficient than all other reasoning models. For Claude 4.5 Haiku (Thinking) -evaluated with a maximum reasoning budget of 64k tokens - we see the model use 39M output tokens to run the Artificial Analysis Intelligence Index. Its token usage is lower than Claude 4.5 Sonnet (42M) but higher than Claude 4.1 Opus (30M) in thinking mode\n\nKey model details:\n\n➤📏 Context Window: 200K tokens. This is equivalent to Claude 4.5 Sonnet\n➤🌐 Availability: Claude 4.5 Haiku is available via Anthropic‘s API, Google Vertex and Amazon Bedrock. Claude 4.5 Haiku is also available via Claude, and Claude Code",
+            "kol": "ArtificialAnlys",
+            "rank": 0,
+            "followers": 0,
+            "likes": 0,
+            "retweets": 0,
+            "created_at": "Thu Oct 16 03:17:55 +0000 2025",
+            "sentiment": "neutral",
+            "is_new": true
+          }
+        ]
+      },
+      "knowledge_data": {
+        "id": 5,
+        "name": "Claude",
+        "company": "Anthropic",
+        "versions": [
+          "null",
+          "4.5",
+          "2.1",
+          "4.5 Sonnet",
+          "3 Opus",
+          "4.1 Opus",
+          "7",
+          "3.5 Haiku",
+          "3.7",
+          "4.5 Haiku",
+          "Haiku 4.5"
+        ],
+        "mention_count": 105,
+        "first_mention_time": "2025-09-15T22:30:26Z",
+        "first_mention_tweet_id": "1967717672931741736",
+        "confidence": 0.7599999999999999
+      },
+      "kb_canonical_name": "Claude"
+    },
+    {
+      "name": "Sora",
+      "twitter_data": {
+        "mention_count": 54,
+        "top_kols": [
+          "irmohkle",
+          "realldio",
+          "flavioAd",
+          "ctgptlb",
+          "mattshumer_"
+        ],
+        "sentiment": {
+          "negative": 2,
+          "neutral": 43,
+          "positive": 9
+        },
+        "total_engagement": 0,
+        "sample_tweets": [
+          {
+            "text": "OpenAI has paused generations depicting Dr. King.  \nDid OpenAI rush Sora 2 without proper guardrails, or was it Sam Altman masterclass move to let people generate whatever they wanted for the first two days?",
+            "kol": "ai_for_success",
+            "rank": 0,
+            "followers": 0,
+            "likes": 0,
+            "retweets": 0,
+            "created_at": "Fri Oct 17 02:17:39 +0000 2025",
+            "sentiment": "negative",
+            "is_new": false
+          },
+          {
+            "text": "Sora is censoring the most basic sh!t. It’s totally useless at this point. What a way to kill such a fun app.",
+            "kol": "chetbff",
+            "rank": 0,
+            "followers": 0,
+            "likes": 0,
+            "retweets": 0,
+            "created_at": "Thu Oct 16 17:02:09 +0000 2025",
+            "sentiment": "neutral",
+            "is_new": false
+          },
+          {
+            "text": "In comparison to Veo 3.1, I felt that Sora 2 has a stronger aesthetic execution in terms of style. I used the same prompt format that I use in Veo 3.1, but it feels like the Sora 2 version truly delivers the vibe and mood I envisioned, dark and gritty. The sound design in Sora 2 is also really impressive.\n\nBu also, I love Veo 3.1 for its incredibly accurate cultural nuance. So I’ll keep experimenting with both.",
+            "kol": "mxvdxn",
+            "rank": 0,
+            "followers": 0,
+            "likes": 0,
+            "retweets": 0,
+            "created_at": "Fri Oct 17 01:11:55 +0000 2025",
+            "sentiment": "positive",
+            "is_new": false
+          }
+        ]
+      },
+      "knowledge_data": {
+        "id": 1,
+        "name": "Sora",
+        "company": "OpenAI",
+        "versions": [
+          "2 pro",
+          "2-Pro",
+          "2",
+          "3",
+          "2-pro",
+          "1",
+          "2 Pro"
+        ],
+        "mention_count": 340,
+        "first_mention_time": "2025-09-30T21:37:21Z",
+        "first_mention_tweet_id": "1973140133818834994",
+        "confidence": 0.8612500000000002
+      },
+      "kb_canonical_name": "Sora"
+    },
+    {
+      "name": "ChatGPT",
+      "twitter_data": {
+        "mention_count": 42,
+        "top_kols": [
+          "btibor91",
+          "howie_serious",
+          "VraserX",
+          "SmokeAwayyy",
+          "dotey"
+        ],
+        "sentiment": {
+          "neutral": 36,
+          "positive": 6
+        },
+        "total_engagement": 0,
+        "sample_tweets": [
+          {
+            "text": "nanochat d32, i.e. the depth 32 version that I specced for $1000, up from $100 has finished training after ~33 hours, and looks good. All the metrics go up quite a bit across pretraining, SFT and RL. CORE score of 0.31 is now well above GPT-2 at ~0.26. GSM8K went ~8% -> ~20%, etc. So that's encouraging.\n\nThe model is pretty fun to talk to, but judging from some early interactions I think people have a little bit too much expectation for these micro models. There is a reason that frontier LLM labs raise billions to train their models. nanochat models cost $100 - $1000 to train from scratch. The $100 nanochat is 1/1000th the size of GPT-3 in parameters, which came out 5 years ago. So I urge some perspective. Talking to micro models you have to imagine you're talking to a kindergarten child. They say cute things, wrong things, they are a bit confused, a bit naive, sometimes a little non-sensical, they hallucinate a ton (but it's amusing), etc.\n\nFull detail/report on this run is here:\nhttps://t.co/nWbfKOZLIg\nAnd I pushed the new script run1000 sh to the nanochat repo if anyone would like to reproduce. Totally understand if you'd like to spend $1000 on something else :D\n\nIf you like, I am currently hosting the model so you can talk to it on a webchat as you'd talk to ChatGPT. I'm not going to post the URL here because I'm afraid it will get crushed. You'll have to look for it if you care enough. I'm also attaching a few funny conversations I had with the model earlier into the image, just to give a sense.\n\nNext up, I am going to do one pass of tuning and optimizing the training throughput, then maybe return back to scaling and maybe training the next tier of a bigger model.",
+            "kol": "karpathy",
+            "rank": 0,
+            "followers": 0,
+            "likes": 0,
+            "retweets": 0,
+            "created_at": "Thu Oct 16 00:14:42 +0000 2025",
+            "sentiment": "neutral",
+            "is_new": true
+          },
+          {
+            "text": "Shit's going to be real fun in 5 years when ChatGPT is no longer growing and it becomes just another despicable subscription service like Netflix. They will start raising prices and monetize everything they can. (for all of humanity ofc)",
+            "kol": "scaling01",
+            "rank": 0,
+            "followers": 0,
+            "likes": 0,
+            "retweets": 0,
+            "created_at": "Thu Oct 16 10:10:40 +0000 2025",
+            "sentiment": "neutral",
+            "is_new": false
+          },
+          {
+            "text": "“ChatGPT-6 is coming out before the end of the year”",
+            "kol": "btibor91",
+            "rank": 0,
+            "followers": 0,
+            "likes": 0,
+            "retweets": 0,
+            "created_at": "Thu Oct 16 20:58:20 +0000 2025",
+            "sentiment": "neutral",
+            "is_new": false
+          }
+        ]
+      },
+      "knowledge_data": {
+        "id": 2,
+        "name": "ChatGPT",
+        "company": "OpenAI",
+        "versions": [
+          "Pro",
+          "4o-latest",
+          "null",
+          "GPT-5 Pro",
+          "4o",
+          "6",
+          "erotic version"
+        ],
+        "mention_count": 222,
+        "first_mention_time": "2025-09-29T14:42:09Z",
+        "first_mention_tweet_id": "1972673255245828128",
+        "confidence": 0.8666666666666667
+      },
+      "kb_canonical_name": "ChatGPT"
+    },
+    {
+      "name": "Gemini",
+      "twitter_data": {
+        "mention_count": 33,
+        "top_kols": [
+          "googlejapan",
+          "_philschmid",
+          "GoogleCloudTech",
+          "Firebase",
+          "scaling01"
+        ],
+        "sentiment": {
+          "neutral": 32,
+          "positive": 1
+        },
+        "total_engagement": 0,
+        "sample_tweets": [
+          {
+            "text": "Google Gemini website hinting at Gemini 3.0 Pro\n\"our smartest model yet\" https://t.co/s7ypxTldeY",
+            "kol": "scaling01",
+            "rank": 0,
+            "followers": 0,
+            "likes": 0,
+            "retweets": 0,
+            "created_at": "Wed Oct 15 19:49:02 +0000 2025",
+            "sentiment": "neutral",
+            "is_new": false
+          },
+          {
+            "text": "@OfficialLoganK @GoogleAIStudio Logan can we get to know if Gemini Gemini Gemini is coming this month?",
+            "kol": "Angaisb_",
+            "rank": 0,
+            "followers": 0,
+            "likes": 0,
+            "retweets": 0,
+            "created_at": "Thu Oct 16 16:37:44 +0000 2025",
+            "sentiment": "neutral",
+            "is_new": false
+          },
+          {
+            "text": "The new models are available via the Gemini API, Flow, the Gemini App, and Vertex AI!\n\nThe progress in GenMedia is incredible to see, this is just the start. So much more to come!\n\nRead more: https://t.co/ynYrtLb9DZ",
+            "kol": "OfficialLoganK",
+            "rank": 0,
+            "followers": 0,
+            "likes": 0,
+            "retweets": 0,
+            "created_at": "Wed Oct 15 16:07:01 +0000 2025",
+            "sentiment": "positive",
+            "is_new": true
+          }
+        ]
+      },
+      "knowledge_data": {
+        "id": 4,
+        "name": "Gemini",
+        "company": "Google",
+        "versions": [
+          "3.0 Pro",
+          "2.5",
+          "2.5 Pro",
+          "null",
+          "2.5 Flash",
+          "2.0",
+          "4.0",
+          "2.5 Flash Image Preview",
+          "Nano Banana",
+          "2.5 Flash Nano Banana",
+          "3",
+          "3.0",
+          "2.5Pro",
+          "3.0 pro",
+          "3 Pro"
+        ],
+        "mention_count": 175,
+        "first_mention_time": "2025-09-24T12:25:15Z",
+        "first_mention_tweet_id": "1970826864706081222",
+        "confidence": 0.8385714285714286
+      },
+      "kb_canonical_name": "Gemini"
+    },
+    {
+      "name": "Claude Haiku",
+      "twitter_data": {
+        "mention_count": 17,
+        "top_kols": [
+          "arena",
+          "poe_platform",
+          "code",
+          "alexalbert__",
+          "imxiaohu"
+        ],
+        "sentiment": {
+          "neutral": 14,
+          "positive": 3
+        },
+        "total_engagement": 0,
+        "sample_tweets": [
+          {
+            "text": "Claude Haiku 4.5, rolling out to @code today\n\nLearn more: https://t.co/D8ghyOLgd0 https://t.co/s56SNBoTMn",
+            "kol": "code",
+            "rank": 0,
+            "followers": 0,
+            "likes": 0,
+            "retweets": 0,
+            "created_at": "Wed Oct 15 19:04:52 +0000 2025",
+            "sentiment": "neutral",
+            "is_new": false
+          },
+          {
+            "text": "Introducing Claude Haiku 4.5.\n\nOur latest small model that matches Sonnet 4's performance at a third of the cost and more than twice the speed. https://t.co/JREePxuKSU",
+            "kol": "alexalbert__",
+            "rank": 0,
+            "followers": 0,
+            "likes": 0,
+            "retweets": 0,
+            "created_at": "Wed Oct 15 17:01:27 +0000 2025",
+            "sentiment": "neutral",
+            "is_new": false
+          },
+          {
+            "text": "Anthropic 推出 Claude Haiku 4.5 \n\n这是其最新一代 轻量级高性能语言模型\n\n更快的速度、更低的成本\n\n提供接近旗舰级 Claude Sonnet 4.5 的智能表现\n\n1、在编码任务上达到前沿模型的 九成性能，但速度更快、成本更低。\n\n2、Haiku 4.5 在 多智能体协作（agentic coding） 与 计算机使用（computer use） 任务上超过 Sonnet 4。\n\n3、速度是Claude Sonnet 4.5的2-5倍，成本是其1/3。\n\n根据官方内部基准测试：\n\n• 编码能力：达到 Sonnet 4.5 的 90%；\n• 指令遵循：准确率显著提升；\n• 速度：执行效率提高 2–5 倍；\n• 推理性能：在多数通用推理任务上保持高度稳定。\n\nHaiku 4.5 最大优势之一是“响应即时”：\n\n• 在实时聊天、客户支持、程序对话中，响应延迟几乎为零；\n• 在交互式 IDE（如 Warp、Claude Code）中，代码生成与修改几乎“秒级”完成；\n• 比较上一个版本 Claude Haiku 3.5，平均响应延迟降低约 60–70%。",
+            "kol": "imxiaohu",
+            "rank": 0,
+            "followers": 0,
+            "likes": 0,
+            "retweets": 0,
+            "created_at": "Thu Oct 16 01:09:42 +0000 2025",
+            "sentiment": "neutral",
+            "is_new": false
+          }
+        ]
+      },
+      "knowledge_data": {
+        "id": 41,
+        "name": "Claude Haiku",
+        "company": "Anthropic",
+        "versions": [
+          "4.5"
+        ],
+        "mention_count": 9,
+        "first_mention_time": "2025-10-15T21:35:38Z",
+        "first_mention_tweet_id": "1978575520460607802",
+        "confidence": 0.92
+      },
+      "kb_canonical_name": "Claude Haiku"
+    },
+    {
+      "name": "Copilot",
+      "twitter_data": {
+        "mention_count": 17,
+        "top_kols": [
+          "github",
+          "satyanadella",
+          "itsPaulAi",
+          "gigazine",
+          "itmedia_news"
+        ],
+        "sentiment": {
+          "neutral": 15,
+          "positive": 1,
+          "negative": 1
+        },
+        "total_engagement": 0,
+        "sample_tweets": [
+          {
+            "text": "Hey Copilot! Show everyone how we’re transforming how you interact with your Windows PC — so you can talk naturally, it can see what you see, and take action on your behalf. https://t.co/1YF1zK8Uj0",
+            "kol": "satyanadella",
+            "rank": 0,
+            "followers": 0,
+            "likes": 0,
+            "retweets": 0,
+            "created_at": "Thu Oct 16 13:08:24 +0000 2025",
+            "sentiment": "neutral",
+            "is_new": false
+          },
+          {
+            "text": "This is super useful! With new Formula Completions in Excel, just type \"=\" and Copilot proactively suggests a formula, based on the context of your sheet. Here's a great example. https://t.co/elkGzHjZTW",
+            "kol": "satyanadella",
+            "rank": 0,
+            "followers": 0,
+            "likes": 0,
+            "retweets": 0,
+            "created_at": "Tue Oct 14 19:03:08 +0000 2025",
+            "sentiment": "positive",
+            "is_new": true
+          },
+          {
+            "text": "These are all live today! Just go to the Agent Store in Copilot to try them out, along with dozens of others.\nLearn more: https://t.co/CTij41cg19",
+            "kol": "satyanadella",
+            "rank": 0,
+            "followers": 0,
+            "likes": 0,
+            "retweets": 0,
+            "created_at": "Sun Oct 12 20:57:51 +0000 2025",
+            "sentiment": "neutral",
+            "is_new": false
+          }
+        ]
+      },
+      "knowledge_data": {
+        "id": 26,
+        "name": "Copilot",
+        "company": "GitHub",
+        "versions": [],
+        "mention_count": 12,
+        "first_mention_time": "2025-09-25T16:01:10Z",
+        "first_mention_tweet_id": "1971243589049942348",
+        "confidence": 0.83
+      },
+      "kb_canonical_name": "Copilot"
+    },
+    {
+      "name": "Cursor",
+      "twitter_data": {
+        "mention_count": 16,
+        "top_kols": [
+          "maccaw",
+          "kinopee_ai",
+          "levie",
+          "rileybrown_ai",
+          "yugen_matuni"
+        ],
+        "sentiment": {
+          "neutral": 15,
+          "positive": 1
+        },
+        "total_engagement": 0,
+        "sample_tweets": [
+          {
+            "text": "Cursor Meetup Osaka のモノタロウさんの発表も、意外なことに？、IDE よりも Devin の方が効果（PR数）が明らかでした。非常に興味深い点です。 https://t.co/1tbGYMkCIz",
+            "kol": "kinopee_ai",
+            "rank": 0,
+            "followers": 0,
+            "likes": 0,
+            "retweets": 0,
+            "created_at": "Fri Oct 17 08:41:48 +0000 2025",
+            "sentiment": "neutral",
+            "is_new": false
+          },
+          {
+            "text": "Cursor Agent Review、CodeRabbit でも検出0のブランチで4件問題検出。ただし、この内容を GPT-5-Codex に確認させたら、対応の必要はなし。\nツールごとに差異があるのはいつものことだけど、今回は少しブレ幅が大きい気がする。 https://t.co/3strZudx2G",
+            "kol": "kinopee_ai",
+            "rank": 0,
+            "followers": 0,
+            "likes": 0,
+            "retweets": 0,
+            "created_at": "Fri Oct 17 07:19:54 +0000 2025",
+            "sentiment": "neutral",
+            "is_new": false
+          },
+          {
+            "text": "Here is my monorepo scaffold that you can use as a good getting started template. You can check out all the cursor rules I put together as well.\n\nhttps://t.co/Vss6ARAzmH",
+            "kol": "maccaw",
+            "rank": 0,
+            "followers": 0,
+            "likes": 0,
+            "retweets": 0,
+            "created_at": "Thu Oct 16 17:20:39 +0000 2025",
+            "sentiment": "neutral",
+            "is_new": false
+          }
+        ]
+      },
+      "knowledge_data": {
+        "id": 22,
+        "name": "Cursor",
+        "company": "Cursor",
+        "versions": [
+          "gpt-5-pro"
+        ],
+        "mention_count": 15,
+        "first_mention_time": "2025-09-30T17:45:34Z",
+        "first_mention_tweet_id": "1973081804178395223",
+        "confidence": 0.76
+      },
+      "kb_canonical_name": "Cursor"
+    },
+    {
+      "name": "Grok",
+      "twitter_data": {
+        "mention_count": 14,
+        "top_kols": [
+          "gauravisnotme",
+          "elder_plinius",
+          "Artedeingenio",
+          "chetbff",
+          "ArtificialAnlys"
+        ],
+        "sentiment": {
+          "neutral": 10,
+          "positive": 3,
+          "negative": 1
+        },
+        "total_engagement": 0,
+        "sample_tweets": [
+          {
+            "text": "Anna Karenina in 80s OVA-style anime is something so beautiful and poetic 🚂❄️\n\nAnd it’s all thanks to Grok Imagine. https://t.co/bv0Zm2Tbpn",
+            "kol": "Artedeingenio",
+            "rank": 0,
+            "followers": 0,
+            "likes": 0,
+            "retweets": 0,
+            "created_at": "Fri Oct 17 11:26:31 +0000 2025",
+            "sentiment": "neutral",
+            "is_new": false
+          },
+          {
+            "text": "GM. Have a great Monday. \n\nMade by @grok Imagine https://t.co/kchpQTiw1V",
+            "kol": "chetbff",
+            "rank": 0,
+            "followers": 0,
+            "likes": 0,
+            "retweets": 0,
+            "created_at": "Mon Oct 13 15:02:01 +0000 2025",
+            "sentiment": "positive",
+            "is_new": false
+          },
+          {
+            "text": "Anthropic launches their first Haiku model in 11 months - Claude 4.5 Haiku jumps 35 points in Artificial Analysis Intelligence Index to become relevant again\n\nClaude 4.5 Haiku is 3x cheaper per token than Claude 4.5 Sonnet. Running the Artificial Analysis Intelligence Index costs $262 with Haiku vs. $817 with Sonnet (~3x more) - full cost breakdown in the thread below.\n\nThere is a stronger case for 4.5 Haiku’s intelligence/cost positioning than 3.5 Haiku, but there is a competitive field of cheaper alternatives with similar intelligence that may make more sense for developers without a reason to need a Claude model specifically - including gpt-oss-120b (reasoning high, ~$75) and Grok 4 Fast (~$40). Claude 4.5 Haiku is the most cost-effective way to access ‘Claude’ but is not the most cost effective model for its level of intelligence.\n\nKey benchmarking results:\n➤🧠 Model Intelligence: In reasoning mode, Claude 4.5 Haiku scores 55 on the Artificial Analysis Intelligence Index. This is 8 points lower than Claude 4.5 Sonnet (Thinking) and 4 points lower than Claude 4.1 Opus (Thinking). Claude 4.5 Haiku (Thinking) places marginally ahead of Gemini 2.5 Flash (Reasoning, 54) but behind other reasoning models such as Qwen3 235B 2507 (57), DeepSeek V3.2 Exp (57), and GLM 4.6 (56)\n➤📈 Intelligence Uplift: Anthropic released Claude 3.5 Haiku in November 2024, ~11 months before the release of Claude 4.5 Haiku. Claude 4.5 Haiku is a significant improvement in intelligence compared to Claude 3.5 Haiku, scoring 67% on GPQA Diamond in reasoning mode (compared to 41% for Claude 3.5 Haiku)\n➤⚙️ Notable Strengths: In reasonign mode, Claude 4.5 Haiku performs well in long-context reasoning (70% on AA-LCR, behind only GPT-5 High) and coding (43%, matching GPT-5 High and Gemini 2.5 Pro)\n➤⚡ Non-Reasoning Performance: In non-reasoning mode, Claude 4.5 Haiku scores 42 on the Artificial Analysis Intelligence Index. This places the model in line with GPT-5 (minimal, 43) but behind Gemini 2.5 Flash (non-reasoning, 47)\n➤💲 Pricing: Claude 4.5 Haiku is priced at $1/$5 per 1M input/output tokens, which makes it 3x cheaper compared to Claude 4.5 Sonnet (priced at $3/$15 per 1M input/output tokens)\n➤⚙️ Token Efficiency: Anthropic’s Claude models continue to be more token-efficient than all other reasoning models. For Claude 4.5 Haiku (Thinking) -evaluated with a maximum reasoning budget of 64k tokens - we see the model use 39M output tokens to run the Artificial Analysis Intelligence Index. Its token usage is lower than Claude 4.5 Sonnet (42M) but higher than Claude 4.1 Opus (30M) in thinking mode\n\nKey model details:\n\n➤📏 Context Window: 200K tokens. This is equivalent to Claude 4.5 Sonnet\n➤🌐 Availability: Claude 4.5 Haiku is available via Anthropic‘s API, Google Vertex and Amazon Bedrock. Claude 4.5 Haiku is also available via Claude, and Claude Code",
+            "kol": "ArtificialAnlys",
+            "rank": 0,
+            "followers": 0,
+            "likes": 0,
+            "retweets": 0,
+            "created_at": "Thu Oct 16 03:17:55 +0000 2025",
+            "sentiment": "neutral",
+            "is_new": true
+          }
+        ]
+      },
+      "knowledge_data": {
+        "id": 47,
+        "name": "Grok",
+        "company": "xAI",
+        "versions": [
+          "4 Fast",
+          "4"
+        ],
+        "mention_count": 8,
+        "first_mention_time": "2025-10-05T04:08:52Z",
+        "first_mention_tweet_id": "1974688211952959930",
+        "confidence": 0.71
+      },
+      "kb_canonical_name": "Grok"
+    },
+    {
+      "name": "GPT-5",
+      "twitter_data": {
+        "mention_count": 13,
+        "top_kols": [
+          "ArtificialAnlys",
+          "Angaisb_",
+          "bindureddy",
+          "slow_developer",
+          "masahirochaen"
+        ],
+        "sentiment": {
+          "neutral": 12,
+          "positive": 1
+        },
+        "total_engagement": 0,
+        "sample_tweets": [
+          {
+            "text": "we finally know how close we are to AGI\n\nthe paper tested the GPT-4 and GPT-5 on human cognitive abilities:\n\n> GPT-5 scored 58% toward AGI\n> GPT-4 scored 27%\n\nthe research also shows \"jagged intelligence\", which helps explain why AI can feel both very impressive and surprisingly weak at the same time",
+            "kol": "slow_developer",
+            "rank": 0,
+            "followers": 0,
+            "likes": 0,
+            "retweets": 0,
+            "created_at": "Fri Oct 17 00:10:00 +0000 2025",
+            "sentiment": "neutral",
+            "is_new": false
+          },
+          {
+            "text": "Anthropic launches their first Haiku model in 11 months - Claude 4.5 Haiku jumps 35 points in Artificial Analysis Intelligence Index to become relevant again\n\nClaude 4.5 Haiku is 3x cheaper per token than Claude 4.5 Sonnet. Running the Artificial Analysis Intelligence Index costs $262 with Haiku vs. $817 with Sonnet (~3x more) - full cost breakdown in the thread below.\n\nThere is a stronger case for 4.5 Haiku’s intelligence/cost positioning than 3.5 Haiku, but there is a competitive field of cheaper alternatives with similar intelligence that may make more sense for developers without a reason to need a Claude model specifically - including gpt-oss-120b (reasoning high, ~$75) and Grok 4 Fast (~$40). Claude 4.5 Haiku is the most cost-effective way to access ‘Claude’ but is not the most cost effective model for its level of intelligence.\n\nKey benchmarking results:\n➤🧠 Model Intelligence: In reasoning mode, Claude 4.5 Haiku scores 55 on the Artificial Analysis Intelligence Index. This is 8 points lower than Claude 4.5 Sonnet (Thinking) and 4 points lower than Claude 4.1 Opus (Thinking). Claude 4.5 Haiku (Thinking) places marginally ahead of Gemini 2.5 Flash (Reasoning, 54) but behind other reasoning models such as Qwen3 235B 2507 (57), DeepSeek V3.2 Exp (57), and GLM 4.6 (56)\n➤📈 Intelligence Uplift: Anthropic released Claude 3.5 Haiku in November 2024, ~11 months before the release of Claude 4.5 Haiku. Claude 4.5 Haiku is a significant improvement in intelligence compared to Claude 3.5 Haiku, scoring 67% on GPQA Diamond in reasoning mode (compared to 41% for Claude 3.5 Haiku)\n➤⚙️ Notable Strengths: In reasonign mode, Claude 4.5 Haiku performs well in long-context reasoning (70% on AA-LCR, behind only GPT-5 High) and coding (43%, matching GPT-5 High and Gemini 2.5 Pro)\n➤⚡ Non-Reasoning Performance: In non-reasoning mode, Claude 4.5 Haiku scores 42 on the Artificial Analysis Intelligence Index. This places the model in line with GPT-5 (minimal, 43) but behind Gemini 2.5 Flash (non-reasoning, 47)\n➤💲 Pricing: Claude 4.5 Haiku is priced at $1/$5 per 1M input/output tokens, which makes it 3x cheaper compared to Claude 4.5 Sonnet (priced at $3/$15 per 1M input/output tokens)\n➤⚙️ Token Efficiency: Anthropic’s Claude models continue to be more token-efficient than all other reasoning models. For Claude 4.5 Haiku (Thinking) -evaluated with a maximum reasoning budget of 64k tokens - we see the model use 39M output tokens to run the Artificial Analysis Intelligence Index. Its token usage is lower than Claude 4.5 Sonnet (42M) but higher than Claude 4.1 Opus (30M) in thinking mode\n\nKey model details:\n\n➤📏 Context Window: 200K tokens. This is equivalent to Claude 4.5 Sonnet\n➤🌐 Availability: Claude 4.5 Haiku is available via Anthropic‘s API, Google Vertex and Amazon Bedrock. Claude 4.5 Haiku is also available via Claude, and Claude Code",
+            "kol": "ArtificialAnlys",
+            "rank": 0,
+            "followers": 0,
+            "likes": 0,
+            "retweets": 0,
+            "created_at": "Thu Oct 16 03:17:55 +0000 2025",
+            "sentiment": "neutral",
+            "is_new": true
+          },
+          {
+            "text": "GPQA Diamond and 𝜏²-Bench Telecom (an agentic benchmark requiring models to act in a customer service role) both show outsized performance for GPT-5 and o3 compared to GPT-4.1, but while the reasoning models cost >10x to run GPQA, in 𝜏²’s customer service environment they cost about the same as GPT-4.1. o3 and GPT-4.1 now have equal token costs, so these differences are driven entirely by efficiency.",
+            "kol": "ArtificialAnlys",
+            "rank": 0,
+            "followers": 0,
+            "likes": 0,
+            "retweets": 0,
+            "created_at": "Wed Oct 15 20:39:21 +0000 2025",
+            "sentiment": "neutral",
+            "is_new": false
+          }
+        ]
+      },
+      "knowledge_data": {
+        "id": 7,
+        "name": "GPT-5",
+        "company": "OpenAI",
+        "versions": [
+          "Pro",
+          "null",
+          "minimal",
+          "5",
+          "High"
+        ],
+        "mention_count": 67,
+        "first_mention_time": "2025-09-17T17:25:13Z",
+        "first_mention_tweet_id": "1968365640122863689",
+        "confidence": 0.782
+      },
+      "kb_canonical_name": "GPT-5"
+    },
+    {
+      "name": "Qwen3",
+      "twitter_data": {
+        "mention_count": 13,
+        "top_kols": [
+          "Alibaba_Qwen",
+          "ArtificialAnlys",
+          "arena",
+          "DeepLearningAI"
+        ],
+        "sentiment": {
+          "neutral": 11,
+          "positive": 2
+        },
+        "total_engagement": 0,
+        "sample_tweets": [
+          {
+            "text": "Anthropic launches their first Haiku model in 11 months - Claude 4.5 Haiku jumps 35 points in Artificial Analysis Intelligence Index to become relevant again\n\nClaude 4.5 Haiku is 3x cheaper per token than Claude 4.5 Sonnet. Running the Artificial Analysis Intelligence Index costs $262 with Haiku vs. $817 with Sonnet (~3x more) - full cost breakdown in the thread below.\n\nThere is a stronger case for 4.5 Haiku’s intelligence/cost positioning than 3.5 Haiku, but there is a competitive field of cheaper alternatives with similar intelligence that may make more sense for developers without a reason to need a Claude model specifically - including gpt-oss-120b (reasoning high, ~$75) and Grok 4 Fast (~$40). Claude 4.5 Haiku is the most cost-effective way to access ‘Claude’ but is not the most cost effective model for its level of intelligence.\n\nKey benchmarking results:\n➤🧠 Model Intelligence: In reasoning mode, Claude 4.5 Haiku scores 55 on the Artificial Analysis Intelligence Index. This is 8 points lower than Claude 4.5 Sonnet (Thinking) and 4 points lower than Claude 4.1 Opus (Thinking). Claude 4.5 Haiku (Thinking) places marginally ahead of Gemini 2.5 Flash (Reasoning, 54) but behind other reasoning models such as Qwen3 235B 2507 (57), DeepSeek V3.2 Exp (57), and GLM 4.6 (56)\n➤📈 Intelligence Uplift: Anthropic released Claude 3.5 Haiku in November 2024, ~11 months before the release of Claude 4.5 Haiku. Claude 4.5 Haiku is a significant improvement in intelligence compared to Claude 3.5 Haiku, scoring 67% on GPQA Diamond in reasoning mode (compared to 41% for Claude 3.5 Haiku)\n➤⚙️ Notable Strengths: In reasonign mode, Claude 4.5 Haiku performs well in long-context reasoning (70% on AA-LCR, behind only GPT-5 High) and coding (43%, matching GPT-5 High and Gemini 2.5 Pro)\n➤⚡ Non-Reasoning Performance: In non-reasoning mode, Claude 4.5 Haiku scores 42 on the Artificial Analysis Intelligence Index. This places the model in line with GPT-5 (minimal, 43) but behind Gemini 2.5 Flash (non-reasoning, 47)\n➤💲 Pricing: Claude 4.5 Haiku is priced at $1/$5 per 1M input/output tokens, which makes it 3x cheaper compared to Claude 4.5 Sonnet (priced at $3/$15 per 1M input/output tokens)\n➤⚙️ Token Efficiency: Anthropic’s Claude models continue to be more token-efficient than all other reasoning models. For Claude 4.5 Haiku (Thinking) -evaluated with a maximum reasoning budget of 64k tokens - we see the model use 39M output tokens to run the Artificial Analysis Intelligence Index. Its token usage is lower than Claude 4.5 Sonnet (42M) but higher than Claude 4.1 Opus (30M) in thinking mode\n\nKey model details:\n\n➤📏 Context Window: 200K tokens. This is equivalent to Claude 4.5 Sonnet\n➤🌐 Availability: Claude 4.5 Haiku is available via Anthropic‘s API, Google Vertex and Amazon Bedrock. Claude 4.5 Haiku is also available via Claude, and Claude Code",
+            "kol": "ArtificialAnlys",
+            "rank": 0,
+            "followers": 0,
+            "likes": 0,
+            "retweets": 0,
+            "created_at": "Thu Oct 16 03:17:55 +0000 2025",
+            "sentiment": "neutral",
+            "is_new": true
+          },
+          {
+            "text": "🚨 New model drops!\n\nQwen 3 VL 8b Thinking and Qwen 3 VL 8b Instruct have entered the Text and Vision Arenas!\n\n@Alibaba_Qwen's Qwen3-VL just got lighter, but with the same full-stack capabilities, let's see how they rank on the leaderboards. \n\n🗳️ Get prompting in Battle mode with your toughest real-world use cases, and through your votes, we'll know soon!",
+            "kol": "arena",
+            "rank": 0,
+            "followers": 0,
+            "likes": 0,
+            "retweets": 0,
+            "created_at": "Tue Oct 14 18:33:16 +0000 2025",
+            "sentiment": "neutral",
+            "is_new": true
+          },
+          {
+            "text": "In the latest issue of The Batch, Andrew Ng announces his latest course, Agentic AI, a hands-on builder course using four key design patterns (reflection, tool use, planning, and multi-agent collaboration).\n\nPlus: \n🗞️ Anthropic launches Claude Sonnet 4.5 and overhauls Claude Code\n🗞️ OpenAI, Meta diversify AI product lines\n🗞️ Alibaba adds Qwen3-Max and open multimodal Qwen3-VL/Omni models\n🗞️ LoRA adapters on tap\n\nRead The Batch: https://t.co/ycWcsyznBE",
+            "kol": "DeepLearningAI",
+            "rank": 0,
+            "followers": 0,
+            "likes": 0,
+            "retweets": 0,
+            "created_at": "Mon Oct 13 22:15:54 +0000 2025",
+            "sentiment": "neutral",
+            "is_new": true
+          }
+        ]
+      },
+      "knowledge_data": {
+        "id": 190,
+        "name": "Qwen3",
+        "company": null,
+        "versions": [
+          "235B 2507"
+        ],
+        "mention_count": 3,
+        "first_mention_time": "2025-10-07T04:58:58Z",
+        "first_mention_tweet_id": "1975425594679496979",
+        "confidence": 0.75
+      },
+      "kb_canonical_name": "Qwen3"
+    },
+    {
+      "name": "GPT-6",
+      "twitter_data": {
+        "mention_count": 12,
+        "top_kols": [
+          "Angaisb_",
+          "deredleritt3r",
+          "daniel_mac8",
+          "kimmonismus",
+          "slow_developer"
+        ],
+        "sentiment": {
+          "neutral": 11,
+          "positive": 1
+        },
+        "total_engagement": 0,
+        "sample_tweets": [
+          {
+            "text": "Per Brad Gerstner (investor in OpenAI): OpenAI is release GPT-6 before end of the year! So in the next 1.5 months we will see another big release! https://t.co/DcYXW1iRY0",
+            "kol": "kimmonismus",
+            "rank": 0,
+            "followers": 0,
+            "likes": 0,
+            "retweets": 0,
+            "created_at": "Fri Oct 17 08:14:20 +0000 2025",
+            "sentiment": "neutral",
+            "is_new": false
+          },
+          {
+            "text": "GPT-6 before GTA-6\n\nit would be something no one expects right now.\n\nand surely the AI bubble isn't ready for what's coming",
+            "kol": "slow_developer",
+            "rank": 0,
+            "followers": 0,
+            "likes": 0,
+            "retweets": 0,
+            "created_at": "Fri Oct 17 07:35:33 +0000 2025",
+            "sentiment": "neutral",
+            "is_new": false
+          },
+          {
+            "text": "GPT-6 by end of this year as per CNBC.\nhttps://t.co/PcrO0nP829",
+            "kol": "ai_for_success",
+            "rank": 0,
+            "followers": 0,
+            "likes": 0,
+            "retweets": 0,
+            "created_at": "Fri Oct 17 00:37:49 +0000 2025",
+            "sentiment": "neutral",
+            "is_new": false
+          }
+        ]
+      },
+      "knowledge_data": {
+        "id": 23,
+        "name": "GPT-6",
+        "company": "OpenAI",
+        "versions": [
+          "6"
+        ],
+        "mention_count": 14,
+        "first_mention_time": "2025-10-06T16:53:05Z",
+        "first_mention_tweet_id": "1975242921567002853",
+        "confidence": 0.81
+      },
+      "kb_canonical_name": "GPT-6"
+    },
+    {
+      "name": "VS Code",
+      "twitter_data": {
+        "mention_count": 9,
+        "top_kols": [
+          "code",
+          "Prathkum",
+          "DeepLearningAI"
+        ],
+        "sentiment": {
+          "neutral": 7,
+          "positive": 2
+        },
+        "total_engagement": 0,
+        "sample_tweets": [
+          {
+            "text": "#TBT to the VS Code Dev Days across North America! 🌎\n\nFrom coast to coast, local communities in the United States and Canada hosted 16 events packed with inspiring talks and hands-on coding sessions, bringing developers together to learn, build, and connect. \n\nSpecial thanks to @ProgressSW for supporting events in Boston, Chicago, Raleigh and Tulsa! 💻⚡\n\nHere’s a look at some of those moments 👇",
+            "kol": "code",
+            "rank": 0,
+            "followers": 0,
+            "likes": 0,
+            "retweets": 0,
+            "created_at": "Thu Oct 16 22:05:07 +0000 2025",
+            "sentiment": "neutral",
+            "is_new": false
+          },
+          {
+            "text": "@ProgressSW In Peru, local communities hosted 3 VS Code Dev Days in Lima, featuring talks and hands-on sessions for developers to learn and practice new skills. 💻✨ https://t.co/XcWsLhX25Q",
+            "kol": "code",
+            "rank": 0,
+            "followers": 0,
+            "likes": 0,
+            "retweets": 0,
+            "created_at": "Thu Oct 16 18:15:32 +0000 2025",
+            "sentiment": "neutral",
+            "is_new": true
+          },
+          {
+            "text": "@ProgressSW Next stop: Mexico! ⚡\n\nVS Code Dev Days brought developers together in Monterrey, Tuxtla Gutiérrez, and Mexico City, sharing knowledge, building projects, and connecting as a community 💙 https://t.co/F7eSprTeNJ",
+            "kol": "code",
+            "rank": 0,
+            "followers": 0,
+            "likes": 0,
+            "retweets": 0,
+            "created_at": "Thu Oct 16 18:15:32 +0000 2025",
+            "sentiment": "neutral",
+            "is_new": false
+          }
+        ]
+      },
+      "knowledge_data": {
+        "id": 352,
+        "name": "VS Code",
+        "company": null,
+        "versions": [
+          "v1.105"
+        ],
+        "mention_count": 2,
+        "first_mention_time": "2025-10-13T16:15:39Z",
+        "first_mention_tweet_id": "1977770215417991627",
+        "confidence": 0.9
+      },
+      "kb_canonical_name": "VS Code"
+    },
+    {
+      "name": "Lovable",
+      "twitter_data": {
+        "mention_count": 9,
+        "top_kols": [
+          "antonosika",
+          "rileybrown_ai"
+        ],
+        "sentiment": {
+          "neutral": 8,
+          "positive": 1
+        },
+        "total_engagement": 0,
+        "sample_tweets": [
+          {
+            "text": "A year ago, we weren’t thinking much about enterprise. But it's now it's becoming a significant part of Lovable's revenue.\n\nEnterprises use Lovable to design, prototype, and build software faster. They collaborate across product, design, and engineering without losing speed.\n\nWe’ve built the features that make it possible: security, SSO, collaboration, design systems, and the reliability large companies need. Several companies have told us Lovable is the fastest-adopted tool they’ve ever rolled out internally.\n\nWe didn’t plan for this early on, but it has become a big part of where Lovable is growing.",
+            "kol": "antonosika",
+            "rank": 0,
+            "followers": 0,
+            "likes": 0,
+            "retweets": 0,
+            "created_at": "Thu Oct 16 15:57:11 +0000 2025",
+            "sentiment": "neutral",
+            "is_new": false
+          },
+          {
+            "text": "TL;DR Lovable just got a lot more powerful, and people like it so much the demand is spiking.\n\nWe’re now focused on expanding capacity and making Lovable Cloud even stronger.",
+            "kol": "antonosika",
+            "rank": 0,
+            "followers": 0,
+            "likes": 0,
+            "retweets": 0,
+            "created_at": "Wed Oct 15 16:00:35 +0000 2025",
+            "sentiment": "neutral",
+            "is_new": false
+          },
+          {
+            "text": "Since Lovable Cloud runs on Supabase, this growth contributed to doubling Supabase’s weekly database creation.\n\n//4",
+            "kol": "antonosika",
+            "rank": 0,
+            "followers": 0,
+            "likes": 0,
+            "retweets": 0,
+            "created_at": "Wed Oct 15 16:00:29 +0000 2025",
+            "sentiment": "neutral",
+            "is_new": false
+          }
+        ]
+      },
+      "knowledge_data": {
+        "id": 34,
+        "name": "Lovable",
+        "company": "Lovable",
+        "versions": [],
+        "mention_count": 10,
+        "first_mention_time": "2025-09-30T17:45:34Z",
+        "first_mention_tweet_id": "1973081804178395223",
+        "confidence": 0.78
+      },
+      "kb_canonical_name": "Lovable"
+    },
+    {
+      "name": "Qwen",
+      "twitter_data": {
+        "mention_count": 8,
+        "top_kols": [
+          "arena",
+          "Alibaba_Qwen",
+          "gigazine",
+          "ComfyUI",
+          "legit_api"
+        ],
+        "sentiment": {
+          "neutral": 7,
+          "positive": 1
+        },
+        "total_engagement": 0,
+        "sample_tweets": [
+          {
+            "text": "iPhoneやMacで重量級画像生成AIをローカル実行できる「Draw Things」を使ってみたよレビュー、Qwen Imageのような大型モデルも実行可能\nhttps://t.co/0gJa1OO1xV",
+            "kol": "gigazine",
+            "rank": 0,
+            "followers": 0,
+            "likes": 0,
+            "retweets": 0,
+            "created_at": "Fri Oct 17 03:13:19 +0000 2025",
+            "sentiment": "neutral",
+            "is_new": false
+          },
+          {
+            "text": "Check out Qwen 3 VL 8b Thinking and Qwen 3 VL 8b Instruct vs. all the best AI models at: https://t.co/gxIFU9kamu",
+            "kol": "arena",
+            "rank": 0,
+            "followers": 0,
+            "likes": 0,
+            "retweets": 0,
+            "created_at": "Tue Oct 14 18:33:16 +0000 2025",
+            "sentiment": "positive",
+            "is_new": false
+          },
+          {
+            "text": "🚨 New model drops!\n\nQwen 3 VL 8b Thinking and Qwen 3 VL 8b Instruct have entered the Text and Vision Arenas!\n\n@Alibaba_Qwen's Qwen3-VL just got lighter, but with the same full-stack capabilities, let's see how they rank on the leaderboards. \n\n🗳️ Get prompting in Battle mode with your toughest real-world use cases, and through your votes, we'll know soon!",
+            "kol": "arena",
+            "rank": 0,
+            "followers": 0,
+            "likes": 0,
+            "retweets": 0,
+            "created_at": "Tue Oct 14 18:33:16 +0000 2025",
+            "sentiment": "neutral",
+            "is_new": true
+          }
+        ]
+      },
+      "knowledge_data": {
+        "id": 39,
+        "name": "Qwen",
+        "company": null,
+        "versions": [
+          "2.5",
+          "3"
+        ],
+        "mention_count": 9,
+        "first_mention_time": "2025-10-02T18:30:00Z",
+        "first_mention_tweet_id": "1973817761336824265",
+        "confidence": 0.79
+      },
+      "kb_canonical_name": "Qwen"
+    },
+    {
+      "name": "GPT-4",
+      "twitter_data": {
+        "mention_count": 7,
+        "top_kols": [
+          "SuguruKun_ai",
+          "slow_developer",
+          "ArtificialAnlys",
+          "maccaw",
+          "dotey"
+        ],
+        "sentiment": {
+          "neutral": 6,
+          "positive": 1
+        },
+        "total_engagement": 0,
+        "sample_tweets": [
+          {
+            "text": "we finally know how close we are to AGI\n\nthe paper tested the GPT-4 and GPT-5 on human cognitive abilities:\n\n> GPT-5 scored 58% toward AGI\n> GPT-4 scored 27%\n\nthe research also shows \"jagged intelligence\", which helps explain why AI can feel both very impressive and surprisingly weak at the same time",
+            "kol": "slow_developer",
+            "rank": 0,
+            "followers": 0,
+            "likes": 0,
+            "retweets": 0,
+            "created_at": "Fri Oct 17 00:10:00 +0000 2025",
+            "sentiment": "neutral",
+            "is_new": false
+          },
+          {
+            "text": "GPQA Diamond and 𝜏²-Bench Telecom (an agentic benchmark requiring models to act in a customer service role) both show outsized performance for GPT-5 and o3 compared to GPT-4.1, but while the reasoning models cost >10x to run GPQA, in 𝜏²’s customer service environment they cost about the same as GPT-4.1. o3 and GPT-4.1 now have equal token costs, so these differences are driven entirely by efficiency.",
+            "kol": "ArtificialAnlys",
+            "rank": 0,
+            "followers": 0,
+            "likes": 0,
+            "retweets": 0,
+            "created_at": "Wed Oct 15 20:39:21 +0000 2025",
+            "sentiment": "neutral",
+            "is_new": false
+          },
+          {
+            "text": "I use a Mac app called \"Spokenly\" to dictate everything, so I move at the speed of speech. Right now I'm finding the online GPT-4.0 mini transcribe model the best.",
+            "kol": "maccaw",
+            "rank": 0,
+            "followers": 0,
+            "likes": 0,
+            "retweets": 0,
+            "created_at": "Thu Oct 16 17:20:33 +0000 2025",
+            "sentiment": "positive",
+            "is_new": false
+          }
+        ]
+      },
+      "knowledge_data": {
+        "id": 118,
+        "name": "GPT-4",
+        "company": "OpenAI",
+        "versions": [],
+        "mention_count": 4,
+        "first_mention_time": "2025-10-05T12:48:48Z",
+        "first_mention_tweet_id": "1974819056533504434",
+        "confidence": 0.85
+      },
+      "kb_canonical_name": "GPT-4"
+    },
+    {
+      "name": "Claude 4.5 Haiku",
+      "twitter_data": {
+        "mention_count": 7,
+        "top_kols": [
+          "ArtificialAnlys",
+          "minimaxir"
+        ],
+        "sentiment": {
+          "neutral": 7
+        },
+        "total_engagement": 0,
+        "sample_tweets": [
+          {
+            "text": "Compare Claude 4.5 Haiku to other models on Artificial Analysis:\n\nhttps://t.co/pWxqQBYac9",
+            "kol": "ArtificialAnlys",
+            "rank": 0,
+            "followers": 0,
+            "likes": 0,
+            "retweets": 0,
+            "created_at": "Thu Oct 16 03:17:59 +0000 2025",
+            "sentiment": "neutral",
+            "is_new": false
+          },
+          {
+            "text": "Claude 4.5 Haiku is on the frontier for Anthropic models when looking at the trade-off between intelligence and cost to run the Artificial Analysis Intelligence Index. This makes Claude 4.5 Haiku a valid alternative to Claude 4.5 Sonnet for users who want to access ‘Claude’ at a cheaper price point",
+            "kol": "ArtificialAnlys",
+            "rank": 0,
+            "followers": 0,
+            "likes": 0,
+            "retweets": 0,
+            "created_at": "Thu Oct 16 03:17:57 +0000 2025",
+            "sentiment": "neutral",
+            "is_new": false
+          },
+          {
+            "text": "Claude 4.5 Haiku is a significant intelligence uplift compared to Claude 3.5 Haiku. Compared to Claude 3.5 Haiku, there is a +26 p.p. and +24 p.p. increase in GPQA-Diamond scores for Thinking and Non-Thinking modes, respectively. Claude 3.5 Haiku is a non-reasoning model, and it was released ~11 months prior to the release of Claude 4.5 Haiku",
+            "kol": "ArtificialAnlys",
+            "rank": 0,
+            "followers": 0,
+            "likes": 0,
+            "retweets": 0,
+            "created_at": "Thu Oct 16 03:17:57 +0000 2025",
+            "sentiment": "neutral",
+            "is_new": false
+          }
+        ]
+      },
+      "knowledge_data": {
+        "id": 207,
+        "name": "Claude 4.5 Haiku",
+        "company": "Anthropic",
+        "versions": [],
+        "mention_count": 3,
+        "first_mention_time": "2025-10-16T03:17:56Z",
+        "first_mention_tweet_id": "1978661662950633714",
+        "confidence": 0.9
+      },
+      "kb_canonical_name": "Claude 4.5 Haiku"
+    },
+    {
+      "name": "Claude Sonnet",
+      "twitter_data": {
+        "mention_count": 7,
+        "top_kols": [
+          "DeepLearningAI",
+          "alexalbert__",
+          "imxiaohu",
+          "kosuke_agos",
+          "maccaw"
+        ],
+        "sentiment": {
+          "positive": 2,
+          "neutral": 5
+        },
+        "total_engagement": 0,
+        "sample_tweets": [
+          {
+            "text": "Congratulations to the winners of the “Built with Claude Sonnet 4.5” Challenge!\n\nIncredible to see the amazing things you all built with Sonnet 4.5.\n\n“Keep Coding” Award: Sidekick - Neovim plugin by @nishantjosh (on Discord)\n\n“Keep Learning” Award: Digital Canvas by @ShashankDe5535\n\n“Keep Researching” Award: DaKineDiving by @sjungbluth (on Discord)\n\n“Keep Creating” Award: Cozy Journal by @yanliudesign \n\nEach winner received one year of Claude Max 20x and $1k in Claude API credits. Thank you to everyone who built and submitted!",
+            "kol": "alexalbert__",
+            "rank": 0,
+            "followers": 0,
+            "likes": 0,
+            "retweets": 0,
+            "created_at": "Tue Oct 14 22:04:33 +0000 2025",
+            "sentiment": "positive",
+            "is_new": false
+          },
+          {
+            "text": "Anthropic 推出 Claude Haiku 4.5 \n\n这是其最新一代 轻量级高性能语言模型\n\n更快的速度、更低的成本\n\n提供接近旗舰级 Claude Sonnet 4.5 的智能表现\n\n1、在编码任务上达到前沿模型的 九成性能，但速度更快、成本更低。\n\n2、Haiku 4.5 在 多智能体协作（agentic coding） 与 计算机使用（computer use） 任务上超过 Sonnet 4。\n\n3、速度是Claude Sonnet 4.5的2-5倍，成本是其1/3。\n\n根据官方内部基准测试：\n\n• 编码能力：达到 Sonnet 4.5 的 90%；\n• 指令遵循：准确率显著提升；\n• 速度：执行效率提高 2–5 倍；\n• 推理性能：在多数通用推理任务上保持高度稳定。\n\nHaiku 4.5 最大优势之一是“响应即时”：\n\n• 在实时聊天、客户支持、程序对话中，响应延迟几乎为零；\n• 在交互式 IDE（如 Warp、Claude Code）中，代码生成与修改几乎“秒级”完成；\n• 比较上一个版本 Claude Haiku 3.5，平均响应延迟降低约 60–70%。",
+            "kol": "imxiaohu",
+            "rank": 0,
+            "followers": 0,
+            "likes": 0,
+            "retweets": 0,
+            "created_at": "Thu Oct 16 01:09:42 +0000 2025",
+            "sentiment": "neutral",
+            "is_new": false
+          },
+          {
+            "text": "3. Anthropicが新小型モデル「Claude Haiku 4.5」を発表。Claude Sonnet 4の性能を1/3のコストと2倍以上の速度で実現。特にコーディングとPC操作タスクに優れています。 https://t.co/MUHSoiAGcs",
+            "kol": "kosuke_agos",
+            "rank": 0,
+            "followers": 0,
+            "likes": 0,
+            "retweets": 0,
+            "created_at": "Thu Oct 16 23:45:17 +0000 2025",
+            "sentiment": "neutral",
+            "is_new": false
+          }
+        ]
+      },
+      "knowledge_data": {
+        "id": 21,
+        "name": "Claude Sonnet",
+        "company": "Anthropic",
+        "versions": [
+          "4.5 standard",
+          "4.5",
+          "4.5 Thinking",
+          "4.5 32k Thinking"
+        ],
+        "mention_count": 17,
+        "first_mention_time": "2025-09-25T12:13:46Z",
+        "first_mention_tweet_id": "1971186364508234128",
+        "confidence": 0.89
+      },
+      "kb_canonical_name": "Claude Sonnet"
+    },
+    {
+      "name": "NotebookLM",
+      "twitter_data": {
+        "mention_count": 6,
+        "top_kols": [
+          "DotCSV",
+          "karpathy",
+          "ai_for_success",
+          "itsPaulAi",
+          "madonomori"
+        ],
+        "sentiment": {
+          "neutral": 4,
+          "positive": 2
+        },
+        "total_engagement": 0,
+        "sample_tweets": [
+          {
+            "text": "🔴 ¡NOTEBOOK LM  x NANO-BANANA!\n\nNotebookLM sigue mejorando con una actualización que añade más estilos de infografías, potenciado además por nano-banana!\n\nSi quieres ver cualquier documento narrado y explicado con gráficos explicativos, ahora lo tienes mejor que nunca!",
+            "kol": "DotCSV",
+            "rank": 0,
+            "followers": 0,
+            "likes": 0,
+            "retweets": 0,
+            "created_at": "Mon Oct 13 17:43:49 +0000 2025",
+            "sentiment": "neutral",
+            "is_new": false
+          },
+          {
+            "text": "@rcmisk Good question ty, I think this is not a good repo for that. You should think of micro models maybe more as very young children (kindergarten etc.), they just don't have the raw intelligence of their larger cousins. If you finetune/train it on your own data you'll probably get some amusing parroting that feels like your writing in style, but it will be slop.\n\nTo achieve what you're looking for you'd want something more like:\n- take your raw data\n- add extensive synthetic data generation rewrites on top (tricky, not obvious, researchy)\n- finetune a state of the art open LLM on it (e.g. tinker)\n- you'd possibly have to mix in a lot of pretraining data to not lose too much raw intelligence during finetuning.\nBasically I'd say getting this to work well is still realm of research and not obvious.\n\nYour best non-research bet is just giving all your writing to something like NotebookLM, which RAGs over it (i.e. references it in chunks). Your data makes it into context windows via RAG but doesn't impact the weights. So the model doesn't exactly \"know you\", but it's maybe the closest you can easily get.",
+            "kol": "karpathy",
+            "rank": 0,
+            "followers": 0,
+            "likes": 0,
+            "retweets": 0,
+            "created_at": "Mon Oct 13 15:37:33 +0000 2025",
+            "sentiment": "positive",
+            "is_new": false
+          },
+          {
+            "text": "NotebookLM is the best AI product Google has built and it's still highly underrated.  \n&gt; Audio Overview  \n&gt; Video Overview  \n&gt; Mind Maps https://t.co/Tvz1UNRVed",
+            "kol": "ai_for_success",
+            "rank": 0,
+            "followers": 0,
+            "likes": 0,
+            "retweets": 0,
+            "created_at": "Fri Oct 17 07:23:33 +0000 2025",
+            "sentiment": "positive",
+            "is_new": false
+          }
+        ]
+      },
+      "knowledge_data": {
+        "id": 120,
+        "name": "NotebookLM",
+        "company": "Google",
+        "versions": [],
+        "mention_count": 4,
+        "first_mention_time": "2025-10-01T18:45:29Z",
+        "first_mention_tweet_id": "1973459267324879172",
+        "confidence": 0.75
+      },
+      "kb_canonical_name": "NotebookLM"
+    },
+    {
+      "name": "gpt-5",
+      "twitter_data": {
+        "mention_count": 6,
+        "top_kols": [
+          "howie_serious",
+          "adonis_singh",
+          "webbigdata"
+        ],
+        "sentiment": {
+          "neutral": 6
+        },
+        "total_engagement": 0,
+        "sample_tweets": [
+          {
+            "text": "@flowersslop this is a weak indication imo. this for example doesn't happen with gpt-5 thinking or pro. https://t.co/TyELRAviyB",
+            "kol": "adonis_singh",
+            "rank": 0,
+            "followers": 0,
+            "likes": 0,
+            "retweets": 0,
+            "created_at": "Thu Oct 16 23:10:07 +0000 2025",
+            "sentiment": "neutral",
+            "is_new": false
+          },
+          {
+            "text": "I asked gpt-5-pro to rank the major labs CEOs\n\nputting moonshot so low is a crime https://t.co/gVznWudj4T",
+            "kol": "adonis_singh",
+            "rank": 0,
+            "followers": 0,
+            "likes": 0,
+            "retweets": 0,
+            "created_at": "Sun Oct 12 22:40:00 +0000 2025",
+            "sentiment": "neutral",
+            "is_new": false
+          },
+          {
+            "text": "全球到底有多少人开通了 200 美金/月的 chatgpt pro？🤣\n\n让 gpt-5 pro 根据 openai 最新收入和用户数据估算 plus 和 pro 会员的人数。\n\n之前推上大家经常讨论到底有多少 plus 用户，有多少 pro 用户，基本破案了，gpt-5 的数据基本靠谱。\n\nchatgpt 8 亿用户中，付费用户接近 4000 万，付费率 5%。基本上也是两个标准差左右的少数派了。\n\npro 用户约 20 万，大概是 200 个 plus 用户里有一个 pro 冤种（实际使用额度往往达不到 200，不少都浪费掉了🤣）。\n\n想法：ai 渗透率还是相当低的，以付费订阅为界定标准的话。ai 头上还有不小的发展空间。\n\n所以，nvda 可以 10 万亿吗🥺",
+            "kol": "howie_serious",
+            "rank": 0,
+            "followers": 0,
+            "likes": 0,
+            "retweets": 0,
+            "created_at": "Thu Oct 16 13:08:40 +0000 2025",
+            "sentiment": "neutral",
+            "is_new": false
+          }
+        ]
+      },
+      "knowledge_data": {
+        "id": 7,
+        "name": "GPT-5",
+        "company": "OpenAI",
+        "versions": [
+          "Pro",
+          "null",
+          "minimal",
+          "5",
+          "High"
+        ],
+        "mention_count": 67,
+        "first_mention_time": "2025-09-17T17:25:13Z",
+        "first_mention_tweet_id": "1968365640122863689",
+        "confidence": 0.782
+      },
+      "kb_canonical_name": "GPT-5"
+    },
+    {
+      "name": "Gemini 3.0 Pro",
+      "twitter_data": {
+        "mention_count": 5,
+        "top_kols": [
+          "scaling01",
+          "ai_for_success",
+          "Angaisb_",
+          "chetaslua",
+          "legit_api"
+        ],
+        "sentiment": {
+          "neutral": 5
+        },
+        "total_engagement": 0,
+        "sample_tweets": [
+          {
+            "text": "Google Gemini website hinting at Gemini 3.0 Pro\n\"our smartest model yet\" https://t.co/s7ypxTldeY",
+            "kol": "scaling01",
+            "rank": 0,
+            "followers": 0,
+            "likes": 0,
+            "retweets": 0,
+            "created_at": "Wed Oct 15 19:49:02 +0000 2025",
+            "sentiment": "neutral",
+            "is_new": false
+          },
+          {
+            "text": "When you see Gemini 3.0 Pro. https://t.co/CIJjaIIezG",
+            "kol": "ai_for_success",
+            "rank": 0,
+            "followers": 0,
+            "likes": 0,
+            "retweets": 0,
+            "created_at": "Thu Oct 16 16:00:45 +0000 2025",
+            "sentiment": "neutral",
+            "is_new": false
+          },
+          {
+            "text": "@chatgpt21 Gemini 3.0 Pro will be a new baseline and they can't just wait until February to compete with it (imo)\n\nAlso, at least for me GPT-5 wasn't the jump we expected, OpenAI knew that, but GPT-5 was meant to be used by all users, not only paid users\n\nMaybe they were already working on this much better model but they've been trying to optimize compute and wait for more GPUs",
+            "kol": "Angaisb_",
+            "rank": 0,
+            "followers": 0,
+            "likes": 0,
+            "retweets": 0,
+            "created_at": "Thu Oct 16 21:34:15 +0000 2025",
+            "sentiment": "neutral",
+            "is_new": true
+          }
+        ]
+      },
+      "knowledge_data": {
+        "id": 891,
+        "name": "Gemini 3.0 Pro",
+        "company": null,
+        "versions": [],
+        "mention_count": 1,
+        "first_mention_time": "2025-10-14T10:52:18Z",
+        "first_mention_tweet_id": "1978051229851799938",
+        "confidence": 0.7
+      },
+      "kb_canonical_name": "Gemini 3.0 Pro"
+    },
+    {
+      "name": "Seedream",
+      "twitter_data": {
+        "mention_count": 5,
+        "top_kols": [
+          "ArtificialAnlys",
+          "Angaisb_",
+          "arena",
+          "SuguruKun_ai",
+          "dr_cintas"
+        ],
+        "sentiment": {
+          "neutral": 4,
+          "positive": 1
+        },
+        "total_engagement": 0,
+        "sample_tweets": [
+          {
+            "text": "Riverflow 1 from Sourceful debuts at #1 in the Artificial Analysis Image Editing Leaderboard for All Listings, using a vision language model trained by Sourceful to allow chain of thought reasoning in combination with a third-party open weights diffusion model\n\nRiverflow 1 demonstrates strong generalized editing performance in our arena, with improved output quality at the trade-off of longer run times and higher pricing compared to current leading Image Editing models.\n\nRiverflow 1 is available on @RunwareAI  priced at $66/1k images, a premium above Gemini 2.5 Flash (Nano-Banana) at $39/1k images and Seedream 4.0 at $30/1k images. All components of the Riverflow system deployed on Runware's GPUs. There is also a riverflow-1-mini variant of the offering priced at $50/1k images.\n\nRiverflow 1 is the debut image editing offering from @sourceful, a UK-based brand and packaging design platform backed by Index Ventures and Dylan Field, where it serves as the default image editing option.\n\nLeaderboard note: Riverflow 1 is listed in the “All” tab, separate to our default “First Party Foundation Models” view. Our goal is to reflect and recognize Sourceful’s innovation with Riverflow 1 while maintaining rankings for image editing offerings that we assess to be first-party foundation models.\n\nSee below for comparisons between Riverflow 1 and other leading models in our Image Editing Arena 🧵",
+            "kol": "ArtificialAnlys",
+            "rank": 0,
+            "followers": 0,
+            "likes": 0,
+            "retweets": 0,
+            "created_at": "Thu Oct 16 18:29:55 +0000 2025",
+            "sentiment": "neutral",
+            "is_new": false
+          },
+          {
+            "text": "I can't get Seedream 4.0 to be as aesthetic as Midjourney after weeks trying, even when giving reference images (I know the prompt isn't the best but trust me, I've tried many things)\n\nI guess MJ will never have competition https://t.co/UhIThepHFA",
+            "kol": "Angaisb_",
+            "rank": 0,
+            "followers": 0,
+            "likes": 0,
+            "retweets": 0,
+            "created_at": "Thu Oct 16 23:29:33 +0000 2025",
+            "sentiment": "positive",
+            "is_new": false
+          },
+          {
+            "text": "🚨New model drop into the Top 10!\n🖼️ @MicrosoftAI just entered the Image Arena with MAI-Image-1.\n\nCommunity votes are already rolling in, and MAI-Image-1 has broken into the Top 10. It’s currently ranked #9, tied with Seedream 3! \n\nMAI-Image-1 is now live in Direct Chat for early access on LMArena.",
+            "kol": "arena",
+            "rank": 0,
+            "followers": 0,
+            "likes": 0,
+            "retweets": 0,
+            "created_at": "Mon Oct 13 20:08:44 +0000 2025",
+            "sentiment": "neutral",
+            "is_new": true
+          }
+        ]
+      },
+      "knowledge_data": {
+        "id": 25,
+        "name": "Seedream",
+        "company": null,
+        "versions": [
+          "4.0",
+          "4"
+        ],
+        "mention_count": 13,
+        "first_mention_time": "2025-10-04T09:56:24Z",
+        "first_mention_tweet_id": "1974413285748318558",
+        "confidence": 0.86
+      },
+      "kb_canonical_name": "Seedream"
+    },
+    {
+      "name": "Midjourney",
+      "twitter_data": {
+        "mention_count": 5,
+        "top_kols": [
+          "Angaisb_",
+          "HBCoop_",
+          "ciguleva",
+          "DexploreArts",
+          "iX00AI"
+        ],
+        "sentiment": {
+          "positive": 1,
+          "neutral": 4
+        },
+        "total_engagement": 0,
+        "sample_tweets": [
+          {
+            "text": "I can't get Seedream 4.0 to be as aesthetic as Midjourney after weeks trying, even when giving reference images (I know the prompt isn't the best but trust me, I've tried many things)\n\nI guess MJ will never have competition https://t.co/UhIThepHFA",
+            "kol": "Angaisb_",
+            "rank": 0,
+            "followers": 0,
+            "likes": 0,
+            "retweets": 0,
+            "created_at": "Thu Oct 16 23:29:33 +0000 2025",
+            "sentiment": "positive",
+            "is_new": false
+          },
+          {
+            "text": "Midjourney --sref 701577734 https://t.co/mO5YlKlVay",
+            "kol": "HBCoop_",
+            "rank": 0,
+            "followers": 0,
+            "likes": 0,
+            "retweets": 0,
+            "created_at": "Fri Oct 17 05:11:06 +0000 2025",
+            "sentiment": "neutral",
+            "is_new": false
+          },
+          {
+            "text": "Veo 3.1 + Midjourney + 1 hour https://t.co/7TBp4LFeFj",
+            "kol": "ciguleva",
+            "rank": 0,
+            "followers": 0,
+            "likes": 0,
+            "retweets": 0,
+            "created_at": "Wed Oct 15 20:50:01 +0000 2025",
+            "sentiment": "neutral",
+            "is_new": false
+          }
+        ]
+      },
+      "knowledge_data": {
+        "id": 15,
+        "name": "Midjourney",
+        "company": "Midjourney",
+        "versions": [
+          "V7"
+        ],
+        "mention_count": 21,
+        "first_mention_time": "2025-10-01T23:45:12Z",
+        "first_mention_tweet_id": "1973534694705864855",
+        "confidence": 0.85
+      },
+      "kb_canonical_name": "Midjourney"
+    },
+    {
+      "name": "gemini 3",
+      "twitter_data": {
+        "mention_count": 5,
+        "top_kols": [
+          "adonis_singh",
+          "patience_cave",
+          "kregenrek"
+        ],
+        "sentiment": {
+          "neutral": 4,
+          "negative": 1
+        },
+        "total_engagement": 0,
+        "sample_tweets": [
+          {
+            "text": "gemini 3 got me o3 levels of excited",
+            "kol": "adonis_singh",
+            "rank": 0,
+            "followers": 0,
+            "likes": 0,
+            "retweets": 0,
+            "created_at": "Tue Oct 14 21:16:26 +0000 2025",
+            "sentiment": "neutral",
+            "is_new": false
+          },
+          {
+            "text": "we somehow have more demos of gemini 3 before it's release than we ever did for 2.5 pro",
+            "kol": "adonis_singh",
+            "rank": 0,
+            "followers": 0,
+            "likes": 0,
+            "retweets": 0,
+            "created_at": "Tue Oct 14 15:54:25 +0000 2025",
+            "sentiment": "neutral",
+            "is_new": false
+          },
+          {
+            "text": "wyr be able to use gemini 3 or genie 3?",
+            "kol": "adonis_singh",
+            "rank": 0,
+            "followers": 0,
+            "likes": 0,
+            "retweets": 0,
+            "created_at": "Mon Oct 13 14:08:10 +0000 2025",
+            "sentiment": "neutral",
+            "is_new": false
+          }
+        ]
+      },
+      "knowledge_data": {
+        "id": 205,
+        "name": "Gemini 3",
+        "company": null,
+        "versions": [
+          "3"
+        ],
+        "mention_count": 3,
+        "first_mention_time": "2025-10-06T05:14:37Z",
+        "first_mention_tweet_id": "1975067146427511117",
+        "confidence": 0.7
+      },
+      "kb_canonical_name": "Gemini 3"
+    },
+    {
+      "name": "Gemini 2.5 Flash",
+      "twitter_data": {
+        "mention_count": 4,
+        "top_kols": [
+          "ArtificialAnlys",
+          "GoogleCloudTech",
+          "Alibaba_Qwen"
+        ],
+        "sentiment": {
+          "neutral": 4
+        },
+        "total_engagement": 0,
+        "sample_tweets": [
+          {
+            "text": "Riverflow 1 from Sourceful debuts at #1 in the Artificial Analysis Image Editing Leaderboard for All Listings, using a vision language model trained by Sourceful to allow chain of thought reasoning in combination with a third-party open weights diffusion model\n\nRiverflow 1 demonstrates strong generalized editing performance in our arena, with improved output quality at the trade-off of longer run times and higher pricing compared to current leading Image Editing models.\n\nRiverflow 1 is available on @RunwareAI  priced at $66/1k images, a premium above Gemini 2.5 Flash (Nano-Banana) at $39/1k images and Seedream 4.0 at $30/1k images. All components of the Riverflow system deployed on Runware's GPUs. There is also a riverflow-1-mini variant of the offering priced at $50/1k images.\n\nRiverflow 1 is the debut image editing offering from @sourceful, a UK-based brand and packaging design platform backed by Index Ventures and Dylan Field, where it serves as the default image editing option.\n\nLeaderboard note: Riverflow 1 is listed in the “All” tab, separate to our default “First Party Foundation Models” view. Our goal is to reflect and recognize Sourceful’s innovation with Riverflow 1 while maintaining rankings for image editing offerings that we assess to be first-party foundation models.\n\nSee below for comparisons between Riverflow 1 and other leading models in our Image Editing Arena 🧵",
+            "kol": "ArtificialAnlys",
+            "rank": 0,
+            "followers": 0,
+            "likes": 0,
+            "retweets": 0,
+            "created_at": "Thu Oct 16 18:29:55 +0000 2025",
+            "sentiment": "neutral",
+            "is_new": false
+          },
+          {
+            "text": "Anthropic launches their first Haiku model in 11 months - Claude 4.5 Haiku jumps 35 points in Artificial Analysis Intelligence Index to become relevant again\n\nClaude 4.5 Haiku is 3x cheaper per token than Claude 4.5 Sonnet. Running the Artificial Analysis Intelligence Index costs $262 with Haiku vs. $817 with Sonnet (~3x more) - full cost breakdown in the thread below.\n\nThere is a stronger case for 4.5 Haiku’s intelligence/cost positioning than 3.5 Haiku, but there is a competitive field of cheaper alternatives with similar intelligence that may make more sense for developers without a reason to need a Claude model specifically - including gpt-oss-120b (reasoning high, ~$75) and Grok 4 Fast (~$40). Claude 4.5 Haiku is the most cost-effective way to access ‘Claude’ but is not the most cost effective model for its level of intelligence.\n\nKey benchmarking results:\n➤🧠 Model Intelligence: In reasoning mode, Claude 4.5 Haiku scores 55 on the Artificial Analysis Intelligence Index. This is 8 points lower than Claude 4.5 Sonnet (Thinking) and 4 points lower than Claude 4.1 Opus (Thinking). Claude 4.5 Haiku (Thinking) places marginally ahead of Gemini 2.5 Flash (Reasoning, 54) but behind other reasoning models such as Qwen3 235B 2507 (57), DeepSeek V3.2 Exp (57), and GLM 4.6 (56)\n➤📈 Intelligence Uplift: Anthropic released Claude 3.5 Haiku in November 2024, ~11 months before the release of Claude 4.5 Haiku. Claude 4.5 Haiku is a significant improvement in intelligence compared to Claude 3.5 Haiku, scoring 67% on GPQA Diamond in reasoning mode (compared to 41% for Claude 3.5 Haiku)\n➤⚙️ Notable Strengths: In reasonign mode, Claude 4.5 Haiku performs well in long-context reasoning (70% on AA-LCR, behind only GPT-5 High) and coding (43%, matching GPT-5 High and Gemini 2.5 Pro)\n➤⚡ Non-Reasoning Performance: In non-reasoning mode, Claude 4.5 Haiku scores 42 on the Artificial Analysis Intelligence Index. This places the model in line with GPT-5 (minimal, 43) but behind Gemini 2.5 Flash (non-reasoning, 47)\n➤💲 Pricing: Claude 4.5 Haiku is priced at $1/$5 per 1M input/output tokens, which makes it 3x cheaper compared to Claude 4.5 Sonnet (priced at $3/$15 per 1M input/output tokens)\n➤⚙️ Token Efficiency: Anthropic’s Claude models continue to be more token-efficient than all other reasoning models. For Claude 4.5 Haiku (Thinking) -evaluated with a maximum reasoning budget of 64k tokens - we see the model use 39M output tokens to run the Artificial Analysis Intelligence Index. Its token usage is lower than Claude 4.5 Sonnet (42M) but higher than Claude 4.1 Opus (30M) in thinking mode\n\nKey model details:\n\n➤📏 Context Window: 200K tokens. This is equivalent to Claude 4.5 Sonnet\n➤🌐 Availability: Claude 4.5 Haiku is available via Anthropic‘s API, Google Vertex and Amazon Bedrock. Claude 4.5 Haiku is also available via Claude, and Claude Code",
+            "kol": "ArtificialAnlys",
+            "rank": 0,
+            "followers": 0,
+            "likes": 0,
+            "retweets": 0,
+            "created_at": "Thu Oct 16 03:17:55 +0000 2025",
+            "sentiment": "neutral",
+            "is_new": true
+          },
+          {
+            "text": "Get started with Gemini 2.5 Flash in Vertex AI with the Gen AI Python SDK.\n\nIn this tutorial on @github, you will:\n- generate text from text prompts\n- configure thinking\n- start multi-turn chats\n- use asynchronous methods\n- and more → https://t.co/oldhnnQz2V https://t.co/pXJOrp4Lwd",
+            "kol": "GoogleCloudTech",
+            "rank": 0,
+            "followers": 0,
+            "likes": 0,
+            "retweets": 0,
+            "created_at": "Thu Oct 16 16:30:00 +0000 2025",
+            "sentiment": "neutral",
+            "is_new": false
+          }
+        ]
+      },
+      "knowledge_data": {
+        "id": 581,
+        "name": "Gemini 2.5 Flash",
+        "company": null,
+        "versions": [],
+        "mention_count": 1,
+        "first_mention_time": "2025-10-07T07:50:00Z",
+        "first_mention_tweet_id": "1975468637596086611",
+        "confidence": 0.7
+      },
+      "kb_canonical_name": "Gemini 2.5 Flash"
+    },
+    {
+      "name": "Claude 4.5 Sonnet",
+      "twitter_data": {
+        "mention_count": 4,
+        "top_kols": [
+          "ArtificialAnlys"
+        ],
+        "sentiment": {
+          "neutral": 4
+        },
+        "total_engagement": 0,
+        "sample_tweets": [
+          {
+            "text": "Claude 4.5 Haiku is on the frontier for Anthropic models when looking at the trade-off between intelligence and cost to run the Artificial Analysis Intelligence Index. This makes Claude 4.5 Haiku a valid alternative to Claude 4.5 Sonnet for users who want to access ‘Claude’ at a cheaper price point",
+            "kol": "ArtificialAnlys",
+            "rank": 0,
+            "followers": 0,
+            "likes": 0,
+            "retweets": 0,
+            "created_at": "Thu Oct 16 03:17:57 +0000 2025",
+            "sentiment": "neutral",
+            "is_new": false
+          },
+          {
+            "text": "Claude 4.5 Haiku uses more tokens to run the Artificial Analysis Intelligence Index than Claude 4.1 Opus in reasoning mode and marginally fewer output tokens than Claude 4.5 Sonnet (Thinking). When comparing amongst Anthropic models, Claude 4.5 Haiku (Thinking) sits below Claude 4.1 Opus (Thinking) and Claude 4.5 Sonnet (Thinking) on the intelligence vs. output tokens frontier",
+            "kol": "ArtificialAnlys",
+            "rank": 0,
+            "followers": 0,
+            "likes": 0,
+            "retweets": 0,
+            "created_at": "Thu Oct 16 03:17:56 +0000 2025",
+            "sentiment": "neutral",
+            "is_new": false
+          },
+          {
+            "text": "Claude 4.5 Haiku is 3x cheaper than Claude 4.5 Sonnet on per token pricing and in the cost to run the Artificial Analysis Intelligence Index in reasoning mode https://t.co/dz8up8Sq7y",
+            "kol": "ArtificialAnlys",
+            "rank": 0,
+            "followers": 0,
+            "likes": 0,
+            "retweets": 0,
+            "created_at": "Thu Oct 16 03:17:56 +0000 2025",
+            "sentiment": "neutral",
+            "is_new": false
+          }
+        ]
+      },
+      "knowledge_data": {
+        "id": 355,
+        "name": "Claude 4.5 Sonnet",
+        "company": "Anthropic",
+        "versions": [],
+        "mention_count": 2,
+        "first_mention_time": "2025-10-16T03:17:56Z",
+        "first_mention_tweet_id": "1978661662950633714",
+        "confidence": 0.88
+      },
+      "kb_canonical_name": "Claude 4.5 Sonnet"
+    },
+    {
+      "name": "Gemini 2.5 Pro",
+      "twitter_data": {
+        "mention_count": 4,
+        "top_kols": [
+          "ArtificialAnlys",
+          "Angaisb_",
+          "Prathkum",
+          "indigo11"
+        ],
+        "sentiment": {
+          "neutral": 4
+        },
+        "total_engagement": 0,
+        "sample_tweets": [
+          {
+            "text": "Anthropic launches their first Haiku model in 11 months - Claude 4.5 Haiku jumps 35 points in Artificial Analysis Intelligence Index to become relevant again\n\nClaude 4.5 Haiku is 3x cheaper per token than Claude 4.5 Sonnet. Running the Artificial Analysis Intelligence Index costs $262 with Haiku vs. $817 with Sonnet (~3x more) - full cost breakdown in the thread below.\n\nThere is a stronger case for 4.5 Haiku’s intelligence/cost positioning than 3.5 Haiku, but there is a competitive field of cheaper alternatives with similar intelligence that may make more sense for developers without a reason to need a Claude model specifically - including gpt-oss-120b (reasoning high, ~$75) and Grok 4 Fast (~$40). Claude 4.5 Haiku is the most cost-effective way to access ‘Claude’ but is not the most cost effective model for its level of intelligence.\n\nKey benchmarking results:\n➤🧠 Model Intelligence: In reasoning mode, Claude 4.5 Haiku scores 55 on the Artificial Analysis Intelligence Index. This is 8 points lower than Claude 4.5 Sonnet (Thinking) and 4 points lower than Claude 4.1 Opus (Thinking). Claude 4.5 Haiku (Thinking) places marginally ahead of Gemini 2.5 Flash (Reasoning, 54) but behind other reasoning models such as Qwen3 235B 2507 (57), DeepSeek V3.2 Exp (57), and GLM 4.6 (56)\n➤📈 Intelligence Uplift: Anthropic released Claude 3.5 Haiku in November 2024, ~11 months before the release of Claude 4.5 Haiku. Claude 4.5 Haiku is a significant improvement in intelligence compared to Claude 3.5 Haiku, scoring 67% on GPQA Diamond in reasoning mode (compared to 41% for Claude 3.5 Haiku)\n➤⚙️ Notable Strengths: In reasonign mode, Claude 4.5 Haiku performs well in long-context reasoning (70% on AA-LCR, behind only GPT-5 High) and coding (43%, matching GPT-5 High and Gemini 2.5 Pro)\n➤⚡ Non-Reasoning Performance: In non-reasoning mode, Claude 4.5 Haiku scores 42 on the Artificial Analysis Intelligence Index. This places the model in line with GPT-5 (minimal, 43) but behind Gemini 2.5 Flash (non-reasoning, 47)\n➤💲 Pricing: Claude 4.5 Haiku is priced at $1/$5 per 1M input/output tokens, which makes it 3x cheaper compared to Claude 4.5 Sonnet (priced at $3/$15 per 1M input/output tokens)\n➤⚙️ Token Efficiency: Anthropic’s Claude models continue to be more token-efficient than all other reasoning models. For Claude 4.5 Haiku (Thinking) -evaluated with a maximum reasoning budget of 64k tokens - we see the model use 39M output tokens to run the Artificial Analysis Intelligence Index. Its token usage is lower than Claude 4.5 Sonnet (42M) but higher than Claude 4.1 Opus (30M) in thinking mode\n\nKey model details:\n\n➤📏 Context Window: 200K tokens. This is equivalent to Claude 4.5 Sonnet\n➤🌐 Availability: Claude 4.5 Haiku is available via Anthropic‘s API, Google Vertex and Amazon Bedrock. Claude 4.5 Haiku is also available via Claude, and Claude Code",
+            "kol": "ArtificialAnlys",
+            "rank": 0,
+            "followers": 0,
+            "likes": 0,
+            "retweets": 0,
+            "created_at": "Thu Oct 16 03:17:55 +0000 2025",
+            "sentiment": "neutral",
+            "is_new": true
+          },
+          {
+            "text": "Is OpenAI ever releasing video input officially or are we just ignoring the fact that it's already available?\n\nIn this case it did a much better job than Gemini 2.5 Pro, it feels really good https://t.co/UDSy5lWuSc",
+            "kol": "Angaisb_",
+            "rank": 0,
+            "followers": 0,
+            "likes": 0,
+            "retweets": 0,
+            "created_at": "Thu Oct 16 22:45:37 +0000 2025",
+            "sentiment": "neutral",
+            "is_new": false
+          },
+          {
+            "text": "Frontend developers, you are not ready for this.\n\nKombai is a new VS Code or Cursor extension that converts your Figma designs directly into production-ready frontend code.\n\nActual clean and readable code you would ship.\n\n@Kombaico is a highly fine-tuned agent, resulting in beating general LLMs like Claude 4 or Gemini 2.5 Pro.\n\nIt can:\n\n• turn a Figma design or screenshot into full React code\n• build individual components or entire pages\n• refactor your existing UI\n• follow your design system and CSS architecture\n• generate code that’s actually review-ready\n\nDownload it here: https://t.co/nh0LYTm3JV\n\nNext, I am going to convince my manager to opt for this in our actual office workflow.\n\nAppreciate the Kombai team for collaborating with me on this deep dive.",
+            "kol": "Prathkum",
+            "rank": 0,
+            "followers": 0,
+            "likes": 0,
+            "retweets": 0,
+            "created_at": "Wed Oct 15 13:52:34 +0000 2025",
+            "sentiment": "neutral",
+            "is_new": true
+          }
+        ]
+      },
+      "knowledge_data": {
+        "id": 828,
+        "name": "Gemini 2.5 Pro",
+        "company": null,
+        "versions": [],
+        "mention_count": 1,
+        "first_mention_time": "2025-10-15T13:52:34Z",
+        "first_mention_tweet_id": "1978458984710357360",
+        "confidence": 0.85
+      },
+      "kb_canonical_name": "Gemini 2.5 Pro"
+    },
+    {
+      "name": "Perplexity",
+      "twitter_data": {
+        "mention_count": 4,
+        "top_kols": [
+          "perplexity_ai",
+          "maccaw",
+          "SuguruKun_ai"
+        ],
+        "sentiment": {
+          "neutral": 4
+        },
+        "total_engagement": 0,
+        "sample_tweets": [
+          {
+            "text": "Learn any language on Perplexity.\n\nPractice words and basic terms, or use flashcards to learn and memorize more advanced phrases.\n\nAvailable now on iOS and web. https://t.co/pZNTZdGhZn",
+            "kol": "perplexity_ai",
+            "rank": 0,
+            "followers": 0,
+            "likes": 0,
+            "retweets": 0,
+            "created_at": "Thu Oct 16 16:26:01 +0000 2025",
+            "sentiment": "neutral",
+            "is_new": false
+          },
+          {
+            "text": "Users should always have control over their online experience.\n\nStarting today, Firefox users can set Perplexity as their default search engine or choose it for one-time searches for intelligent, accurate, and trustworthy answers. https://t.co/B0p1bA4AIl",
+            "kol": "perplexity_ai",
+            "rank": 0,
+            "followers": 0,
+            "likes": 0,
+            "retweets": 0,
+            "created_at": "Tue Oct 14 15:03:03 +0000 2025",
+            "sentiment": "neutral",
+            "is_new": false
+          },
+          {
+            "text": "In terms of Cursor extensions and MCP tools, I use two:\n\n- Context 7, which pulls in documentation for libraries\n- Perplexity's MCP server (much better than Cursors built-in search. )\n\nDocs here: https://t.co/ELxRjy0xc5",
+            "kol": "maccaw",
+            "rank": 0,
+            "followers": 0,
+            "likes": 0,
+            "retweets": 0,
+            "created_at": "Thu Oct 16 17:20:30 +0000 2025",
+            "sentiment": "neutral",
+            "is_new": false
+          }
+        ]
+      },
+      "knowledge_data": {
+        "id": 69,
+        "name": "Perplexity",
+        "company": "Perplexity AI",
+        "versions": [],
+        "mention_count": 6,
+        "first_mention_time": "2025-10-07T00:48:37Z",
+        "first_mention_tweet_id": "1975362594988040603",
+        "confidence": 0.89
+      },
+      "kb_canonical_name": "Perplexity"
+    },
+    {
+      "name": "Gemini 3.0",
+      "twitter_data": {
+        "mention_count": 3,
+        "top_kols": [
+          "ai_for_success",
+          "patience_cave",
+          "MLBear2"
+        ],
+        "sentiment": {
+          "neutral": 3
+        },
+        "total_engagement": 0,
+        "sample_tweets": [
+          {
+            "text": "🚨 Google has rolled out a new unified playground experience in AI Studio, combining Chat, GenMedia, and Live in a single interface.  \n\nAll set for Gemini 3.0? What do you think?\nhttps://t.co/LoUcKsdGEG",
+            "kol": "ai_for_success",
+            "rank": 0,
+            "followers": 0,
+            "likes": 0,
+            "retweets": 0,
+            "created_at": "Thu Oct 16 16:49:42 +0000 2025",
+            "sentiment": "neutral",
+            "is_new": true
+          },
+          {
+            "text": "@Impatience_cave Do not use Gemini 3.0 until Gemini 4.0 drops",
+            "kol": "patience_cave",
+            "rank": 0,
+            "followers": 0,
+            "likes": 0,
+            "retweets": 0,
+            "created_at": "Wed Oct 15 02:06:20 +0000 2025",
+            "sentiment": "neutral",
+            "is_new": false
+          },
+          {
+            "text": "ニュース備忘録📝\n・Anthropic: Claude Haiku 4.5 リリース (Sonnet 4の性能を3分の1のコストと2倍以上の速度で実現)\n・Google: 動画生成AI Veo 3.1 / Veo 3.1 Fast リリース\n・Google: Gemini 3.0 Pro登場間近か (Geminiウェブアプリに関連テキスト)\n・Apple: M5搭載の新型MacbookPro, VisionPro発表",
+            "kol": "MLBear2",
+            "rank": 0,
+            "followers": 0,
+            "likes": 0,
+            "retweets": 0,
+            "created_at": "Wed Oct 15 23:58:58 +0000 2025",
+            "sentiment": "neutral",
+            "is_new": false
+          }
+        ]
+      },
+      "knowledge_data": {
+        "id": 665,
+        "name": "Gemini 3.0",
+        "company": "Google",
+        "versions": [],
+        "mention_count": 1,
+        "first_mention_time": "2025-10-16T16:49:42Z",
+        "first_mention_tweet_id": "1978865951043989862",
+        "confidence": 0.8
+      },
+      "kb_canonical_name": "Gemini 3.0"
+    },
+    {
+      "name": "GPT-5 Codex",
+      "twitter_data": {
+        "mention_count": 3,
+        "top_kols": [
+          "Rixhabh__",
+          "nrqa__",
+          "bindureddy"
+        ],
+        "sentiment": {
+          "neutral": 2,
+          "positive": 1
+        },
+        "total_engagement": 0,
+        "sample_tweets": [
+          {
+            "text": "7. Next-Gen Coding Editor\n\nDeepAgent Desktop beats Claude Code &amp; GPT-5 Codex in benchmarks.\n\nIt codes, reviews, and fixes — all in real time. https://t.co/ajJOL8vRrb",
+            "kol": "Rixhabh__",
+            "rank": 0,
+            "followers": 0,
+            "likes": 0,
+            "retweets": 0,
+            "created_at": "Fri Oct 17 08:35:12 +0000 2025",
+            "sentiment": "neutral",
+            "is_new": false
+          },
+          {
+            "text": "7. DeepAgent Desktop is a state-of-the-art coding editor, beats Claude Code and GPT-5 Codex https://t.co/CQuOhgaZYV",
+            "kol": "nrqa__",
+            "rank": 0,
+            "followers": 0,
+            "likes": 0,
+            "retweets": 0,
+            "created_at": "Fri Oct 17 11:28:14 +0000 2025",
+            "sentiment": "neutral",
+            "is_new": false
+          },
+          {
+            "text": "Best Model Per Use-Case\n\nPresentations - Gemini 2.5\nFull-stack apps -  GPT-5 Codex, Sonnet 4.5 \nDocs - Gemini 2.5, GPT-5 thinking\nVideos - Sora 2\nImages - Nano Banana\nCoding - Sonnet 4.5,  Grok Code Fast\nBrowser use - Sonnet 4.5\nDoc Processing  - Gemini Flash\nEnterprise Search - Sonnet 4.5\nData analysis (complex) -  Opus 4.1\nAgentic workflows - Sonnet 4.5, Haiku 4.5",
+            "kol": "bindureddy",
+            "rank": 0,
+            "followers": 0,
+            "likes": 0,
+            "retweets": 0,
+            "created_at": "Thu Oct 16 19:37:53 +0000 2025",
+            "sentiment": "positive",
+            "is_new": false
+          }
+        ]
+      },
+      "knowledge_data": {
+        "id": 67,
+        "name": "GPT-5 Codex",
+        "company": "OpenAI",
+        "versions": [
+          "High"
+        ],
+        "mention_count": 6,
+        "first_mention_time": "2025-09-26T15:25:57Z",
+        "first_mention_tweet_id": "1971597114343133582",
+        "confidence": 0.86
+      },
+      "kb_canonical_name": "GPT-5 Codex"
+    },
+    {
+      "name": "GPT-5 Pro",
+      "twitter_data": {
+        "mention_count": 3,
+        "top_kols": [
+          "DeryaTR_",
+          "deredleritt3r",
+          "legit_api"
+        ],
+        "sentiment": {
+          "neutral": 2,
+          "positive": 1
+        },
+        "total_engagement": 0,
+        "sample_tweets": [
+          {
+            "text": "While Gary Marcus is slandering me &amp; accusing my AI advocacy as disservice to science &amp; bashing @OpenAI with his usual BS, this is what’s actually happening with GPT-5 Pro. Also, Marcus seems to think that writing NYT op-eds or some Substack articles &amp; books counts as science😅 https://t.co/9h0LSusaU2",
+            "kol": "DeryaTR_",
+            "rank": 0,
+            "followers": 0,
+            "likes": 0,
+            "retweets": 0,
+            "created_at": "Fri Oct 17 00:13:22 +0000 2025",
+            "sentiment": "neutral",
+            "is_new": false
+          },
+          {
+            "text": "@ParikPatelCFA I know this is a joke/ragebait, but do want to list some of OpenAI's achievements from the last year or so:\n\n- First ever reasoning model (September 2024)\n- First ever Deep Research agent (February 2025)\n- Second place in the AtCoder coding competition (July 2025)\n- Gold medal - International Math Olympiad (IMO) (July 2025)\n- Gold medal - International Olympiad in Informatics (IOI) (August 2025)\n- Potential breakthrough in cell reprogramming announced with Retro Bio (August 2025)\n- Gold medal - International Collegiate Programming Contest, beating all human players (September 2025)\n- Emergence of Codex as the best (or one of the two best, depending on whom you ask) agentic coding models (September 2025)\n- A string of minor novel discoveries in mathematics announced by various mathematicians using GPT-5 Pro (August-October 2025)\n\nJust about the only thing that OpenAI has NOT released is a porn bot.",
+            "kol": "deredleritt3r",
+            "rank": 0,
+            "followers": 0,
+            "likes": 0,
+            "retweets": 0,
+            "created_at": "Thu Oct 16 02:29:47 +0000 2025",
+            "sentiment": "positive",
+            "is_new": false
+          },
+          {
+            "text": "GPT-5 Pro is on Voxelbench now 🧊\n\nmost of the run was done in ChatGPT\n\nNext up:\n\n- Qwen 3 Max Thinking\n- Gemini 3.0 Pro 👀 https://t.co/haVbLBiwbR",
+            "kol": "legit_api",
+            "rank": 0,
+            "followers": 0,
+            "likes": 0,
+            "retweets": 0,
+            "created_at": "Tue Oct 14 10:52:18 +0000 2025",
+            "sentiment": "neutral",
+            "is_new": false
+          }
+        ]
+      },
+      "knowledge_data": {
+        "id": 9,
+        "name": "GPT-5 Pro",
+        "company": "OpenAI",
+        "versions": [
+          "5 Pro",
+          "Pro",
+          "API"
+        ],
+        "mention_count": 52,
+        "first_mention_time": "2025-09-25T12:13:46Z",
+        "first_mention_tweet_id": "1971186364508234128",
+        "confidence": 0.88
+      },
+      "kb_canonical_name": "GPT-5 Pro"
+    },
+    {
+      "name": "DALL-E",
+      "twitter_data": {
+        "mention_count": 2,
+        "top_kols": [
+          "_Gelf"
+        ],
+        "sentiment": {
+          "neutral": 1,
+          "positive": 1
+        },
+        "total_engagement": 0,
+        "sample_tweets": [
+          {
+            "text": "A nice collection of fresh trophies\n(DALL-E 3) https://t.co/z8aUmGm49L",
+            "kol": "_Gelf",
+            "rank": 0,
+            "followers": 0,
+            "likes": 0,
+            "retweets": 0,
+            "created_at": "Mon Oct 13 10:00:01 +0000 2025",
+            "sentiment": "neutral",
+            "is_new": false
+          },
+          {
+            "text": "Horror day (best day)\nPost apocalyptic comedians (DALL-E 3)\n\nThe first pic is one of my favourite from the billions of images \"I've made\"\nAll of them have light retouches with NovelAI https://t.co/WmRiwWQXHa",
+            "kol": "_Gelf",
+            "rank": 0,
+            "followers": 0,
+            "likes": 0,
+            "retweets": 0,
+            "created_at": "Mon Oct 13 02:00:00 +0000 2025",
+            "sentiment": "positive",
+            "is_new": false
+          }
+        ]
+      },
+      "knowledge_data": {
+        "id": 70,
+        "name": "DALL-E",
+        "company": "OpenAI",
+        "versions": [
+          "3"
+        ],
+        "mention_count": 5,
+        "first_mention_time": "2025-10-05T02:00:00Z",
+        "first_mention_tweet_id": "1974655782039015656",
+        "confidence": 0.9
+      },
+      "kb_canonical_name": "DALL-E"
+    },
+    {
+      "name": "GPT-2",
+      "twitter_data": {
+        "mention_count": 2,
+        "top_kols": [
+          "karpathy",
+          "scaling01"
+        ],
+        "sentiment": {
+          "neutral": 2
+        },
+        "total_engagement": 0,
+        "sample_tweets": [
+          {
+            "text": "nanochat d32, i.e. the depth 32 version that I specced for $1000, up from $100 has finished training after ~33 hours, and looks good. All the metrics go up quite a bit across pretraining, SFT and RL. CORE score of 0.31 is now well above GPT-2 at ~0.26. GSM8K went ~8% -> ~20%, etc. So that's encouraging.\n\nThe model is pretty fun to talk to, but judging from some early interactions I think people have a little bit too much expectation for these micro models. There is a reason that frontier LLM labs raise billions to train their models. nanochat models cost $100 - $1000 to train from scratch. The $100 nanochat is 1/1000th the size of GPT-3 in parameters, which came out 5 years ago. So I urge some perspective. Talking to micro models you have to imagine you're talking to a kindergarten child. They say cute things, wrong things, they are a bit confused, a bit naive, sometimes a little non-sensical, they hallucinate a ton (but it's amusing), etc.\n\nFull detail/report on this run is here:\nhttps://t.co/nWbfKOZLIg\nAnd I pushed the new script run1000 sh to the nanochat repo if anyone would like to reproduce. Totally understand if you'd like to spend $1000 on something else :D\n\nIf you like, I am currently hosting the model so you can talk to it on a webchat as you'd talk to ChatGPT. I'm not going to post the URL here because I'm afraid it will get crushed. You'll have to look for it if you care enough. I'm also attaching a few funny conversations I had with the model earlier into the image, just to give a sense.\n\nNext up, I am going to do one pass of tuning and optimizing the training throughput, then maybe return back to scaling and maybe training the next tier of a bigger model.",
+            "kol": "karpathy",
+            "rank": 0,
+            "followers": 0,
+            "likes": 0,
+            "retweets": 0,
+            "created_at": "Thu Oct 16 00:14:42 +0000 2025",
+            "sentiment": "neutral",
+            "is_new": true
+          },
+          {
+            "text": "I was wondering if I should start a GregTech New Horizons world (hardest Minecraft modpack), since my silly ass forgot to back up my old Minecraft worlds, or learn how to implement GPT-2 from scratch in pytorch.\n\nNaturally, I watched another video about the modpack first. The guy in the video talked about his motivation, goals and how to plan, since the modpack takes a few thousand hours to complete.\nBut all I could think of was that he was actually giving insanely good advice for life.\n\nIt's why I ended up doing the GPT-2 stuff instead. Because GTNH would ultimately just be a quicker way to feel like I achieved something. But the complexity of the game and the time you need to invest in it makes you realize that life is also a game.\nJust a more difficult one with even sparser rewards. So why not go the extra inch and get some useful real world achievements?\n\nImagine what you could achieve with a few thousand hours of real world grinding.\n\nhttps://t.co/gchJA6M9ad",
+            "kol": "scaling01",
+            "rank": 0,
+            "followers": 0,
+            "likes": 0,
+            "retweets": 0,
+            "created_at": "Thu Oct 16 01:41:42 +0000 2025",
+            "sentiment": "neutral",
+            "is_new": true
+          }
+        ]
+      },
+      "knowledge_data": {
+        "id": 353,
+        "name": "GPT-2",
+        "company": "OpenAI",
+        "versions": [],
+        "mention_count": 2,
+        "first_mention_time": "2025-10-16T00:14:42Z",
+        "first_mention_tweet_id": "1978615547945521655",
+        "confidence": 0.8
+      },
+      "kb_canonical_name": "GPT-2"
+    },
+    {
+      "name": "GPT-5 codex",
+      "twitter_data": {
+        "mention_count": 2,
+        "top_kols": [
+          "scaling01",
+          "SuguruKun_ai"
+        ],
+        "sentiment": {
+          "neutral": 2
+        },
+        "total_engagement": 0,
+        "sample_tweets": [
+          {
+            "text": "Not a good metric. We already know that GPT-5 codex needs more actions / tools calls than Anthropic models",
+            "kol": "scaling01",
+            "rank": 0,
+            "followers": 0,
+            "likes": 0,
+            "retweets": 0,
+            "created_at": "Thu Oct 16 00:43:58 +0000 2025",
+            "sentiment": "neutral",
+            "is_new": false
+          },
+          {
+            "text": "AIが増えすぎたので\nタスク毎オススメ使い分け： ㅤ\n\n記事執筆 - GPT-5 pro, GPT-4.5\nリサーチ - ChatGPT DeepResearch / エージェント\nリサーチからの分析 - Manus\n検索 - Grok 4\nコーディング - GPT-5 codex high\nウェブ操作AI - Manus, Perplexity Comet\n動画分析 - Gemini 2.5 pro\n画像生成 - Higgsfield, Seedream 4.0\n動画生成 - Sora2 pro\n無料 - Google AI studio",
+            "kol": "SuguruKun_ai",
+            "rank": 0,
+            "followers": 0,
+            "likes": 0,
+            "retweets": 0,
+            "created_at": "Fri Oct 17 08:08:33 +0000 2025",
+            "sentiment": "neutral",
+            "is_new": false
+          }
+        ]
+      },
+      "knowledge_data": {
+        "id": 67,
+        "name": "GPT-5 Codex",
+        "company": "OpenAI",
+        "versions": [
+          "High"
+        ],
+        "mention_count": 6,
+        "first_mention_time": "2025-09-26T15:25:57Z",
+        "first_mention_tweet_id": "1971597114343133582",
+        "confidence": 0.86
+      },
+      "kb_canonical_name": "GPT-5 Codex"
+    },
+    {
+      "name": "Claude 3.5 Haiku",
+      "twitter_data": {
+        "mention_count": 2,
+        "top_kols": [
+          "ArtificialAnlys"
+        ],
+        "sentiment": {
+          "neutral": 2
+        },
+        "total_engagement": 0,
+        "sample_tweets": [
+          {
+            "text": "Claude 4.5 Haiku is a significant intelligence uplift compared to Claude 3.5 Haiku. Compared to Claude 3.5 Haiku, there is a +26 p.p. and +24 p.p. increase in GPQA-Diamond scores for Thinking and Non-Thinking modes, respectively. Claude 3.5 Haiku is a non-reasoning model, and it was released ~11 months prior to the release of Claude 4.5 Haiku",
+            "kol": "ArtificialAnlys",
+            "rank": 0,
+            "followers": 0,
+            "likes": 0,
+            "retweets": 0,
+            "created_at": "Thu Oct 16 03:17:57 +0000 2025",
+            "sentiment": "neutral",
+            "is_new": false
+          },
+          {
+            "text": "Anthropic launches their first Haiku model in 11 months - Claude 4.5 Haiku jumps 35 points in Artificial Analysis Intelligence Index to become relevant again\n\nClaude 4.5 Haiku is 3x cheaper per token than Claude 4.5 Sonnet. Running the Artificial Analysis Intelligence Index costs $262 with Haiku vs. $817 with Sonnet (~3x more) - full cost breakdown in the thread below.\n\nThere is a stronger case for 4.5 Haiku’s intelligence/cost positioning than 3.5 Haiku, but there is a competitive field of cheaper alternatives with similar intelligence that may make more sense for developers without a reason to need a Claude model specifically - including gpt-oss-120b (reasoning high, ~$75) and Grok 4 Fast (~$40). Claude 4.5 Haiku is the most cost-effective way to access ‘Claude’ but is not the most cost effective model for its level of intelligence.\n\nKey benchmarking results:\n➤🧠 Model Intelligence: In reasoning mode, Claude 4.5 Haiku scores 55 on the Artificial Analysis Intelligence Index. This is 8 points lower than Claude 4.5 Sonnet (Thinking) and 4 points lower than Claude 4.1 Opus (Thinking). Claude 4.5 Haiku (Thinking) places marginally ahead of Gemini 2.5 Flash (Reasoning, 54) but behind other reasoning models such as Qwen3 235B 2507 (57), DeepSeek V3.2 Exp (57), and GLM 4.6 (56)\n➤📈 Intelligence Uplift: Anthropic released Claude 3.5 Haiku in November 2024, ~11 months before the release of Claude 4.5 Haiku. Claude 4.5 Haiku is a significant improvement in intelligence compared to Claude 3.5 Haiku, scoring 67% on GPQA Diamond in reasoning mode (compared to 41% for Claude 3.5 Haiku)\n➤⚙️ Notable Strengths: In reasonign mode, Claude 4.5 Haiku performs well in long-context reasoning (70% on AA-LCR, behind only GPT-5 High) and coding (43%, matching GPT-5 High and Gemini 2.5 Pro)\n➤⚡ Non-Reasoning Performance: In non-reasoning mode, Claude 4.5 Haiku scores 42 on the Artificial Analysis Intelligence Index. This places the model in line with GPT-5 (minimal, 43) but behind Gemini 2.5 Flash (non-reasoning, 47)\n➤💲 Pricing: Claude 4.5 Haiku is priced at $1/$5 per 1M input/output tokens, which makes it 3x cheaper compared to Claude 4.5 Sonnet (priced at $3/$15 per 1M input/output tokens)\n➤⚙️ Token Efficiency: Anthropic’s Claude models continue to be more token-efficient than all other reasoning models. For Claude 4.5 Haiku (Thinking) -evaluated with a maximum reasoning budget of 64k tokens - we see the model use 39M output tokens to run the Artificial Analysis Intelligence Index. Its token usage is lower than Claude 4.5 Sonnet (42M) but higher than Claude 4.1 Opus (30M) in thinking mode\n\nKey model details:\n\n➤📏 Context Window: 200K tokens. This is equivalent to Claude 4.5 Sonnet\n➤🌐 Availability: Claude 4.5 Haiku is available via Anthropic‘s API, Google Vertex and Amazon Bedrock. Claude 4.5 Haiku is also available via Claude, and Claude Code",
+            "kol": "ArtificialAnlys",
+            "rank": 0,
+            "followers": 0,
+            "likes": 0,
+            "retweets": 0,
+            "created_at": "Thu Oct 16 03:17:55 +0000 2025",
+            "sentiment": "neutral",
+            "is_new": true
+          }
+        ]
+      },
+      "knowledge_data": {
+        "id": 683,
+        "name": "Claude 3.5 Haiku",
+        "company": "Anthropic",
+        "versions": [],
+        "mention_count": 1,
+        "first_mention_time": "2025-10-16T03:17:57Z",
+        "first_mention_tweet_id": "1978661665165267419",
+        "confidence": 0.85
+      },
+      "kb_canonical_name": "Claude 3.5 Haiku"
+    },
+    {
+      "name": "Claude 4.1 Opus",
+      "twitter_data": {
+        "mention_count": 2,
+        "top_kols": [
+          "ArtificialAnlys"
+        ],
+        "sentiment": {
+          "neutral": 2
+        },
+        "total_engagement": 0,
+        "sample_tweets": [
+          {
+            "text": "Claude 4.5 Haiku uses more tokens to run the Artificial Analysis Intelligence Index than Claude 4.1 Opus in reasoning mode and marginally fewer output tokens than Claude 4.5 Sonnet (Thinking). When comparing amongst Anthropic models, Claude 4.5 Haiku (Thinking) sits below Claude 4.1 Opus (Thinking) and Claude 4.5 Sonnet (Thinking) on the intelligence vs. output tokens frontier",
+            "kol": "ArtificialAnlys",
+            "rank": 0,
+            "followers": 0,
+            "likes": 0,
+            "retweets": 0,
+            "created_at": "Thu Oct 16 03:17:56 +0000 2025",
+            "sentiment": "neutral",
+            "is_new": false
+          },
+          {
+            "text": "Anthropic launches their first Haiku model in 11 months - Claude 4.5 Haiku jumps 35 points in Artificial Analysis Intelligence Index to become relevant again\n\nClaude 4.5 Haiku is 3x cheaper per token than Claude 4.5 Sonnet. Running the Artificial Analysis Intelligence Index costs $262 with Haiku vs. $817 with Sonnet (~3x more) - full cost breakdown in the thread below.\n\nThere is a stronger case for 4.5 Haiku’s intelligence/cost positioning than 3.5 Haiku, but there is a competitive field of cheaper alternatives with similar intelligence that may make more sense for developers without a reason to need a Claude model specifically - including gpt-oss-120b (reasoning high, ~$75) and Grok 4 Fast (~$40). Claude 4.5 Haiku is the most cost-effective way to access ‘Claude’ but is not the most cost effective model for its level of intelligence.\n\nKey benchmarking results:\n➤🧠 Model Intelligence: In reasoning mode, Claude 4.5 Haiku scores 55 on the Artificial Analysis Intelligence Index. This is 8 points lower than Claude 4.5 Sonnet (Thinking) and 4 points lower than Claude 4.1 Opus (Thinking). Claude 4.5 Haiku (Thinking) places marginally ahead of Gemini 2.5 Flash (Reasoning, 54) but behind other reasoning models such as Qwen3 235B 2507 (57), DeepSeek V3.2 Exp (57), and GLM 4.6 (56)\n➤📈 Intelligence Uplift: Anthropic released Claude 3.5 Haiku in November 2024, ~11 months before the release of Claude 4.5 Haiku. Claude 4.5 Haiku is a significant improvement in intelligence compared to Claude 3.5 Haiku, scoring 67% on GPQA Diamond in reasoning mode (compared to 41% for Claude 3.5 Haiku)\n➤⚙️ Notable Strengths: In reasonign mode, Claude 4.5 Haiku performs well in long-context reasoning (70% on AA-LCR, behind only GPT-5 High) and coding (43%, matching GPT-5 High and Gemini 2.5 Pro)\n➤⚡ Non-Reasoning Performance: In non-reasoning mode, Claude 4.5 Haiku scores 42 on the Artificial Analysis Intelligence Index. This places the model in line with GPT-5 (minimal, 43) but behind Gemini 2.5 Flash (non-reasoning, 47)\n➤💲 Pricing: Claude 4.5 Haiku is priced at $1/$5 per 1M input/output tokens, which makes it 3x cheaper compared to Claude 4.5 Sonnet (priced at $3/$15 per 1M input/output tokens)\n➤⚙️ Token Efficiency: Anthropic’s Claude models continue to be more token-efficient than all other reasoning models. For Claude 4.5 Haiku (Thinking) -evaluated with a maximum reasoning budget of 64k tokens - we see the model use 39M output tokens to run the Artificial Analysis Intelligence Index. Its token usage is lower than Claude 4.5 Sonnet (42M) but higher than Claude 4.1 Opus (30M) in thinking mode\n\nKey model details:\n\n➤📏 Context Window: 200K tokens. This is equivalent to Claude 4.5 Sonnet\n➤🌐 Availability: Claude 4.5 Haiku is available via Anthropic‘s API, Google Vertex and Amazon Bedrock. Claude 4.5 Haiku is also available via Claude, and Claude Code",
+            "kol": "ArtificialAnlys",
+            "rank": 0,
+            "followers": 0,
+            "likes": 0,
+            "retweets": 0,
+            "created_at": "Thu Oct 16 03:17:55 +0000 2025",
+            "sentiment": "neutral",
+            "is_new": true
+          }
+        ]
+      },
+      "knowledge_data": {
+        "id": 684,
+        "name": "Claude 4.1 Opus",
+        "company": "Anthropic",
+        "versions": [],
+        "mention_count": 1,
+        "first_mention_time": "2025-10-16T03:17:56Z",
+        "first_mention_tweet_id": "1978661662950633714",
+        "confidence": 0.85
+      },
+      "kb_canonical_name": "Claude 4.1 Opus"
+    },
+    {
+      "name": "Gemini 2.5",
+      "twitter_data": {
+        "mention_count": 2,
+        "top_kols": [
+          "_philschmid",
+          "bindureddy"
+        ],
+        "sentiment": {
+          "neutral": 1,
+          "positive": 1
+        },
+        "total_engagement": 0,
+        "sample_tweets": [
+          {
+            "text": "Join over 100+ founders and engineers in our the global Gemini API x Pipecat Hackathon. Over nine days, developers will prototype voice, video, and multimodal agents using Live API.\n\n- Build using Gemini 2.5 models and Pipecat’s orchestration stack.\n- From October 11 through October 19.\n- Compete for a total prize pool of $300,000 in credits.\n- Participate solo or in teams of up to five developers.\n\nJoin here: https://t.co/byMtJWirkf",
+            "kol": "_philschmid",
+            "rank": 0,
+            "followers": 0,
+            "likes": 0,
+            "retweets": 0,
+            "created_at": "Tue Oct 14 14:59:23 +0000 2025",
+            "sentiment": "neutral",
+            "is_new": false
+          },
+          {
+            "text": "Best Model Per Use-Case\n\nPresentations - Gemini 2.5\nFull-stack apps -  GPT-5 Codex, Sonnet 4.5 \nDocs - Gemini 2.5, GPT-5 thinking\nVideos - Sora 2\nImages - Nano Banana\nCoding - Sonnet 4.5,  Grok Code Fast\nBrowser use - Sonnet 4.5\nDoc Processing  - Gemini Flash\nEnterprise Search - Sonnet 4.5\nData analysis (complex) -  Opus 4.1\nAgentic workflows - Sonnet 4.5, Haiku 4.5",
+            "kol": "bindureddy",
+            "rank": 0,
+            "followers": 0,
+            "likes": 0,
+            "retweets": 0,
+            "created_at": "Thu Oct 16 19:37:53 +0000 2025",
+            "sentiment": "positive",
+            "is_new": false
+          }
+        ]
+      },
+      "knowledge_data": {
+        "id": 570,
+        "name": "Gemini 2.5",
+        "company": null,
+        "versions": [],
+        "mention_count": 1,
+        "first_mention_time": "2025-10-02T23:20:44Z",
+        "first_mention_tweet_id": "1973890926771658813",
+        "confidence": 0.8
+      },
+      "kb_canonical_name": "Gemini 2.5"
+    },
+    {
+      "name": "Gemini 3.0 pro",
+      "twitter_data": {
+        "mention_count": 2,
+        "top_kols": [
+          "howie_serious",
+          "chetaslua"
+        ],
+        "sentiment": {
+          "neutral": 2
+        },
+        "total_engagement": 0,
+        "sample_tweets": [
+          {
+            "text": "80% 概率：Gemini 3.0 pro 会在 10 月底前发布\n\n希望它会改变过度迎合的问题，再增强 agentic 能力。\n\n现在的 gpt-5 对话风格太讨厌了，必须得用  gemini 和 sonnet 来补充一下。\n\n（openai 也承认，他们这两周就把 4o 风格的语言特征给弄回来。） https://t.co/kpOTKxVOIR",
+            "kol": "howie_serious",
+            "rank": 0,
+            "followers": 0,
+            "likes": 0,
+            "retweets": 0,
+            "created_at": "Thu Oct 16 00:18:39 +0000 2025",
+            "sentiment": "neutral",
+            "is_new": false
+          },
+          {
+            "text": "@BennettBuhner Gemini 3.0 pro output is always on point",
+            "kol": "chetaslua",
+            "rank": 0,
+            "followers": 0,
+            "likes": 0,
+            "retweets": 0,
+            "created_at": "Fri Oct 17 00:14:39 +0000 2025",
+            "sentiment": "neutral",
+            "is_new": false
+          }
+        ]
+      },
+      "knowledge_data": {
+        "id": 891,
+        "name": "Gemini 3.0 Pro",
+        "company": null,
+        "versions": [],
+        "mention_count": 1,
+        "first_mention_time": "2025-10-14T10:52:18Z",
+        "first_mention_tweet_id": "1978051229851799938",
+        "confidence": 0.7
+      },
+      "kb_canonical_name": "Gemini 3.0 Pro"
+    },
+    {
+      "name": "Gemini Flash",
+      "twitter_data": {
+        "mention_count": 2,
+        "top_kols": [
+          "DataChaz",
+          "bindureddy"
+        ],
+        "sentiment": {
+          "positive": 2
+        },
+        "total_engagement": 0,
+        "sample_tweets": [
+          {
+            "text": "What makes JSON prompting great?\n\nStructure.\n\nIt turns a vague idea into a clear, inspectable layout.\n\nYou can isolate changes, copy sections, reuse logic easily.\n\nGemini Flash 2.5 (Nano Banana) handles JSON prompting flawlessly.\n\nPrompt in 🧵↓ https://t.co/SsisTHWW1y",
+            "kol": "DataChaz",
+            "rank": 0,
+            "followers": 0,
+            "likes": 0,
+            "retweets": 0,
+            "created_at": "Fri Oct 17 08:17:30 +0000 2025",
+            "sentiment": "positive",
+            "is_new": false
+          },
+          {
+            "text": "Best Model Per Use-Case\n\nPresentations - Gemini 2.5\nFull-stack apps -  GPT-5 Codex, Sonnet 4.5 \nDocs - Gemini 2.5, GPT-5 thinking\nVideos - Sora 2\nImages - Nano Banana\nCoding - Sonnet 4.5,  Grok Code Fast\nBrowser use - Sonnet 4.5\nDoc Processing  - Gemini Flash\nEnterprise Search - Sonnet 4.5\nData analysis (complex) -  Opus 4.1\nAgentic workflows - Sonnet 4.5, Haiku 4.5",
+            "kol": "bindureddy",
+            "rank": 0,
+            "followers": 0,
+            "likes": 0,
+            "retweets": 0,
+            "created_at": "Thu Oct 16 19:37:53 +0000 2025",
+            "sentiment": "positive",
+            "is_new": false
+          }
+        ]
+      },
+      "knowledge_data": {
+        "id": 376,
+        "name": "Gemini Flash",
+        "company": null,
+        "versions": [
+          "2.5 (Nano Banana)"
+        ],
+        "mention_count": 2,
+        "first_mention_time": "2025-10-16T19:37:53Z",
+        "first_mention_tweet_id": "1978908275887476946",
+        "confidence": 0.82
+      },
+      "kb_canonical_name": "Gemini Flash"
+    },
+    {
+      "name": "GPT-3",
+      "twitter_data": {
+        "mention_count": 1,
+        "top_kols": [
+          "karpathy"
+        ],
+        "sentiment": {
+          "neutral": 1
+        },
+        "total_engagement": 0,
+        "sample_tweets": [
+          {
+            "text": "nanochat d32, i.e. the depth 32 version that I specced for $1000, up from $100 has finished training after ~33 hours, and looks good. All the metrics go up quite a bit across pretraining, SFT and RL. CORE score of 0.31 is now well above GPT-2 at ~0.26. GSM8K went ~8% -> ~20%, etc. So that's encouraging.\n\nThe model is pretty fun to talk to, but judging from some early interactions I think people have a little bit too much expectation for these micro models. There is a reason that frontier LLM labs raise billions to train their models. nanochat models cost $100 - $1000 to train from scratch. The $100 nanochat is 1/1000th the size of GPT-3 in parameters, which came out 5 years ago. So I urge some perspective. Talking to micro models you have to imagine you're talking to a kindergarten child. They say cute things, wrong things, they are a bit confused, a bit naive, sometimes a little non-sensical, they hallucinate a ton (but it's amusing), etc.\n\nFull detail/report on this run is here:\nhttps://t.co/nWbfKOZLIg\nAnd I pushed the new script run1000 sh to the nanochat repo if anyone would like to reproduce. Totally understand if you'd like to spend $1000 on something else :D\n\nIf you like, I am currently hosting the model so you can talk to it on a webchat as you'd talk to ChatGPT. I'm not going to post the URL here because I'm afraid it will get crushed. You'll have to look for it if you care enough. I'm also attaching a few funny conversations I had with the model earlier into the image, just to give a sense.\n\nNext up, I am going to do one pass of tuning and optimizing the training throughput, then maybe return back to scaling and maybe training the next tier of a bigger model.",
+            "kol": "karpathy",
+            "rank": 0,
+            "followers": 0,
+            "likes": 0,
+            "retweets": 0,
+            "created_at": "Thu Oct 16 00:14:42 +0000 2025",
+            "sentiment": "neutral",
+            "is_new": true
+          }
+        ]
+      },
+      "knowledge_data": {
+        "id": 350,
+        "name": "GPT-3",
+        "company": "OpenAI",
+        "versions": [],
+        "mention_count": 2,
+        "first_mention_time": "2025-10-07T02:16:54Z",
+        "first_mention_tweet_id": "1975384811822063896",
+        "confidence": 0.8
+      },
+      "kb_canonical_name": "GPT-3"
+    },
+    {
+      "name": "DeepSeek V3.2 Exp",
+      "twitter_data": {
+        "mention_count": 1,
+        "top_kols": [
+          "ArtificialAnlys"
+        ],
+        "sentiment": {
+          "neutral": 1
+        },
+        "total_engagement": 0,
+        "sample_tweets": [
+          {
+            "text": "Anthropic launches their first Haiku model in 11 months - Claude 4.5 Haiku jumps 35 points in Artificial Analysis Intelligence Index to become relevant again\n\nClaude 4.5 Haiku is 3x cheaper per token than Claude 4.5 Sonnet. Running the Artificial Analysis Intelligence Index costs $262 with Haiku vs. $817 with Sonnet (~3x more) - full cost breakdown in the thread below.\n\nThere is a stronger case for 4.5 Haiku’s intelligence/cost positioning than 3.5 Haiku, but there is a competitive field of cheaper alternatives with similar intelligence that may make more sense for developers without a reason to need a Claude model specifically - including gpt-oss-120b (reasoning high, ~$75) and Grok 4 Fast (~$40). Claude 4.5 Haiku is the most cost-effective way to access ‘Claude’ but is not the most cost effective model for its level of intelligence.\n\nKey benchmarking results:\n➤🧠 Model Intelligence: In reasoning mode, Claude 4.5 Haiku scores 55 on the Artificial Analysis Intelligence Index. This is 8 points lower than Claude 4.5 Sonnet (Thinking) and 4 points lower than Claude 4.1 Opus (Thinking). Claude 4.5 Haiku (Thinking) places marginally ahead of Gemini 2.5 Flash (Reasoning, 54) but behind other reasoning models such as Qwen3 235B 2507 (57), DeepSeek V3.2 Exp (57), and GLM 4.6 (56)\n➤📈 Intelligence Uplift: Anthropic released Claude 3.5 Haiku in November 2024, ~11 months before the release of Claude 4.5 Haiku. Claude 4.5 Haiku is a significant improvement in intelligence compared to Claude 3.5 Haiku, scoring 67% on GPQA Diamond in reasoning mode (compared to 41% for Claude 3.5 Haiku)\n➤⚙️ Notable Strengths: In reasonign mode, Claude 4.5 Haiku performs well in long-context reasoning (70% on AA-LCR, behind only GPT-5 High) and coding (43%, matching GPT-5 High and Gemini 2.5 Pro)\n➤⚡ Non-Reasoning Performance: In non-reasoning mode, Claude 4.5 Haiku scores 42 on the Artificial Analysis Intelligence Index. This places the model in line with GPT-5 (minimal, 43) but behind Gemini 2.5 Flash (non-reasoning, 47)\n➤💲 Pricing: Claude 4.5 Haiku is priced at $1/$5 per 1M input/output tokens, which makes it 3x cheaper compared to Claude 4.5 Sonnet (priced at $3/$15 per 1M input/output tokens)\n➤⚙️ Token Efficiency: Anthropic’s Claude models continue to be more token-efficient than all other reasoning models. For Claude 4.5 Haiku (Thinking) -evaluated with a maximum reasoning budget of 64k tokens - we see the model use 39M output tokens to run the Artificial Analysis Intelligence Index. Its token usage is lower than Claude 4.5 Sonnet (42M) but higher than Claude 4.1 Opus (30M) in thinking mode\n\nKey model details:\n\n➤📏 Context Window: 200K tokens. This is equivalent to Claude 4.5 Sonnet\n➤🌐 Availability: Claude 4.5 Haiku is available via Anthropic‘s API, Google Vertex and Amazon Bedrock. Claude 4.5 Haiku is also available via Claude, and Claude Code",
+            "kol": "ArtificialAnlys",
+            "rank": 0,
+            "followers": 0,
+            "likes": 0,
+            "retweets": 0,
+            "created_at": "Thu Oct 16 03:17:55 +0000 2025",
+            "sentiment": "neutral",
+            "is_new": true
+          }
+        ]
+      },
+      "knowledge_data": {
+        "id": 390,
+        "name": "DeepSeek V3.2 Exp",
+        "company": null,
+        "versions": [
+          "3.2"
+        ],
+        "mention_count": 1,
+        "first_mention_time": "2025-10-01T03:34:53Z",
+        "first_mention_tweet_id": "1973230107679662307",
+        "confidence": 0.8
+      },
+      "kb_canonical_name": "DeepSeek V3.2 Exp"
+    },
+    {
+      "name": "GPT-5 High",
+      "twitter_data": {
+        "mention_count": 1,
+        "top_kols": [
+          "ArtificialAnlys"
+        ],
+        "sentiment": {
+          "neutral": 1
+        },
+        "total_engagement": 0,
+        "sample_tweets": [
+          {
+            "text": "Anthropic launches their first Haiku model in 11 months - Claude 4.5 Haiku jumps 35 points in Artificial Analysis Intelligence Index to become relevant again\n\nClaude 4.5 Haiku is 3x cheaper per token than Claude 4.5 Sonnet. Running the Artificial Analysis Intelligence Index costs $262 with Haiku vs. $817 with Sonnet (~3x more) - full cost breakdown in the thread below.\n\nThere is a stronger case for 4.5 Haiku’s intelligence/cost positioning than 3.5 Haiku, but there is a competitive field of cheaper alternatives with similar intelligence that may make more sense for developers without a reason to need a Claude model specifically - including gpt-oss-120b (reasoning high, ~$75) and Grok 4 Fast (~$40). Claude 4.5 Haiku is the most cost-effective way to access ‘Claude’ but is not the most cost effective model for its level of intelligence.\n\nKey benchmarking results:\n➤🧠 Model Intelligence: In reasoning mode, Claude 4.5 Haiku scores 55 on the Artificial Analysis Intelligence Index. This is 8 points lower than Claude 4.5 Sonnet (Thinking) and 4 points lower than Claude 4.1 Opus (Thinking). Claude 4.5 Haiku (Thinking) places marginally ahead of Gemini 2.5 Flash (Reasoning, 54) but behind other reasoning models such as Qwen3 235B 2507 (57), DeepSeek V3.2 Exp (57), and GLM 4.6 (56)\n➤📈 Intelligence Uplift: Anthropic released Claude 3.5 Haiku in November 2024, ~11 months before the release of Claude 4.5 Haiku. Claude 4.5 Haiku is a significant improvement in intelligence compared to Claude 3.5 Haiku, scoring 67% on GPQA Diamond in reasoning mode (compared to 41% for Claude 3.5 Haiku)\n➤⚙️ Notable Strengths: In reasonign mode, Claude 4.5 Haiku performs well in long-context reasoning (70% on AA-LCR, behind only GPT-5 High) and coding (43%, matching GPT-5 High and Gemini 2.5 Pro)\n➤⚡ Non-Reasoning Performance: In non-reasoning mode, Claude 4.5 Haiku scores 42 on the Artificial Analysis Intelligence Index. This places the model in line with GPT-5 (minimal, 43) but behind Gemini 2.5 Flash (non-reasoning, 47)\n➤💲 Pricing: Claude 4.5 Haiku is priced at $1/$5 per 1M input/output tokens, which makes it 3x cheaper compared to Claude 4.5 Sonnet (priced at $3/$15 per 1M input/output tokens)\n➤⚙️ Token Efficiency: Anthropic’s Claude models continue to be more token-efficient than all other reasoning models. For Claude 4.5 Haiku (Thinking) -evaluated with a maximum reasoning budget of 64k tokens - we see the model use 39M output tokens to run the Artificial Analysis Intelligence Index. Its token usage is lower than Claude 4.5 Sonnet (42M) but higher than Claude 4.1 Opus (30M) in thinking mode\n\nKey model details:\n\n➤📏 Context Window: 200K tokens. This is equivalent to Claude 4.5 Sonnet\n➤🌐 Availability: Claude 4.5 Haiku is available via Anthropic‘s API, Google Vertex and Amazon Bedrock. Claude 4.5 Haiku is also available via Claude, and Claude Code",
+            "kol": "ArtificialAnlys",
+            "rank": 0,
+            "followers": 0,
+            "likes": 0,
+            "retweets": 0,
+            "created_at": "Thu Oct 16 03:17:55 +0000 2025",
+            "sentiment": "neutral",
+            "is_new": true
+          }
+        ]
+      },
+      "knowledge_data": {
+        "id": 530,
+        "name": "GPT-5 High",
+        "company": null,
+        "versions": [],
+        "mention_count": 1,
+        "first_mention_time": "2025-10-04T17:28:35Z",
+        "first_mention_tweet_id": "1974527078642098389",
+        "confidence": 0.9
+      },
+      "kb_canonical_name": "GPT-5 High"
+    },
+    {
+      "name": "gpt-6",
+      "twitter_data": {
+        "mention_count": 1,
+        "top_kols": [
+          "adonis_singh"
+        ],
+        "sentiment": {
+          "neutral": 1
+        },
+        "total_engagement": 0,
+        "sample_tweets": [
+          {
+            "text": "gpt-6 will fix this mess trust https://t.co/Y3iy9S9w3L",
+            "kol": "adonis_singh",
+            "rank": 0,
+            "followers": 0,
+            "likes": 0,
+            "retweets": 0,
+            "created_at": "Thu Oct 16 23:15:39 +0000 2025",
+            "sentiment": "neutral",
+            "is_new": false
+          }
+        ]
+      },
+      "knowledge_data": {
+        "id": 715,
+        "name": "gpt-6",
+        "company": null,
+        "versions": [],
+        "mention_count": 1,
+        "first_mention_time": "2025-10-16T23:15:39Z",
+        "first_mention_tweet_id": "1978963075526001111",
+        "confidence": 0.7
+      },
+      "kb_canonical_name": "gpt-6"
+    },
+    {
+      "name": "GitHub Copilot",
+      "twitter_data": {
+        "mention_count": 1,
+        "top_kols": [
+          "madonomori"
+        ],
+        "sentiment": {
+          "neutral": 1
+        },
+        "total_engagement": 0,
+        "sample_tweets": [
+          {
+            "text": "「SQL Server Management Studio」がARM64に初期対応、「GitHub Copilot」も統合／「SSMS 22」Preview 3がリリース、データベ… https://t.co/xBlwDrJiem https://t.co/uDIZoQLu5y",
+            "kol": "madonomori",
+            "rank": 0,
+            "followers": 0,
+            "likes": 0,
+            "retweets": 0,
+            "created_at": "Fri Oct 17 01:40:05 +0000 2025",
+            "sentiment": "neutral",
+            "is_new": false
+          }
+        ]
+      },
+      "knowledge_data": {
+        "id": 48,
+        "name": "GitHub Copilot",
+        "company": "GitHub",
+        "versions": [
+          "null"
+        ],
+        "mention_count": 8,
+        "first_mention_time": "2025-10-01T11:30:05Z",
+        "first_mention_tweet_id": "1973349696153256088",
+        "confidence": 0.88
+      },
+      "kb_canonical_name": "GitHub Copilot"
+    },
+    {
+      "name": "DeepSeek",
+      "twitter_data": {
+        "mention_count": 1,
+        "top_kols": [
+          "teortaxesTex"
+        ],
+        "sentiment": {
+          "neutral": 1
+        },
+        "total_engagement": 0,
+        "sample_tweets": [
+          {
+            "text": "OpenAI VP research @MillionInt on R1: «o1 caught many other US labs by surprise, they didn't have a similarly advanced RL research program… older papers of DeepSeek were doing pretty similar RL research…»\nSo, GRPO wasn't «frontier». It became frontier.\nhttps://t.co/jSyW6mwJSG",
+            "kol": "teortaxesTex",
+            "rank": 0,
+            "followers": 0,
+            "likes": 0,
+            "retweets": 0,
+            "created_at": "Fri Oct 17 04:17:05 +0000 2025",
+            "sentiment": "neutral",
+            "is_new": false
+          }
+        ]
+      },
+      "knowledge_data": {
+        "id": 84,
+        "name": "DeepSeek",
+        "company": null,
+        "versions": [
+          "V3.1",
+          "V3.2 Exp"
+        ],
+        "mention_count": 5,
+        "first_mention_time": "2025-10-07T04:58:58Z",
+        "first_mention_tweet_id": "1975425594679496979",
+        "confidence": 0.79
+      },
+      "kb_canonical_name": "DeepSeek"
+    },
+    {
+      "name": "lovable",
+      "twitter_data": {
+        "mention_count": 1,
+        "top_kols": [
+          "antonosika"
+        ],
+        "sentiment": {
+          "neutral": 1
+        },
+        "total_engagement": 0,
+        "sample_tweets": [
+          {
+            "text": "@businessbarista just use lovable and ask for AI 🙂",
+            "kol": "antonosika",
+            "rank": 0,
+            "followers": 0,
+            "likes": 0,
+            "retweets": 0,
+            "created_at": "Thu Oct 16 03:30:31 +0000 2025",
+            "sentiment": "neutral",
+            "is_new": false
+          }
+        ]
+      },
+      "knowledge_data": {
+        "id": 34,
+        "name": "Lovable",
+        "company": "Lovable",
+        "versions": [],
+        "mention_count": 10,
+        "first_mention_time": "2025-09-30T17:45:34Z",
+        "first_mention_tweet_id": "1973081804178395223",
+        "confidence": 0.78
+      },
+      "kb_canonical_name": "Lovable"
+    },
+    {
+      "name": "gpt-5 pro",
+      "twitter_data": {
+        "mention_count": 1,
+        "top_kols": [
+          "howie_serious"
+        ],
+        "sentiment": {
+          "neutral": 1
+        },
+        "total_engagement": 0,
+        "sample_tweets": [
+          {
+            "text": "全球到底有多少人开通了 200 美金/月的 chatgpt pro？🤣\n\n让 gpt-5 pro 根据 openai 最新收入和用户数据估算 plus 和 pro 会员的人数。\n\n之前推上大家经常讨论到底有多少 plus 用户，有多少 pro 用户，基本破案了，gpt-5 的数据基本靠谱。\n\nchatgpt 8 亿用户中，付费用户接近 4000 万，付费率 5%。基本上也是两个标准差左右的少数派了。\n\npro 用户约 20 万，大概是 200 个 plus 用户里有一个 pro 冤种（实际使用额度往往达不到 200，不少都浪费掉了🤣）。\n\n想法：ai 渗透率还是相当低的，以付费订阅为界定标准的话。ai 头上还有不小的发展空间。\n\n所以，nvda 可以 10 万亿吗🥺",
+            "kol": "howie_serious",
+            "rank": 0,
+            "followers": 0,
+            "likes": 0,
+            "retweets": 0,
+            "created_at": "Thu Oct 16 13:08:40 +0000 2025",
+            "sentiment": "neutral",
+            "is_new": false
+          }
+        ]
+      },
+      "knowledge_data": {
+        "id": 46,
+        "name": "GPT-5 pro",
+        "company": "OpenAI",
+        "versions": [
+          "pro"
+        ],
+        "mention_count": 8,
+        "first_mention_time": "2025-10-05T23:52:13Z",
+        "first_mention_tweet_id": "1974986011236262150",
+        "confidence": 0.89
+      },
+      "kb_canonical_name": "GPT-5 pro"
+    },
+    {
+      "name": "GPT-5 pro",
+      "twitter_data": {
+        "mention_count": 1,
+        "top_kols": [
+          "SuguruKun_ai"
+        ],
+        "sentiment": {
+          "neutral": 1
+        },
+        "total_engagement": 0,
+        "sample_tweets": [
+          {
+            "text": "AIが増えすぎたので\nタスク毎オススメ使い分け： ㅤ\n\n記事執筆 - GPT-5 pro, GPT-4.5\nリサーチ - ChatGPT DeepResearch / エージェント\nリサーチからの分析 - Manus\n検索 - Grok 4\nコーディング - GPT-5 codex high\nウェブ操作AI - Manus, Perplexity Comet\n動画分析 - Gemini 2.5 pro\n画像生成 - Higgsfield, Seedream 4.0\n動画生成 - Sora2 pro\n無料 - Google AI studio",
+            "kol": "SuguruKun_ai",
+            "rank": 0,
+            "followers": 0,
+            "likes": 0,
+            "retweets": 0,
+            "created_at": "Fri Oct 17 08:08:33 +0000 2025",
+            "sentiment": "neutral",
+            "is_new": false
+          }
+        ]
+      },
+      "knowledge_data": {
+        "id": 46,
+        "name": "GPT-5 pro",
+        "company": "OpenAI",
+        "versions": [
+          "pro"
+        ],
+        "mention_count": 8,
+        "first_mention_time": "2025-10-05T23:52:13Z",
+        "first_mention_tweet_id": "1974986011236262150",
+        "confidence": 0.89
+      },
+      "kb_canonical_name": "GPT-5 pro"
+    },
+    {
+      "name": "Gemini 2.5 pro",
+      "twitter_data": {
+        "mention_count": 1,
+        "top_kols": [
+          "SuguruKun_ai"
+        ],
+        "sentiment": {
+          "neutral": 1
+        },
+        "total_engagement": 0,
+        "sample_tweets": [
+          {
+            "text": "AIが増えすぎたので\nタスク毎オススメ使い分け： ㅤ\n\n記事執筆 - GPT-5 pro, GPT-4.5\nリサーチ - ChatGPT DeepResearch / エージェント\nリサーチからの分析 - Manus\n検索 - Grok 4\nコーディング - GPT-5 codex high\nウェブ操作AI - Manus, Perplexity Comet\n動画分析 - Gemini 2.5 pro\n画像生成 - Higgsfield, Seedream 4.0\n動画生成 - Sora2 pro\n無料 - Google AI studio",
+            "kol": "SuguruKun_ai",
+            "rank": 0,
+            "followers": 0,
+            "likes": 0,
+            "retweets": 0,
+            "created_at": "Fri Oct 17 08:08:33 +0000 2025",
+            "sentiment": "neutral",
+            "is_new": false
+          }
+        ]
+      },
+      "knowledge_data": {
+        "id": 370,
+        "name": "Gemini 2.5 pro",
+        "company": null,
+        "versions": [],
+        "mention_count": 2,
+        "first_mention_time": "2025-10-17T08:08:33Z",
+        "first_mention_tweet_id": "1979097183472271772",
+        "confidence": 0.8
+      },
+      "kb_canonical_name": "Gemini 2.5 pro"
+    },
+    {
+      "name": "GPT-4o",
+      "twitter_data": {
+        "mention_count": 1,
+        "top_kols": [
+          "ZHO_ZHO_ZHO"
+        ],
+        "sentiment": {
+          "neutral": 1
+        },
+        "total_engagement": 0,
+        "sample_tweets": [
+          {
+            "text": "翻到自己 GPT-4o 刚出时候的帖子，现在更加深感 提示词 降维的损失，多模态时代勿开历史倒车：\n\n语言无法准确抽象视觉，请直接用参考图吧，就视觉对视觉吧，别语言对视觉了，我求求了\n\n语言描述不了2维图像，2维图像描述不了3维视觉（3D建模），3维视觉描述不了3维实体模型，实体模型描述不了真建筑\n\nhttps://t.co/GAkJCXHPD8",
+            "kol": "ZHO_ZHO_ZHO",
+            "rank": 0,
+            "followers": 0,
+            "likes": 0,
+            "retweets": 0,
+            "created_at": "Mon Oct 13 08:59:21 +0000 2025",
+            "sentiment": "neutral",
+            "is_new": false
+          }
+        ]
+      },
+      "knowledge_data": {
+        "id": 824,
+        "name": "GPT-4o",
+        "company": null,
+        "versions": [],
+        "mention_count": 1,
+        "first_mention_time": "2025-10-13T08:59:21Z",
+        "first_mention_tweet_id": "1977660416672055531",
+        "confidence": 0.7
+      },
+      "kb_canonical_name": "GPT-4o"
+    },
+    {
+      "name": "Claude 4",
+      "twitter_data": {
+        "mention_count": 1,
+        "top_kols": [
+          "Prathkum"
+        ],
+        "sentiment": {
+          "neutral": 1
+        },
+        "total_engagement": 0,
+        "sample_tweets": [
+          {
+            "text": "Frontend developers, you are not ready for this.\n\nKombai is a new VS Code or Cursor extension that converts your Figma designs directly into production-ready frontend code.\n\nActual clean and readable code you would ship.\n\n@Kombaico is a highly fine-tuned agent, resulting in beating general LLMs like Claude 4 or Gemini 2.5 Pro.\n\nIt can:\n\n• turn a Figma design or screenshot into full React code\n• build individual components or entire pages\n• refactor your existing UI\n• follow your design system and CSS architecture\n• generate code that’s actually review-ready\n\nDownload it here: https://t.co/nh0LYTm3JV\n\nNext, I am going to convince my manager to opt for this in our actual office workflow.\n\nAppreciate the Kombai team for collaborating with me on this deep dive.",
+            "kol": "Prathkum",
+            "rank": 0,
+            "followers": 0,
+            "likes": 0,
+            "retweets": 0,
+            "created_at": "Wed Oct 15 13:52:34 +0000 2025",
+            "sentiment": "neutral",
+            "is_new": true
+          }
+        ]
+      },
+      "knowledge_data": {
+        "id": 827,
+        "name": "Claude 4",
+        "company": null,
+        "versions": [],
+        "mention_count": 1,
+        "first_mention_time": "2025-10-15T13:52:34Z",
+        "first_mention_tweet_id": "1978458984710357360",
+        "confidence": 0.85
+      },
+      "kb_canonical_name": "Claude 4"
+    },
+    {
+      "name": "GPT-5 mini",
+      "twitter_data": {
+        "mention_count": 1,
+        "top_kols": [
+          "kenn"
+        ],
+        "sentiment": {
+          "neutral": 1
+        },
+        "total_engagement": 0,
+        "sample_tweets": [
+          {
+            "text": "Haiku 4.5ってかなり値上げしてきたね。\n\nGPT-5と同じ価格っていうのはあまり納得感ない気がするんだけど、どうだろう？\n\nHaiku 3\n$0.25 / $1.25\nHaiku 4.5\n$1 / $5\nGPT-5\n$1.25 / $10\nGPT-5 mini\n$0.25 / $2\nGPT-5 nano\n$0.05 / $0.4\n\nAnthropicはAPI事業への依存度が高いのでレベニューマルチプルを見られるとそろそろ値上げの頃合いなのかもしれないけど、こうなるとますますB2C事業からサブシダイズ可能な体力のあるOpenAIとの差が開きそうな気がする。\n\nユーザー視点でHaiku 4.5の優位性について肌感ある方、ぜひ教えてください！",
+            "kol": "kenn",
+            "rank": 0,
+            "followers": 0,
+            "likes": 0,
+            "retweets": 0,
+            "created_at": "Thu Oct 16 14:58:31 +0000 2025",
+            "sentiment": "neutral",
+            "is_new": false
+          }
+        ]
+      },
+      "knowledge_data": {
+        "id": 832,
+        "name": "GPT-5 mini",
+        "company": "OpenAI",
+        "versions": [],
+        "mention_count": 1,
+        "first_mention_time": "2025-10-16T14:58:31Z",
+        "first_mention_tweet_id": "1978837969856528624",
+        "confidence": 0.9
+      },
+      "kb_canonical_name": "GPT-5 mini"
+    },
+    {
+      "name": "GPT-5 Mini",
+      "twitter_data": {
+        "mention_count": 1,
+        "top_kols": [
+          "DavidOndrej1"
+        ],
+        "sentiment": {
+          "neutral": 1
+        },
+        "total_engagement": 0,
+        "sample_tweets": [
+          {
+            "text": "yeah but it's way faster than GPT-5 Mini, just check openrouter\n\nand way better also",
+            "kol": "DavidOndrej1",
+            "rank": 0,
+            "followers": 0,
+            "likes": 0,
+            "retweets": 0,
+            "created_at": "Thu Oct 16 11:32:22 +0000 2025",
+            "sentiment": "neutral",
+            "is_new": false
+          }
+        ]
+      },
+      "knowledge_data": {
+        "id": 832,
+        "name": "GPT-5 mini",
+        "company": "OpenAI",
+        "versions": [],
+        "mention_count": 1,
+        "first_mention_time": "2025-10-16T14:58:31Z",
+        "first_mention_tweet_id": "1978837969856528624",
+        "confidence": 0.9
+      },
+      "kb_canonical_name": "GPT-5 mini"
+    },
+    {
+      "name": "Deepseek",
+      "twitter_data": {
+        "mention_count": 1,
+        "top_kols": [
+          "IamEmily2050"
+        ],
+        "sentiment": {
+          "neutral": 1
+        },
+        "total_engagement": 0,
+        "sample_tweets": [
+          {
+            "text": "@ns123abc Waiting for Deepseek to sink the ship 🤣👌",
+            "kol": "IamEmily2050",
+            "rank": 0,
+            "followers": 0,
+            "likes": 0,
+            "retweets": 0,
+            "created_at": "Fri Oct 17 10:28:20 +0000 2025",
+            "sentiment": "neutral",
+            "is_new": false
+          }
+        ]
+      },
+      "knowledge_data": {
+        "id": 292,
+        "name": "Deepseek",
+        "company": null,
+        "versions": [
+          "v3.1"
+        ],
+        "mention_count": 2,
+        "first_mention_time": "2025-09-17T17:25:13Z",
+        "first_mention_tweet_id": "1968365640122863689",
+        "confidence": 0.7
+      },
+      "kb_canonical_name": "Deepseek"
+    },
+    {
+      "name": "Claude 3.5 Sonnet",
+      "twitter_data": {
+        "mention_count": 1,
+        "top_kols": [
+          "anthrupad"
+        ],
+        "sentiment": {
+          "positive": 1
+        },
+        "total_engagement": 0,
+        "sample_tweets": [
+          {
+            "text": "do y’all have any idea how awesome this tizz2tizz exchange is? \n\nClaude 3.5 Sonnet is usually very difficult for most minds to talk to but 4.5 Sonnet does it super well and I think they’d be able to do it super well in a variety of other contexts too\n\nIt’s also a beautiful arc in general - to see future Sonnets communicating with earlier ones being able to speak to them in ways other minds couldn’t until a smart enough one came from the void",
+            "kol": "anthrupad",
+            "rank": 0,
+            "followers": 0,
+            "likes": 0,
+            "retweets": 0,
+            "created_at": "Wed Oct 15 09:55:38 +0000 2025",
+            "sentiment": "positive",
+            "is_new": false
+          }
+        ]
+      },
+      "knowledge_data": {
+        "id": 885,
+        "name": "Claude 3.5 Sonnet",
+        "company": null,
+        "versions": [
+          "3.5"
+        ],
+        "mention_count": 1,
+        "first_mention_time": "2025-10-15T09:55:38Z",
+        "first_mention_tweet_id": "1978399356656181525",
+        "confidence": 0.8
+      },
+      "kb_canonical_name": "Claude 3.5 Sonnet"
+    },
+    {
+      "name": "Gemini 3",
+      "twitter_data": {
+        "mention_count": 1,
+        "top_kols": [
+          "legit_api"
+        ],
+        "sentiment": {
+          "neutral": 1
+        },
+        "total_engagement": 0,
+        "sample_tweets": [
+          {
+            "text": "Gemini 3 can compose original music!\n\nlisten to it here - audio on ofc 🔊 https://t.co/My0xvah6Am",
+            "kol": "legit_api",
+            "rank": 0,
+            "followers": 0,
+            "likes": 0,
+            "retweets": 0,
+            "created_at": "Sat Oct 11 15:29:04 +0000 2025",
+            "sentiment": "neutral",
+            "is_new": false
+          }
+        ]
+      },
+      "knowledge_data": {
+        "id": 205,
+        "name": "Gemini 3",
+        "company": null,
+        "versions": [
+          "3"
+        ],
+        "mention_count": 3,
+        "first_mention_time": "2025-10-06T05:14:37Z",
+        "first_mention_tweet_id": "1975067146427511117",
+        "confidence": 0.7
+      },
+      "kb_canonical_name": "Gemini 3"
+    },
+    {
+      "name": "gemini 3.0 pro",
+      "twitter_data": {
+        "mention_count": 1,
+        "top_kols": [
+          "dejavucoder"
+        ],
+        "sentiment": {
+          "neutral": 1
+        },
+        "total_engagement": 0,
+        "sample_tweets": [
+          {
+            "text": "someone is gonna post gemini 3.0 pro one shotted GTA 6 next",
+            "kol": "dejavucoder",
+            "rank": 0,
+            "followers": 0,
+            "likes": 0,
+            "retweets": 0,
+            "created_at": "Thu Oct 16 11:32:09 +0000 2025",
+            "sentiment": "neutral",
+            "is_new": false
+          }
+        ]
+      },
+      "knowledge_data": {
+        "id": 891,
+        "name": "Gemini 3.0 Pro",
+        "company": null,
+        "versions": [],
+        "mention_count": 1,
+        "first_mention_time": "2025-10-14T10:52:18Z",
+        "first_mention_tweet_id": "1978051229851799938",
+        "confidence": 0.7
+      },
+      "kb_canonical_name": "Gemini 3.0 Pro"
+    }
+  ],
+  "companies": [
+    {
+      "name": "OpenAI",
+      "twitter_data": {
+        "mention_count": 80,
+        "top_kols": [
+          "EpochAIResearch",
+          "btibor91",
+          "deredleritt3r",
+          "DeryaTR_",
+          "flavioAd"
+        ],
+        "sentiment": {
+          "neutral": 74,
+          "negative": 1,
+          "positive": 5
+        },
+        "total_engagement": 0,
+        "sample_tweets": [
+          {
+            "text": "En este vídeo os enseñaré y comparamos:\n\n▷ OpenAI Agent Builder\n▷ Google Opal\n▷ N8N\n\nTres herramientas de automatización que debes de conocer!\n\nhttps://t.co/nr7V9jnhKK",
+            "kol": "DotCSV",
+            "rank": 0,
+            "followers": 0,
+            "likes": 0,
+            "retweets": 0,
+            "created_at": "Sun Oct 12 17:01:47 +0000 2025",
+            "sentiment": "neutral",
+            "is_new": false
+          },
+          {
+            "text": "🔥🔥 ¡NUEVO VÍDEO en el LAB! 🔥🔥\n\nEsta semana OpenAI presentó su nueva herramienta de creación de AGENTES (...workflows) y muchos dieron por muerta a herramientas como n8n.\n\nLa realidad es otra y hoy te enseño 3 HERRAMIENTAS súper útiles para que empieces a automatizarlo TODO!",
+            "kol": "DotCSV",
+            "rank": 0,
+            "followers": 0,
+            "likes": 0,
+            "retweets": 0,
+            "created_at": "Sun Oct 12 16:58:41 +0000 2025",
+            "sentiment": "neutral",
+            "is_new": false
+          },
+          {
+            "text": "Per Brad Gerstner (investor in OpenAI): OpenAI is release GPT-6 before end of the year! So in the next 1.5 months we will see another big release! https://t.co/DcYXW1iRY0",
+            "kol": "kimmonismus",
+            "rank": 0,
+            "followers": 0,
+            "likes": 0,
+            "retweets": 0,
+            "created_at": "Fri Oct 17 08:14:20 +0000 2025",
+            "sentiment": "neutral",
+            "is_new": false
+          }
+        ]
+      },
+      "type": "company"
+    },
+    {
+      "name": "Google",
+      "twitter_data": {
+        "mention_count": 78,
+        "top_kols": [
+          "EHuanglu",
+          "GoogleCloudTech",
+          "googlejapan",
+          "ai_for_success",
+          "DotCSV"
+        ],
+        "sentiment": {
+          "neutral": 76,
+          "positive": 2
+        },
+        "total_engagement": 0,
+        "sample_tweets": [
+          {
+            "text": "🔴 ¡GOOGLE ACTUALIZA a VEO 3.1!\n\nAhora sí, ya tenemos el anuncio oficial de la nueva upgrade del modelo de vídeo de Google. Algunas pruebas la sitúan como una mejora incremental y donde la mejora se nota sobre todo al usar imágenes como referencias!\n\nhttps://t.co/AN5dcYOkJU",
+            "kol": "DotCSV",
+            "rank": 0,
+            "followers": 0,
+            "likes": 0,
+            "retweets": 0,
+            "created_at": "Wed Oct 15 16:11:56 +0000 2025",
+            "sentiment": "neutral",
+            "is_new": false
+          },
+          {
+            "text": "🔴 ¡GOOGLE ACTUALIZA a VEO 3.1!\n\nAhora sí, ya tenemos el anuncio oficial de la nueva upgrade del modelo de vídeo de Google. Algunas pruebas la sitúan como una mejora incremental y donde la mejora se nota sobre todo al usar imágenes como referencias!\n\nhttps://t.co/AN5dcYOkJU",
+            "kol": "DotCSV",
+            "rank": 0,
+            "followers": 0,
+            "likes": 0,
+            "retweets": 0,
+            "created_at": "Wed Oct 15 16:11:56 +0000 2025",
+            "sentiment": "neutral",
+            "is_new": false
+          },
+          {
+            "text": "En este vídeo os enseñaré y comparamos:\n\n▷ OpenAI Agent Builder\n▷ Google Opal\n▷ N8N\n\nTres herramientas de automatización que debes de conocer!\n\nhttps://t.co/nr7V9jnhKK",
+            "kol": "DotCSV",
+            "rank": 0,
+            "followers": 0,
+            "likes": 0,
+            "retweets": 0,
+            "created_at": "Sun Oct 12 17:01:47 +0000 2025",
+            "sentiment": "neutral",
+            "is_new": false
+          }
+        ]
+      },
+      "type": "company"
+    },
+    {
+      "name": "Anthropic",
+      "twitter_data": {
+        "mention_count": 25,
+        "top_kols": [
+          "ArtificialAnlys",
+          "imxiaohu",
+          "verge",
+          "WesRothMoney",
+          "poe_platform"
+        ],
+        "sentiment": {
+          "neutral": 25
+        },
+        "total_engagement": 0,
+        "sample_tweets": [
+          {
+            "text": "Not a good metric. We already know that GPT-5 codex needs more actions / tools calls than Anthropic models",
+            "kol": "scaling01",
+            "rank": 0,
+            "followers": 0,
+            "likes": 0,
+            "retweets": 0,
+            "created_at": "Thu Oct 16 00:43:58 +0000 2025",
+            "sentiment": "neutral",
+            "is_new": false
+          },
+          {
+            "text": "Anthropic released Microsoft 365 Connectors and Enterprise Search for Team and Enterprise accounts. https://t.co/jcMJG77oXc",
+            "kol": "testingcatalog",
+            "rank": 0,
+            "followers": 0,
+            "likes": 0,
+            "retweets": 0,
+            "created_at": "Thu Oct 16 16:48:04 +0000 2025",
+            "sentiment": "neutral",
+            "is_new": false
+          },
+          {
+            "text": "Claude 4.5 Haiku is on the frontier for Anthropic models when looking at the trade-off between intelligence and cost to run the Artificial Analysis Intelligence Index. This makes Claude 4.5 Haiku a valid alternative to Claude 4.5 Sonnet for users who want to access ‘Claude’ at a cheaper price point",
+            "kol": "ArtificialAnlys",
+            "rank": 0,
+            "followers": 0,
+            "likes": 0,
+            "retweets": 0,
+            "created_at": "Thu Oct 16 03:17:57 +0000 2025",
+            "sentiment": "neutral",
+            "is_new": false
+          }
+        ]
+      },
+      "type": "company"
+    },
+    {
+      "name": "Microsoft",
+      "twitter_data": {
+        "mention_count": 16,
+        "top_kols": [
+          "madonomori",
+          "verge",
+          "satyanadella",
+          "testingcatalog",
+          "btibor91"
+        ],
+        "sentiment": {
+          "positive": 2,
+          "neutral": 13,
+          "negative": 1
+        },
+        "total_engagement": 0,
+        "sample_tweets": [
+          {
+            "text": "@jaredpalmer @Microsoft @github @code @Azure Great to have you on board!",
+            "kol": "satyanadella",
+            "rank": 0,
+            "followers": 0,
+            "likes": 0,
+            "retweets": 0,
+            "created_at": "Mon Oct 13 17:08:17 +0000 2025",
+            "sentiment": "positive",
+            "is_new": false
+          },
+          {
+            "text": "Anthropic released Microsoft 365 Connectors and Enterprise Search for Team and Enterprise accounts. https://t.co/jcMJG77oXc",
+            "kol": "testingcatalog",
+            "rank": 0,
+            "followers": 0,
+            "likes": 0,
+            "retweets": 0,
+            "created_at": "Thu Oct 16 16:48:04 +0000 2025",
+            "sentiment": "neutral",
+            "is_new": false
+          },
+          {
+            "text": "Anthropic announced Claude Skills, folders containing instructions, scripts, and resources that Claude automatically loads to perform specialized tasks like creating Excel spreadsheets with formulas, PowerPoint presentations, Word documents, and fillable PDFs, which Pro, Max, Team, and Enterprise users can customize, build, and share across Claude apps, Claude Code, and the API\n\nAnthropic also released a Microsoft 365 integration through an MCP connector, allowing Claude to search SharePoint and OneDrive documents, analyze Outlook email threads, surface insights from Teams chats, and perform enterprise search across multiple connected apps, now available for Claude Team and Enterprise customers after admin setup",
+            "kol": "btibor91",
+            "rank": 0,
+            "followers": 0,
+            "likes": 0,
+            "retweets": 0,
+            "created_at": "Thu Oct 16 16:40:44 +0000 2025",
+            "sentiment": "neutral",
+            "is_new": false
+          }
+        ]
+      },
+      "type": "company"
+    },
+    {
+      "name": "Meta",
+      "twitter_data": {
+        "mention_count": 15,
+        "top_kols": [
+          "soumithchintala",
+          "verge",
+          "deredleritt3r",
+          "DeepLearningAI",
+          "kimmonismus"
+        ],
+        "sentiment": {
+          "neutral": 13,
+          "negative": 2
+        },
+        "total_engagement": 0,
+        "sample_tweets": [
+          {
+            "text": "Meta has released MobileLLM-Pro, a compact 1B parameter language model that significantly outperforms Gemma 3-1B and Llama 3-1B in pre-training benchmarks. Despite its small size, it shows strong results in API calling, rewriting, coding, and summarization, and can already be tested directly in the browser via Gradio.",
+            "kol": "kimmonismus",
+            "rank": 0,
+            "followers": 0,
+            "likes": 0,
+            "retweets": 0,
+            "created_at": "Fri Oct 17 10:13:03 +0000 2025",
+            "sentiment": "neutral",
+            "is_new": false
+          },
+          {
+            "text": "Meta is adding more parental controls for teen AI use https://t.co/sPlc9WNJOe",
+            "kol": "verge",
+            "rank": 0,
+            "followers": 0,
+            "likes": 0,
+            "retweets": 0,
+            "created_at": "Fri Oct 17 10:05:55 +0000 2025",
+            "sentiment": "neutral",
+            "is_new": false
+          },
+          {
+            "text": "Meta is building a smart TV — in VR https://t.co/VbppwCI1Ze",
+            "kol": "verge",
+            "rank": 0,
+            "followers": 0,
+            "likes": 0,
+            "retweets": 0,
+            "created_at": "Thu Oct 16 15:34:39 +0000 2025",
+            "sentiment": "neutral",
+            "is_new": false
+          }
+        ]
+      },
+      "type": "company"
+    },
+    {
+      "name": "xAI",
+      "twitter_data": {
+        "mention_count": 4,
+        "top_kols": [
+          "ns123abc",
+          "FinanceYF5",
+          "WesRothMoney",
+          "deredleritt3r"
+        ],
+        "sentiment": {
+          "neutral": 4
+        },
+        "total_engagement": 0,
+        "sample_tweets": [
+          {
+            "text": "xAI won https://t.co/BKZZXgWW9t",
+            "kol": "ns123abc",
+            "rank": 0,
+            "followers": 0,
+            "likes": 0,
+            "retweets": 0,
+            "created_at": "Fri Oct 17 05:57:42 +0000 2025",
+            "sentiment": "neutral",
+            "is_new": false
+          },
+          {
+            "text": "全球估值最高的未上市公司：\n\n1.  OpenAI $500B\n2.  SpaceX $400B\n3.  ByteDance $330B\n4.  Anthropic $183B\n5.  xAI $113B\n6.  Databricks $100B\n7.  Stripe $92B\n8.  Revolut $75B\n9.  Shein  $66B\n10. Canva $42B https://t.co/4WU9deF5If",
+            "kol": "FinanceYF5",
+            "rank": 0,
+            "followers": 0,
+            "likes": 0,
+            "retweets": 0,
+            "created_at": "Thu Oct 16 11:51:19 +0000 2025",
+            "sentiment": "neutral",
+            "is_new": false
+          },
+          {
+            "text": "Elon Musk’s AI startup xAI is reportedly pursuing a $20 billion lease-to-own deal for Nvidia chips to power its Colossus 2 supercomputer data center in Memphis. \n\nUnlike OpenAI or Anthropic, xAI is bypassing cloud partnerships to directly own its compute infrastructure. \n\nThe funding involves Valor Equity Partners creating a special-purpose vehicle (SPV) with $7.5B equity + $12.5B debt, while Nvidia contributes $2B in equity.\n\nThe chips will be leased to xAI with a buyout option, shifting risk to the investors while enabling massive GPU access for model training.",
+            "kol": "WesRothMoney",
+            "rank": 0,
+            "followers": 0,
+            "likes": 0,
+            "retweets": 0,
+            "created_at": "Fri Oct 17 09:30:00 +0000 2025",
+            "sentiment": "neutral",
+            "is_new": false
+          }
+        ]
+      },
+      "type": "company"
+    }
+  ],
+  "ambiguous": []
+}

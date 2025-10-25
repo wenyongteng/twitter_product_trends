@@ -2,8 +2,8 @@
   "twitter": {
     "kol_count": 300,
     "days": 7,
-    "collector_path": "/Users/wenyongteng/twitter hot news/weekly_monitor",
-    "output_dir": "/Users/wenyongteng/vibe_coding/twitter_product_trends-20251022/data_sources"
+    "collector_path": "/Users/wenyongteng/vibe_coding/twitter_product_trends-20251022/twitter_monitor",
+    "weekly_reports_dir": "/Users/wenyongteng/vibe_coding/twitter_product_trends-20251022/weekly_reports"
   },
   "product_knowledge": {
     "project_path": "/Users/wenyongteng/vibe_coding/product_knowledge-20251022",
